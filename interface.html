@@ -2,10 +2,50 @@
 <html lang="en">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-		<title>Document</title>
+		<title>MoClo Web</title>
+		
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" />
+		<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+
+		<style>
+			#parts {
+				list-style-type:none;
+				margin:0;
+				padding:1%;
+				width:15%;
+				height:100px;
+				border:1px solid black;
+				overflow:scroll;
+			}
+
+			#parts li{
+				margin:1%;
+				padding:1%;
+				float:left;
+				width:50px;
+				height:50px;
+				text-align:center;
+				border:1px solid black;
+			}
+		</style>
+
+		<script type="text/javascript">
+
+		$(function(){
+			$("#parts").sortable();
+		})
+		</script>
+
 	</head>
 	<body>
-		Hello
+		<ul id="parts">
+			<li>P1</li>
+			<li>P2</li>
+			<li>P3</li>
+			<li>P4</li>
+			<li>P5</li>
+		</ul>
 		
 	</body>
 </html>
