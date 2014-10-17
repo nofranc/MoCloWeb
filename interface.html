@@ -1,11 +1,66 @@
+<!--
+Web Application of MoClo Planner <http://2012.igem.org/Team:Wellesley_HCI/MoClo_Planner>
+Nicole Francisco
+October 2014
+-->
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html lang="en">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-		<title>Document</title>
+		<title>MoClo Web</title>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" />
+		<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+		<style>
+			#level0, #level1, #level2{
+				border: 1px solid black;
+				text-align: center;
+				background-color: #fff;
+				position: fixed !important; 
+				bottom:0 !important;
+				top:auto !important;
+				width: 100%;
+				margin: 0;
+				left:0;
+			}
+
+			#level0 {
+				z-index:1;	
+				height: 31%;
+				height:188px;	
+			}
+
+			#level1{
+				z-index:2;
+				height:125px;
+			}
+
+			#level2{
+				z-index:3;
+				height:63px;
+			}
+		</style>
+		<script>
+			$(function(){
+				$("#level0").resizable({handles: "n", minHeight: 188, maxHeight:620});
+				//$("#level1").resizable({handles: "n", minHeight: 125, maxHeight:557});
+				//$("#level2").resizable({handles: "n", minHeight: 63, maxHeight:494});
+			});
+		</script>
 	</head>
 	<body>
-		Hello
+		<div id="level0">
+			<h3>Level 0</h3>
+		</div>
+		<!--<div id="level1">
+			<h3>Level 1</h3>
+			
+		</div>
+		<div id="level2">
+			<h3>Level 2</h3>
+		</div>-->
+		
+		
 		
 	</body>
 </html>
