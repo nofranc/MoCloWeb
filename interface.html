@@ -142,7 +142,11 @@
 						ui.sender.sortable("cancel");
 					}
 
-					dragged.parent().sortable("destroy");
+					var partsInTarget = ui.item.parent().find("li");
+
+					if(partsInTarget.length > 1){
+						ui.item.siblings().appendTo("#" + ui.sender.parent().attr("id") + " .modules");
+					}
 
 				}
 
