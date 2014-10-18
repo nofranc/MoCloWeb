@@ -9,7 +9,7 @@
 		<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
 		
 		<style>
-			#parts, li, #level1, #level2, #network, #terminatorPH, #promoterPH, #rbsPH, #cdsPH, #promoModules, #rbsModules, #cdsModules, #terminModules{
+			#parts, li, #level1, #level2, .network, #terminatorPH, #promoterPH, #rbsPH, #cdsPH, #promoModules, #rbsModules, #cdsModules, #terminModules{
 				border:1px solid black;
 				
 			}
@@ -29,7 +29,23 @@
 			}
 
 			/*Level 0*/
-				
+			#parts {
+				margin:1%;
+				padding:1%;
+				width:15%;
+				height:100px;
+				overflow:scroll;
+			}
+
+			li {
+				list-style-type: none;
+				margin:1%;
+				padding:1%;
+				float:left;
+				width:50px;
+				height:50px;
+			}
+
 			/*Level 1*/
 			#level1{
 				position:absolute;
@@ -57,7 +73,7 @@
 				top: 350px;
 			}
 
-			#network{
+			.network{
 				height: 100px;
 				padding:0;
 				width: 30%;
@@ -72,23 +88,6 @@
 				padding:0;
 			}
 
-			/*Biological Parts*/
-			#parts {
-				margin:1%;
-				padding:1%;
-				width:15%;
-				height:100px;
-				overflow:scroll;
-			}
-
-			li {
-				list-style-type: none;
-				margin:1%;
-				padding:1%;
-				float:left;
-				width:50px;
-				height:50px;
-			}
 		</style>
 
 		<script type="text/javascript">
@@ -123,32 +122,28 @@
 
 			//Level 2
 			//To do: 
-			//--> Only 1 part allowed at a time
 			//--> New network box is created once all fields of previous network box are filled
 			
 			$(".placeholder").sortable({
 				connectWith:".modules",
 				receive: function(event, ui) {
+
+					//Assigns bio part to paricular div
 					var categories = {
 						promoters: "promoterPH",
 						rbs: "rbsPH",
 						cds: "cdsPH",
 						terminators: "terminatorPH"
 					};
-
 					var dragged = ui.item;
-
-					//Only allows particular parts in particular divs
 					var parentBox = $(this).parent();
 					var partType = dragged.attr("class").split(' ')[0];
 					if( parentBox.attr("id") !== categories[partType]){
 						ui.sender.sortable("cancel");
 					}
 
-					if(parentBox.children().length > 1){
-						//return previous part to parts box and replace with current part
-					}
-					
+					dragged.parent().sortable("destroy");
+
 				}
 
 			});
@@ -169,7 +164,7 @@
 			<li class="terminators">T2</li>
 		</ul>
 
-		<!--Level 2-->
+		<!--Level 1-->
 		<div id="level1">
 			<div id="promoModules">
 				<div class="partType">P</div>
@@ -191,7 +186,7 @@
 
 		<!--Level 2-->
 		<div id="level2">
-			<div id="network">
+			<div class="network">
 				<div id="promoterPH">
 					<div class="partType">P</div>
 					<div class="placeholder"></div>
