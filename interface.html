@@ -7,45 +7,155 @@
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 		<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" />
 		<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
-
+		
 		<style>
+			#parts, li, #level2, #network, #terminatorBox, #promoterBox, #rbsBox, #cdsBox{
+				border:1px solid black;
+				
+			}
+
+			.boxContent{
+				height:90px;
+			}
+
+			li, .boxTitle{
+				text-align:center;
+			}
+
+			/*Level 0*/
+				
+			/*Level 1*/
+
+			/*Level 2*/
+			#level2 {
+				position:absolute;
+				height: 150px;
+				width: 800px;
+				margin: 1%;
+				padding: 1%;
+			}
+
+			#network{
+				height: 100px;
+				padding:0;
+				width: 30%;
+				height: 85px;
+			}
+
+			#terminatorBox, #promoterBox, #rbsBox, #cdsBox{
+				height: 75px;
+				width: 22%;
+				float: left;
+				margin:1%;
+				padding:0;
+			}
+
+			/*Biological Parts*/
 			#parts {
-				list-style-type:none;
-				margin:0;
+				margin:1%;
 				padding:1%;
 				width:15%;
 				height:100px;
-				border:1px solid black;
 				overflow:scroll;
 			}
 
-			#parts li{
+			li {
+				list-style-type: none;
 				margin:1%;
 				padding:1%;
 				float:left;
 				width:50px;
 				height:50px;
-				text-align:center;
-				border:1px solid black;
 			}
 		</style>
 
 		<script type="text/javascript">
 
 		$(function(){
-			$("#parts").sortable();
-		})
+			
+			$("#parts").sortable({
+				connectWith: ".boxContent",
+				sort: function(event, ui){
+					$("#parts").css('overflow','none');
+				},
+				receive: function(event, ui){
+					ui.item.css("margin", "1%");
+				}
+			});
+
+			//Level 2
+			//To do: Only 1 part allowed at a time
+			
+			$(".boxContent").sortable({
+				connectWith:"#parts",
+				receive: function(event, ui) {
+					var categories = {
+						promoters: "promoterBox",
+						rbs: "rbsBox",
+						cds: "cdsBox",
+						terminators: "terminatorBox"
+					};
+
+					var dragged = ui.item;
+
+					//Only allows particular parts in particular divs
+					var parentBox = $(this).parent();
+					var partType = dragged.attr("class").split(' ')[0];
+					if( parentBox.attr("id") !== categories[partType]){
+						ui.sender.sortable("cancel");
+					}
+
+					if(parentBox.children().length > 1){
+						//return previous part to parts box and replace with current part
+					}
+					
+				}
+
+			});
+			
+			$("#parts, #promoterBox, #rbsBox, #cdsBox, #terminatorBox").disableSelection();
+		});
 		</script>
 
 	</head>
 	<body>
+
+		<!--Level 0-->
 		<ul id="parts">
-			<li>P1</li>
-			<li>P2</li>
-			<li>P3</li>
-			<li>P4</li>
-			<li>P5</li>
+			<li class="terminators">T1</li>
+			<li class="promoters">P1</li>
+			<li class="rbs">R1</li>
+			<li class="cds">C1</li>
+			<li class="terminators">T2</li>
 		</ul>
+
+		<!--Level 2-->
+		<div id="level2">
+		</div>
+
+		<!--Level 2-->
+		<div id="level2">
+			<div id="network">
+				<div id="promoterBox">
+					<div class="boxTitle">P</div>
+					<div class="boxContent"></div>
+				</div>
+				<div id="rbsBox">
+					<div class="boxTitle">R</div>
+					<div class="boxContent"></div>
+				</div>
+				<div id="cdsBox">
+					<div class="boxTitle">C</div>
+					<div class="boxContent"></div>
+				</div>
+				<div id="terminatorBox">
+					<div class="boxTitle">T</div>
+					<div class="boxContent"></div>
+				</div>
+			</div>
+		</div>
+
+		
 		
 	</body>
 </html>
