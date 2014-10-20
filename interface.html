@@ -81,7 +81,7 @@
 			}
 
 			#terminatorPH, #promoterPH, #rbsPH, #cdsPH{
-				height: 75px;
+				height: 70px;
 				width: 22%;
 				float: left;
 				margin:1%;
@@ -142,10 +142,13 @@
 						ui.sender.sortable("cancel");
 					}
 
+					//Only allow one module in each placeholder in network
+					//Able to replace modules
 					var partsInTarget = ui.item.parent().find("li");
 
+					
 					if(partsInTarget.length > 1){
-						ui.item.siblings().appendTo("#" + ui.sender.parent().attr("id") + " .modules");
+						dragged.siblings().appendTo("#" + ui.sender.parent().attr("id") + " .modules");
 					}
 
 				}
