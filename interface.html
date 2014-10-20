@@ -124,31 +124,33 @@
 			//To do: 
 			//--> New network box is created once all fields of previous network box are filled
 			
+			//Assigns bio part to paricular div
+			var categories = {
+				promoters: "promoterPH",
+				rbs: "rbsPH",
+				cds: "cdsPH",
+				terminators: "terminatorPH"
+			};
+
 			$(".placeholder").sortable({
 				connectWith:".modules",
-				receive: function(event, ui) {
+				over: function(event, ui){
+					var target = $(event.target);
 
-					//Assigns bio part to paricular div
-					var categories = {
-						promoters: "promoterPH",
-						rbs: "rbsPH",
-						cds: "cdsPH",
-						terminators: "terminatorPH"
-					};
+					//Only allow one module in each placeholder in network
+					//Able to replace modules
+					var partsInTarget = target.find("li");
+
+					if(partsInTarget.length > 1){
+						partsInTarget.appendTo("#" + ui.sender.parent().attr("id") + " .modules");
+					}
+				},
+				receive: function(event, ui) {
 					var dragged = ui.item;
 					var parentBox = $(this).parent();
 					var partType = dragged.attr("class").split(' ')[0];
 					if( parentBox.attr("id") !== categories[partType]){
 						ui.sender.sortable("cancel");
-					}
-
-					//Only allow one module in each placeholder in network
-					//Able to replace modules
-					var partsInTarget = ui.item.parent().find("li");
-
-					
-					if(partsInTarget.length > 1){
-						dragged.siblings().appendTo("#" + ui.sender.parent().attr("id") + " .modules");
 					}
 
 				}
