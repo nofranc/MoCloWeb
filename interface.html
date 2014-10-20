@@ -74,10 +74,11 @@
 			}
 
 			.network{
-				height: 100px;
 				padding:0;
+				margin: 1%;
 				width: 30%;
 				height: 85px;
+				float:left;
 			}
 
 			#terminatorPH, #promoterPH, #rbsPH, #cdsPH{
@@ -131,27 +132,71 @@
 				cds: "cdsPH",
 				terminators: "terminatorPH"
 			};
-
+			
 			$(".placeholder").sortable({
 				connectWith:".modules",
 				over: function(event, ui){
+
+					//!!BUG: When trying to drag any module out of placeholder, does some weird thing where slowly moves outside of placeholder - FIXED
+					
 					var target = $(event.target);
+					var parentId = target.parent().attr("id");
+					var targetClass = target.attr("class").split(' ')[0];
+					var partsInTarget = $("#" + parentId + " ." + targetClass).find("li");
 
-					//Only allow one module in each placeholder in network
-					//Able to replace modules
-					var partsInTarget = target.find("li");
-
-					if(partsInTarget.length > 1){
-						partsInTarget.appendTo("#" + ui.sender.parent().attr("id") + " .modules");
-					}
+					
+					if(parentId == categories[ui.item.attr("class").split(' ')[0]] && (target.parent().has(ui.item).length == 0)){
+						//Only allow one module in each placeholder in network
+						//Able to replace modules
+						
+						if(partsInTarget.length > 1 ){
+							partsInTarget.appendTo("#" + ui.sender.parent().attr("id") + " .modules");
+						}
+					} 
+					
 				},
 				receive: function(event, ui) {
+
 					var dragged = ui.item;
 					var parentBox = $(this).parent();
 					var partType = dragged.attr("class").split(' ')[0];
+
+					//Only allowed to drop corrent module types into proper placeholders
 					if( parentBox.attr("id") !== categories[partType]){
 						ui.sender.sortable("cancel");
 					}
+
+					
+					var filled = parentBox.parent().find("li").length;
+					var networks = $("#level2").children().length;
+
+					
+					if((filled/networks) == 4){
+						var $level2 = $("#level2");
+						var $network = $("<div class='network'>");
+						var $promoterPH = $("<div id='promoterPH'>");
+						var $rbsPH = $("<div id='rbsPH'>");
+						var $cdsPH = $("<div id='cdsPH'>");
+						var $terminatorPH = $("<div id='terminatorPH'>");
+
+						var phTypes = {
+							"P": $promoterPH, 
+							"R": $rbsPH, 
+							"C": $cdsPH, 
+							"T": $terminatorPH
+						};
+
+						for(var ph in phTypes){
+							phTypes[ph].append($("<div class='partType'>").append(ph));
+							phTypes[ph].append($("<div class='placeholder'>"));
+							$network.append(phTypes[ph]);
+						}
+
+						$level2.append($network);
+						//have to refresh jquery to apply to new elements
+						
+					}
+
 
 				}
 
