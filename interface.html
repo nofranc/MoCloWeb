@@ -42,9 +42,42 @@ October 2014
 		</style>
 		<script>
 			$(function(){
-				$("#level0").resizable({handles: "n", minHeight: 188, maxHeight:620});
-				//$("#level1").resizable({handles: "n", minHeight: 125, maxHeight:557});
-				//$("#level2").resizable({handles: "n", minHeight: 63, maxHeight:494});
+				//use % by creating function to calculate depending on different screen resolutions
+				//current screen: 2560 x 1600, 227 pixels per inch
+				calculateMinHeight = function(i){
+					switch(i){
+						case 0:
+							return screen.height*0.235;
+							break;
+						case 1:
+							return screen.height*0.15625
+							break;
+						case 2:
+							return screen.height*0.07875
+							break;
+
+					}
+					
+				};
+
+				calculateMaxHeight = function(i){
+					switch(i){
+						case 0:
+							return screen.height*0.725							
+							break;
+						case 1:
+							return screen.height*0.65
+							break;
+						case 2:
+							return screen.height*0.575
+							break;
+
+					}
+					
+				};
+				$("#level0").resizable({handles: "n", minHeight: calculateMinHeight(0),  maxHeight: calculateMaxHeight(0)});
+				$("#level1").resizable({handles: "n", minHeight: calculateMinHeight(1), maxHeight:calculateMaxHeight(1)});
+				$("#level2").resizable({handles: "n", minHeight: calculateMinHeight(2), maxHeight:calculateMaxHeight(2)});
 			});
 		</script>
 	</head>
@@ -52,13 +85,13 @@ October 2014
 		<div id="level0">
 			<h3>Level 0</h3>
 		</div>
-		<!--<div id="level1">
+		<div id="level1">
 			<h3>Level 1</h3>
 			
 		</div>
 		<div id="level2">
 			<h3>Level 2</h3>
-		</div>-->
+		</div>
 		
 		
 		
