@@ -1,3267 +1,3267 @@
 [
     {
-        "Category": "inducible", 
         "Id": "BBa_I0500", 
-        "Name": "Inducible pBad/araC promoter"
+        "Category": "inducible", 
+        "Common Name": "Inducible pBad/araC promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I13453", 
-        "Name": "Pbad promoter"
+        "Category": "inducible", 
+        "Common Name": "Pbad promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K100000", 
-        "Name": "Natural Xylose Regulated Bi-Directional Operator"
+        "Category": "inducible", 
+        "Common Name": "Natural Xylose Regulated Bi-Directional Operator"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K100001", 
-        "Name": "Edited Xylose Regulated Bi-Directional Operator 1"
+        "Category": "inducible", 
+        "Common Name": "Edited Xylose Regulated Bi-Directional Operator 1"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K100002", 
-        "Name": " Edited Xylose Regulated Bi-Directional Operator 2 "
+        "Category": "inducible", 
+        "Common Name": " Edited Xylose Regulated Bi-Directional Operator 2 "
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K118011", 
-        "Name": "PcstA (glucose-repressible promoter)"
+        "Category": "inducible", 
+        "Common Name": "PcstA (glucose-repressible promoter)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K135000", 
-        "Name": "pCpxR (CpxR responsive promoter)"
+        "Category": "inducible", 
+        "Common Name": "pCpxR (CpxR responsive promoter)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K206000", 
-        "Name": "pCpxR (CpxR responsive promoter)"
+        "Category": "inducible", 
+        "Common Name": "pCpxR (CpxR responsive promoter)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K206001", 
-        "Name": "pCpxR (CpxR responsive promoter)"
+        "Category": "inducible", 
+        "Common Name": "pCpxR (CpxR responsive promoter)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K266000", 
-        "Name": "PAI+LasR -> LuxI (AI)"
+        "Category": "inducible", 
+        "Common Name": "PAI+LasR -> LuxI (AI)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K266005", 
-        "Name": "PAI+LasR -> LasI & AI+LuxR --| LasI"
+        "Category": "inducible", 
+        "Common Name": "PAI+LasR -> LasI & AI+LuxR --| LasI"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K266006", 
-        "Name": "PAI+LasR -> LasI+GFP  &  AI+LuxR --| LasI+GFP"
+        "Category": "inducible", 
+        "Common Name": "PAI+LasR -> LasI+GFP  &  AI+LuxR --| LasI+GFP"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K266007", 
-        "Name": "Complex QS -> LuxI & LasI circuit"
+        "Category": "inducible", 
+        "Common Name": "Complex QS -> LuxI & LasI circuit"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I1051", 
-        "Name": "Lux cassette right promoter"
+        "Category": "inducible", 
+        "Common Name": "Lux cassette right promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I12006", 
-        "Name": "Modified lamdba Prm promoter (repressed by 434 cI)"
+        "Category": "inducible", 
+        "Common Name": "Modified lamdba Prm promoter (repressed by 434 cI)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I12007", 
-        "Name": "Modified lambda Prm promoter (OR-3 obliterated)"
+        "Category": "inducible", 
+        "Common Name": "Modified lambda Prm promoter (OR-3 obliterated)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I12036", 
-        "Name": "Modified lamdba Prm promoter (cooperative repression by 434 cI)"
+        "Category": "inducible", 
+        "Common Name": "Modified lamdba Prm promoter (cooperative repression by 434 cI)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I12040", 
-        "Name": "Modified lambda P(RM) promoter: -10 region from P(L) and cooperatively repressed by 434 cI"
+        "Category": "inducible", 
+        "Common Name": "Modified lambda P(RM) promoter: -10 region from P(L) and cooperatively repressed by 434 cI"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I14015", 
-        "Name": "P(Las) TetO"
+        "Category": "inducible", 
+        "Common Name": "P(Las) TetO"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I14016", 
-        "Name": "P(Las) CIO"
+        "Category": "inducible", 
+        "Common Name": "P(Las) CIO"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I14017", 
-        "Name": "P(Rhl)"
+        "Category": "inducible", 
+        "Common Name": "P(Rhl)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I721001", 
-        "Name": "Lead Promoter"
+        "Category": "inducible", 
+        "Common Name": "Lead Promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I723020", 
-        "Name": "Pu"
+        "Category": "inducible", 
+        "Common Name": "Pu"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I741018", 
-        "Name": "Right facing promoter (for xylF) controlled by xylR and CRP-cAMP"
+        "Category": "inducible", 
+        "Common Name": "Right facing promoter (for xylF) controlled by xylR and CRP-cAMP"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I746104", 
-        "Name": "P2 promoter in agr operon from S. aureus"
+        "Category": "inducible", 
+        "Common Name": "P2 promoter in agr operon from S. aureus"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I746360", 
-        "Name": "PF promoter from P2 phage"
+        "Category": "inducible", 
+        "Common Name": "PF promoter from P2 phage"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I746361", 
-        "Name": "PO promoter from P2 phage"
+        "Category": "inducible", 
+        "Common Name": "PO promoter from P2 phage"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I746362", 
-        "Name": "PP promoter from P2 phage"
+        "Category": "inducible", 
+        "Common Name": "PP promoter from P2 phage"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I746364", 
-        "Name": "Psid promoter from P4 phage"
+        "Category": "inducible", 
+        "Common Name": "Psid promoter from P4 phage"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I746365", 
-        "Name": "PLL promoter from P4 phage"
+        "Category": "inducible", 
+        "Common Name": "PLL promoter from P4 phage"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I761011", 
-        "Name": "CinR, CinL and glucose controlled promotor"
+        "Category": "inducible", 
+        "Common Name": "CinR, CinL and glucose controlled promotor"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I765001", 
-        "Name": "UV promoter"
+        "Category": "inducible", 
+        "Common Name": "UV promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I765007", 
-        "Name": "Fe and UV promoters"
+        "Category": "inducible", 
+        "Common Name": "Fe and UV promoters"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J102001", 
-        "Name": "Reverse Lux Promoter"
+        "Category": "inducible", 
+        "Common Name": "Reverse Lux Promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J13210", 
-        "Name": "pOmpR dependent POPS producer"
+        "Category": "inducible", 
+        "Common Name": "pOmpR dependent POPS producer"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J58100", 
-        "Name": "AND-type promoter synergistically activated by cI and CRP"
+        "Category": "inducible", 
+        "Common Name": "AND-type promoter synergistically activated by cI and CRP"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J61051", 
-        "Name": "AND-type promoter synergistically activated by cI and CRP"
+        "Category": "inducible", 
+        "Common Name": "AND-type promoter synergistically activated by cI and CRP"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K091107", 
-        "Name": "pLux/cI Hybrid Promoter"
+        "Category": "inducible", 
+        "Common Name": "pLux/cI Hybrid Promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K091117", 
-        "Name": "pLas promoter"
+        "Category": "inducible", 
+        "Common Name": "pLas promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K091143", 
-        "Name": "pLas/cI Hybrid Promoter"
+        "Category": "inducible", 
+        "Common Name": "pLas/cI Hybrid Promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K091146", 
-        "Name": "pLas/Lux Hybrid Promoter"
+        "Category": "inducible", 
+        "Common Name": "pLas/Lux Hybrid Promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K112118", 
-        "Name": "rrnB P1 promoter"
+        "Category": "inducible", 
+        "Common Name": "rrnB P1 promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K112320", 
-        "Name": "{< ftsAZ promoter >} in BBb format"
+        "Category": "inducible", 
+        "Common Name": "{< ftsAZ promoter >} in BBb format"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K112322", 
-        "Name": "{Pdps}  in BBb format"
+        "Category": "inducible", 
+        "Common Name": "{Pdps}  in BBb format"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K112402", 
-        "Name": "promoter for FabA gene -  Membrane Damage and Ultrasound Senstitive"
+        "Category": "inducible", 
+        "Common Name": "promoter for FabA gene -  Membrane Damage and Ultrasound Senstitive"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K112405", 
-        "Name": "Promoter for CadA and CadB genes"
+        "Category": "inducible", 
+        "Common Name": "Promoter for CadA and CadB genes"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K112406", 
-        "Name": "cadC promoter"
+        "Category": "inducible", 
+        "Common Name": "cadC promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K116001", 
-        "Name": "nhaA promoter, that can be regulated by pH and nhaR protein."
+        "Category": "inducible", 
+        "Common Name": "nhaA promoter, that can be regulated by pH and nhaR protein."
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K116401", 
-        "Name": "external phosphate sensing promoter"
+        "Category": "inducible", 
+        "Common Name": "external phosphate sensing promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K116500", 
-        "Name": "external phosphate sensing promoter"
+        "Category": "inducible", 
+        "Common Name": "external phosphate sensing promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K116603", 
-        "Name": "pRE promoter from lambda phage"
+        "Category": "inducible", 
+        "Common Name": "pRE promoter from lambda phage"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K117002", 
-        "Name": "LsrA promoter (indirectly activated by AI-2)"
+        "Category": "inducible", 
+        "Common Name": "LsrA promoter (indirectly activated by AI-2)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K136010", 
-        "Name": "fliA promoter"
+        "Category": "inducible", 
+        "Common Name": "fliA promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K145150", 
-        "Name": "Hybrid promoter: HSL-LuxR activated, P22 C2 repressed"
+        "Category": "inducible", 
+        "Common Name": "Hybrid promoter: HSL-LuxR activated, P22 C2 repressed"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K180000", 
-        "Name": "Hybrid promoter (trp & lac regulated -- tac pR)"
+        "Category": "inducible", 
+        "Common Name": "Hybrid promoter (trp & lac regulated -- tac pR)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K259005", 
-        "Name": "AraC Rheostat Promoter"
+        "Category": "inducible", 
+        "Common Name": "AraC Rheostat Promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K259007", 
-        "Name": "AraC Promoter fused with RBS"
+        "Category": "inducible", 
+        "Common Name": "AraC Promoter fused with RBS"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K338029", 
-        "Name": "+OmpR, +(CinR-HSL) Double Promoter"
+        "Category": "inducible", 
+        "Common Name": "+OmpR, +(CinR-HSL) Double Promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K427003", 
-        "Name": "Pm promoter of Mu bacteriophage"
+        "Category": "inducible", 
+        "Common Name": "Pm promoter of Mu bacteriophage"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K427002", 
-        "Name": "Mor protein of Mu bacteriophage"
+        "Category": "inducible", 
+        "Common Name": "Mor protein of Mu bacteriophage"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K427004", 
-        "Name": "Pmom promoter of Mu bacteriophage"
+        "Category": "inducible", 
+        "Common Name": "Pmom promoter of Mu bacteriophage"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K427001", 
-        "Name": "C protein of the Mu bacteriophage"
+        "Category": "inducible", 
+        "Common Name": "C protein of the Mu bacteriophage"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_R0062", 
-        "Name": "Promoter (luxR & HSL regulated -- lux pR)"
+        "Category": "inducible", 
+        "Common Name": "Promoter (luxR & HSL regulated -- lux pR)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_R0065", 
-        "Name": "Promoter (lambda cI and luxR regulated -- hybrid)"
+        "Category": "inducible", 
+        "Common Name": "Promoter (lambda cI and luxR regulated -- hybrid)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_R0071", 
-        "Name": "Promoter (RhlR & C4-HSL regulated)"
+        "Category": "inducible", 
+        "Common Name": "Promoter (RhlR & C4-HSL regulated)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_R0078", 
-        "Name": "Promoter (cinR and HSL regulated)"
+        "Category": "inducible", 
+        "Common Name": "Promoter (cinR and HSL regulated)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_R0079", 
-        "Name": "Promoter (LasR & PAI regulated)"
+        "Category": "inducible", 
+        "Common Name": "Promoter (LasR & PAI regulated)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_R0080", 
-        "Name": "Promoter (AraC regulated)"
+        "Category": "inducible", 
+        "Common Name": "Promoter (AraC regulated)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_R0082", 
-        "Name": "Promoter (OmpR, positive)"
+        "Category": "inducible", 
+        "Common Name": "Promoter (OmpR, positive)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_R0083", 
-        "Name": "Promoter (OmpR, positive)"
+        "Category": "inducible", 
+        "Common Name": "Promoter (OmpR, positive)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_R0084", 
-        "Name": "Promoter (OmpR, positive)"
+        "Category": "inducible", 
+        "Common Name": "Promoter (OmpR, positive)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_R1062", 
-        "Name": "Promoter, Standard (luxR and HSL regulated -- lux pR)<br>"
+        "Category": "inducible", 
+        "Common Name": "Promoter, Standard (luxR and HSL regulated -- lux pR)<br>"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I12210", 
-        "Name": "plac Or2-62 (positive)"
+        "Category": "inducible", 
+        "Common Name": "plac Or2-62 (positive)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I13406", 
-        "Name": "Pbad/AraC with extra REN sites"
+        "Category": "inducible", 
+        "Common Name": "Pbad/AraC with extra REN sites"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I731004", 
-        "Name": "Pbad/AraC with extra REN sites"
+        "Category": "inducible", 
+        "Common Name": "Pbad/AraC with extra REN sites"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I739104", 
-        "Name": "Double Promoter (LuxR/HSL, positive / P22 cII, negative)"
+        "Category": "inducible", 
+        "Common Name": "Double Promoter (LuxR/HSL, positive / P22 cII, negative)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I739105", 
-        "Name": "Double Promoter (LuxR/HSL, positive / cI, negative)"
+        "Category": "inducible", 
+        "Common Name": "Double Promoter (LuxR/HSL, positive / cI, negative)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I741019", 
-        "Name": "Right facing promoter (for xylA) controlled by xylR and CRP-cAMP"
+        "Category": "inducible", 
+        "Common Name": "Right facing promoter (for xylA) controlled by xylR and CRP-cAMP"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I741020", 
-        "Name": "promoter to xylF without CRP and several binding sites for xylR"
+        "Category": "inducible", 
+        "Common Name": "promoter to xylF without CRP and several binding sites for xylR"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I741021", 
-        "Name": "promoter to xylA without CRP and several binding sites for xylR"
+        "Category": "inducible", 
+        "Common Name": "promoter to xylA without CRP and several binding sites for xylR"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I746363", 
-        "Name": "PV promoter from P2 phage"
+        "Category": "inducible", 
+        "Common Name": "PV promoter from P2 phage"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I751501", 
-        "Name": "plux-cI hybrid promoter"
+        "Category": "inducible", 
+        "Common Name": "plux-cI hybrid promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I751502", 
-        "Name": "plux-lac hybrid promoter"
+        "Category": "inducible", 
+        "Common Name": "plux-lac hybrid promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I760005", 
-        "Name": "Cu-sensitive promoter"
+        "Category": "inducible", 
+        "Common Name": "Cu-sensitive promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J01005", 
-        "Name": "pspoIIE promoter (spo0A J01004, positive)"
+        "Category": "inducible", 
+        "Common Name": "pspoIIE promoter (spo0A J01004, positive)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J03007", 
-        "Name": "Maltose specific promotor"
+        "Category": "inducible", 
+        "Common Name": "Maltose specific promotor"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J06403", 
-        "Name": "RhIR promoter repressible by CI"
+        "Category": "inducible", 
+        "Common Name": "RhIR promoter repressible by CI"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J07007", 
-        "Name": "ctx promoter"
+        "Category": "inducible", 
+        "Common Name": "ctx promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J15502", 
-        "Name": "copA promoter"
+        "Category": "inducible", 
+        "Common Name": "copA promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J16101", 
-        "Name": "BanAp - Banana-induced Promoter"
+        "Category": "inducible", 
+        "Common Name": "BanAp - Banana-induced Promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J16105", 
-        "Name": "HelPp - \"Help\" Dependant promoter"
+        "Category": "inducible", 
+        "Common Name": "HelPp - \"Help\" Dependant promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J45503", 
-        "Name": "hybB Cold Shock Promoter"
+        "Category": "inducible", 
+        "Common Name": "hybB Cold Shock Promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J61054", 
-        "Name": "[HIP-1] Promoter"
+        "Category": "inducible", 
+        "Common Name": "[HIP-1] Promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J61055", 
-        "Name": "[HIP-1] Promoter"
+        "Category": "inducible", 
+        "Common Name": "[HIP-1] Promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J64000", 
-        "Name": "rhlI promoter"
+        "Category": "inducible", 
+        "Common Name": "rhlI promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J64010", 
-        "Name": "lasI promoter"
+        "Category": "inducible", 
+        "Common Name": "lasI promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J64712", 
-        "Name": "LasR/LasI Inducible & RHLR/RHLI repressible Promoter"
+        "Category": "inducible", 
+        "Common Name": "LasR/LasI Inducible & RHLR/RHLI repressible Promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J64800", 
-        "Name": "RHLR/RHLI Inducible & LasR/LasI repressible Promoter"
+        "Category": "inducible", 
+        "Common Name": "RHLR/RHLI Inducible & LasR/LasI repressible Promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J64804", 
-        "Name": "The promoter region (inclusive of regulator binding sites) of the B. subtilis RocDEF operon"
+        "Category": "inducible", 
+        "Common Name": "The promoter region (inclusive of regulator binding sites) of the B. subtilis RocDEF operon"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K091156", 
-        "Name": "pLux"
+        "Category": "inducible", 
+        "Common Name": "pLux"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K091157", 
-        "Name": "pLux/Las Hybrid Promoter"
+        "Category": "inducible", 
+        "Common Name": "pLux/Las Hybrid Promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K112701", 
-        "Name": "hns promoter"
+        "Category": "inducible", 
+        "Common Name": "hns promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K112900", 
-        "Name": "Pbad"
+        "Category": "inducible", 
+        "Common Name": "Pbad"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K121011", 
-        "Name": "promoter (lacI regulated)"
+        "Category": "inducible", 
+        "Common Name": "promoter (lacI regulated)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K180002", 
-        "Name": "tac pR testing plasmid (GFP)"
+        "Category": "inducible", 
+        "Common Name": "tac pR testing plasmid (GFP)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K180003", 
-        "Name": "PTAC testing plasmid (GFP) - basic"
+        "Category": "inducible", 
+        "Common Name": "PTAC testing plasmid (GFP) - basic"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K180004", 
-        "Name": "Game of Life - Primary plasmid"
+        "Category": "inducible", 
+        "Common Name": "Game of Life - Primary plasmid"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K180005", 
-        "Name": "GoL - Primary plasmid (part 1)/RPS - Paper primary plasmid (part 1) [LuxR generator]"
+        "Category": "inducible", 
+        "Common Name": "GoL - Primary plasmid (part 1)/RPS - Paper primary plasmid (part 1) [LuxR generator]"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K180006", 
-        "Name": "Game of Life - Primary plasmid (part 2) [lux pR, GFP and LacI generator]"
+        "Category": "inducible", 
+        "Common Name": "Game of Life - Primary plasmid (part 2) [lux pR, GFP and LacI generator]"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K180007", 
-        "Name": "Game of Life - Secondary plasmid [tac pR, LuxI generator]"
+        "Category": "inducible", 
+        "Common Name": "Game of Life - Secondary plasmid [tac pR, LuxI generator]"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K180010", 
-        "Name": "Rock-paper-scissors - Rock primary plasmid"
+        "Category": "inducible", 
+        "Common Name": "Rock-paper-scissors - Rock primary plasmid"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K180011", 
-        "Name": "Rock - Primary plasmid (part 1) [RhlR generator]"
+        "Category": "inducible", 
+        "Common Name": "Rock - Primary plasmid (part 1) [RhlR generator]"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K180012", 
-        "Name": "Rock - Primary plasmid (part 2) [tac pR, mCherry and LasI generator]"
+        "Category": "inducible", 
+        "Common Name": "Rock - Primary plasmid (part 2) [tac pR, mCherry and LasI generator]"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K180013", 
-        "Name": "Rock-paper-scissors - Rock secondary plasmid [rhl pR, LacI generator]"
+        "Category": "inducible", 
+        "Common Name": "Rock-paper-scissors - Rock secondary plasmid [rhl pR, LacI generator]"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K180014", 
-        "Name": "Rock-paper-scissors - Paper primary plasmid"
+        "Category": "inducible", 
+        "Common Name": "Rock-paper-scissors - Paper primary plasmid"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K180015", 
-        "Name": "Paper - Primary plasmid (part 2) [tac pR, GFP and RhlI generator]"
+        "Category": "inducible", 
+        "Common Name": "Paper - Primary plasmid (part 2) [tac pR, GFP and RhlI generator]"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K180016", 
-        "Name": "Rock-paper-scissors - Paper secondary plasmid [lux pR, LacI generator]"
+        "Category": "inducible", 
+        "Common Name": "Rock-paper-scissors - Paper secondary plasmid [lux pR, LacI generator]"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K180017", 
-        "Name": "Rock-paper-scissors - Scissors primary plasmid"
+        "Category": "inducible", 
+        "Common Name": "Rock-paper-scissors - Scissors primary plasmid"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K180018", 
-        "Name": "Scissors - Primary plasmid (part 1) [LasR generator]"
+        "Category": "inducible", 
+        "Common Name": "Scissors - Primary plasmid (part 1) [LasR generator]"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K180019", 
-        "Name": "Scissors - Primary plasmid (part 2) [tac pR, mBanana and LuxI generator]"
+        "Category": "inducible", 
+        "Common Name": "Scissors - Primary plasmid (part 2) [tac pR, mBanana and LuxI generator]"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K180020", 
-        "Name": "Rock-paper-scissors - Scissors secondary plasmid [las pR, LacI generator]"
+        "Category": "inducible", 
+        "Common Name": "Rock-paper-scissors - Scissors secondary plasmid [las pR, LacI generator]"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K658006", 
-        "Name": "position 3 mutated promoter lux pR-3 (luxR & HSL regulated)"
+        "Category": "inducible", 
+        "Common Name": "position 3 mutated promoter lux pR-3 (luxR & HSL regulated)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K658007", 
-        "Name": "position 5 mutated promoter lux pR-5 (luxR & HSL regulated) "
+        "Category": "inducible", 
+        "Common Name": "position 5 mutated promoter lux pR-5 (luxR & HSL regulated) "
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K658008", 
-        "Name": "position 3&5 mutated promoter lux pR-3/5 (luxR & HSL regulated)"
+        "Category": "inducible", 
+        "Common Name": "position 3&5 mutated promoter lux pR-3/5 (luxR & HSL regulated)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K112322", 
-        "Name": "{Pdps}  in BBb format"
+        "Category": "inducible", 
+        "Common Name": "{Pdps}  in BBb format"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K338001", 
-        "Name": "Heat Shock Promoter (HSP)"
+        "Category": "inducible", 
+        "Common Name": "Heat Shock Promoter (HSP)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K338002", 
-        "Name": "K338001+R0011: Heat Shock Promoter + LacI Regulated Promoter"
+        "Category": "inducible", 
+        "Common Name": "K338001+R0011: Heat Shock Promoter + LacI Regulated Promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K112400", 
-        "Name": "Promoter for grpE gene - Heat Shock and Ultrasound Sensitive "
+        "Category": "inducible", 
+        "Common Name": "Promoter for grpE gene - Heat Shock and Ultrasound Sensitive "
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K338042", 
-        "Name": "GFP Reporter Device, Heat-Shock Induced"
+        "Category": "inducible", 
+        "Common Name": "GFP Reporter Device, Heat-Shock Induced"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K338062", 
-        "Name": "GFP Reporter Device, Heat-Shock or IPTG Induced"
+        "Category": "inducible", 
+        "Common Name": "GFP Reporter Device, Heat-Shock or IPTG Induced"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K338081", 
-        "Name": "Heat-Shock Activated Generator"
+        "Category": "inducible", 
+        "Common Name": "Heat-Shock Activated Generator"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J64979", 
-        "Name": "glnAp2"
+        "Category": "inducible", 
+        "Common Name": "glnAp2"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K090504", 
-        "Name": "Gram-Positive Strong Constitutive Promoter"
+        "Category": "inducible", 
+        "Common Name": "Gram-Positive Strong Constitutive Promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J64001", 
-        "Name": "psicA from <I>Salmonella</I>"
+        "Category": "inducible", 
+        "Common Name": "psicA from Salmonella"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J64750", 
-        "Name": "SPI-1 TTSS secretion-linked promoter from <I>Salmonella</I>"
+        "Category": "inducible", 
+        "Common Name": "SPI-1 TTSS secretion-linked promoter from Salmonella"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K112149", 
-        "Name": "PmgtCB Magnesium promoter from <I>Salmonella</I>"
+        "Category": "inducible", 
+        "Common Name": "PmgtCB Magnesium promoter from Salmonella"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K116201", 
-        "Name": "ureD promoter from <I>P mirabilis<I>"
+        "Category": "inducible", 
+        "Common Name": "ureD promoter from P mirabilis"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K125100", 
-        "Name": "nir promoter from <I>Synechocystis</I> sp. PCC6803"
+        "Category": "inducible", 
+        "Common Name": "nir promoter from Synechocystis sp. PCC6803"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K131017", 
-        "Name": "p_qrr4 from <I>Vibrio harveyi</I>"
+        "Category": "inducible", 
+        "Common Name": "p_qrr4 from Vibrio harveyi"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J63006", 
-        "Name": "yeast GAL1 promoter"
+        "Category": "inducible", 
+        "Common Name": "yeast GAL1 promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K392001", 
-        "Name": "yeast ENO2 promoter"
+        "Category": "inducible", 
+        "Common Name": "yeast ENO2 promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K284003", 
-        "Name": "Partial DLD Promoter from Kluyveromyces lactis"
+        "Category": "inducible", 
+        "Common Name": "Partial DLD Promoter from Kluyveromyces lactis"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K284002", 
-        "Name": "JEN1 Promoter from Kluyveromyces lactis"
+        "Category": "inducible", 
+        "Common Name": "JEN1 Promoter from Kluyveromyces lactis"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K165041", 
-        "Name": " Zif268-HIV binding sites + TEF constitutive yeast promoter "
+        "Category": "inducible", 
+        "Common Name": " Zif268-HIV binding sites + TEF constitutive yeast promoter "
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K165034", 
-        "Name": " Zif268-HIV bs + LexA bs +  mCYC promoter"
+        "Category": "inducible", 
+        "Common Name": " Zif268-HIV bs + LexA bs +  mCYC promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K165031", 
-        "Name": "mCYC promoter plus LexA binding sites"
+        "Category": "inducible", 
+        "Common Name": "mCYC promoter plus LexA binding sites"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K165030", 
-        "Name": "mCYC promoter plus Zif268-HIV binding sites"
+        "Category": "inducible", 
+        "Common Name": "mCYC promoter plus Zif268-HIV binding sites"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K165001", 
-        "Name": "pGAL1+ w/XhoI sites"
+        "Category": "inducible", 
+        "Common Name": "pGAL1+ w/XhoI sites"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K110016", 
-        "Name": "A-Cell Promoter  STE2 (backwards)"
+        "Category": "inducible", 
+        "Common Name": "A-Cell Promoter  STE2 (backwards)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K110006", 
-        "Name": "Alpha-Cell Promoter MF(ALPHA)1 "
+        "Category": "inducible", 
+        "Common Name": "Alpha-Cell Promoter MF(ALPHA)1 "
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K110005", 
-        "Name": "Alpha-Cell Promoter MF(ALPHA)2"
+        "Category": "inducible", 
+        "Common Name": "Alpha-Cell Promoter MF(ALPHA)2"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K110014", 
-        "Name": "A-Cell Promoter MFA2 (backwards)"
+        "Category": "inducible", 
+        "Common Name": "A-Cell Promoter MFA2 (backwards)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K110004", 
-        "Name": "Alpha-Cell Promoter Ste3"
+        "Category": "inducible", 
+        "Common Name": "Alpha-Cell Promoter Ste3"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K586000", 
-        "Name": "Cup-1 Heavy metal sensor"
+        "Category": "inducible", 
+        "Common Name": "Cup-1 Heavy metal sensor"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K106699", 
-        "Name": "Gal1 Promoter"
+        "Category": "inducible", 
+        "Common Name": "Gal1 Promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J24813", 
-        "Name": "URA3 Promoter from S. cerevisiae"
+        "Category": "inducible", 
+        "Common Name": "URA3 Promoter from S. cerevisiae"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_K110015", 
-        "Name": "A-Cell Promoter MFA1 (RtL)"
+        "Category": "inducible", 
+        "Common Name": "A-Cell Promoter MFA1 (RtL)"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_I10498", 
-        "Name": "Oct-4 promoter"
+        "Category": "inducible", 
+        "Common Name": "Oct-4 promoter"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J05215", 
-        "Name": "Regulator for R1-CREBH"
+        "Category": "inducible", 
+        "Common Name": "Regulator for R1-CREBH"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J05216", 
-        "Name": "Regulator for R3-ATF6"
+        "Category": "inducible", 
+        "Common Name": "Regulator for R3-ATF6"
     }, 
     {
-        "Category": "inducible", 
         "Id": "BBa_J05217", 
-        "Name": "Regulator for R2-YAP7"
-    }, 
-    {
         "Category": "inducible", 
-        "Id": "BBa_J05218", 
-        "Name": "Regulator for R4-cMaf"
+        "Common Name": "Regulator for R2-YAP7"
     }, 
     {
-        "Category": "constitutive", 
+        "Id": "BBa_J05218", 
+        "Category": "inducible", 
+        "Common Name": "Regulator for R4-cMaf"
+    }, 
+    {
         "Id": "BBa_K143012", 
-        "Name": ""
+        "Category": "constitutive", 
+        "Common Name": ""
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K143013", 
-        "Name": ""
+        "Category": "constitutive", 
+        "Common Name": ""
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K143010", 
-        "Name": ""
+        "Category": "constitutive", 
+        "Common Name": ""
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K143011", 
-        "Name": ""
+        "Category": "constitutive", 
+        "Common Name": ""
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K143013", 
-        "Name": ""
+        "Category": "constitutive", 
+        "Common Name": ""
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K112706", 
-        "Name": "Pspv2 from <I>Salmonella</I>"
+        "Category": "constitutive", 
+        "Common Name": "Pspv2 from Salmonella"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K112707", 
-        "Name": "Pspv from <I>Salmonella</I>"
+        "Category": "constitutive", 
+        "Common Name": "Pspv from Salmonella"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_I712074", 
-        "Name": "T7 promoter (strong promoter from T7 bacteriophage)"
+        "Category": "constitutive", 
+        "Common Name": "T7 promoter (strong promoter from T7 bacteriophage)"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_I719005", 
-        "Name": "T7 Promoter"
+        "Category": "constitutive", 
+        "Common Name": "T7 Promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J34814", 
-        "Name": "T7 Promoter"
+        "Category": "constitutive", 
+        "Common Name": "T7 Promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J64997", 
-        "Name": "T7 consensus -10 and rest"
+        "Category": "constitutive", 
+        "Common Name": "T7 consensus -10 and rest"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K113010", 
-        "Name": "overlapping T7 promoter"
+        "Category": "constitutive", 
+        "Common Name": "overlapping T7 promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K113011", 
-        "Name": "more overlapping T7 promoter "
+        "Category": "constitutive", 
+        "Common Name": "more overlapping T7 promoter "
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K113012", 
-        "Name": "weaken overlapping T7 promoter"
+        "Category": "constitutive", 
+        "Common Name": "weaken overlapping T7 promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_R0085", 
-        "Name": "T7 Consensus Promoter Sequence"
+        "Category": "constitutive", 
+        "Common Name": "T7 Consensus Promoter Sequence"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_R0180", 
-        "Name": "T7 RNAP promoter"
+        "Category": "constitutive", 
+        "Common Name": "T7 RNAP promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_R0181", 
-        "Name": "T7 RNAP promoter"
+        "Category": "constitutive", 
+        "Common Name": "T7 RNAP promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_R0182", 
-        "Name": "T7 RNAP promoter"
+        "Category": "constitutive", 
+        "Common Name": "T7 RNAP promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_R0183", 
-        "Name": "T7 RNAP promoter"
+        "Category": "constitutive", 
+        "Common Name": "T7 RNAP promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_Z0251", 
-        "Name": "T7 strong promoter"
+        "Category": "constitutive", 
+        "Common Name": "T7 strong promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_Z0252", 
-        "Name": "T7 weak binding and processivity"
+        "Category": "constitutive", 
+        "Common Name": "T7 weak binding and processivity"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_Z0253", 
-        "Name": "T7 weak binding promoter"
+        "Category": "constitutive", 
+        "Common Name": "T7 weak binding promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J64998", 
-        "Name": "consensus -10 and rest from SP6"
+        "Category": "constitutive", 
+        "Common Name": "consensus -10 and rest from SP6"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_I766555", 
-        "Name": "pCyc (Medium) Promoter"
+        "Category": "constitutive", 
+        "Common Name": "pCyc (Medium) Promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_I766556", 
-        "Name": "pAdh (Strong) Promoter"
+        "Category": "constitutive", 
+        "Common Name": "pAdh (Strong) Promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_I766557", 
-        "Name": "pSte5 (Weak) Promoter"
+        "Category": "constitutive", 
+        "Common Name": "pSte5 (Weak) Promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J63005", 
-        "Name": "yeast ADH1 promoter"
+        "Category": "constitutive", 
+        "Common Name": "yeast ADH1 promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K105027", 
-        "Name": "cyc100 minimal promoter"
+        "Category": "constitutive", 
+        "Common Name": "cyc100 minimal promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K105028", 
-        "Name": "cyc70 minimal promoter"
+        "Category": "constitutive", 
+        "Common Name": "cyc70 minimal promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K105029", 
-        "Name": "cyc43 minimal promoter"
+        "Category": "constitutive", 
+        "Common Name": "cyc43 minimal promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K105030", 
-        "Name": "cyc28 minimal promoter"
+        "Category": "constitutive", 
+        "Common Name": "cyc28 minimal promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K105031", 
-        "Name": "cyc16 minimal promoter"
+        "Category": "constitutive", 
+        "Common Name": "cyc16 minimal promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K122000", 
-        "Name": "pPGK1"
+        "Category": "constitutive", 
+        "Common Name": "pPGK1"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K124000", 
-        "Name": "pCYC Yeast Promoter"
+        "Category": "constitutive", 
+        "Common Name": "pCYC Yeast Promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K124002", 
-        "Name": "Yeast GPD (TDH3) Promoter"
+        "Category": "constitutive", 
+        "Common Name": "Yeast GPD (TDH3) Promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_M31201", 
-        "Name": "Yeast CLB1 promoter region, G2/M cell cycle specific"
+        "Category": "constitutive", 
+        "Common Name": "Yeast CLB1 promoter region, G2/M cell cycle specific"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_I712004", 
-        "Name": "CMV promoter"
+        "Category": "constitutive", 
+        "Common Name": "CMV promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K076017", 
-        "Name": "Ubc Promoter"
+        "Category": "constitutive", 
+        "Common Name": "Ubc Promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J23100", 
-        "Name": "constitutive promoter family member"
+        "Category": "constitutive", 
+        "Common Name": "constitutive promoter family member"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J23101", 
-        "Name": "constitutive promoter family member"
+        "Category": "constitutive", 
+        "Common Name": "constitutive promoter family member"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J23102", 
-        "Name": "constitutive promoter family member"
+        "Category": "constitutive", 
+        "Common Name": "constitutive promoter family member"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J23103", 
-        "Name": "constitutive promoter family member"
+        "Category": "constitutive", 
+        "Common Name": "constitutive promoter family member"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J23104", 
-        "Name": "constitutive promoter family member"
+        "Category": "constitutive", 
+        "Common Name": "constitutive promoter family member"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J23105", 
-        "Name": "constitutive promoter family member"
+        "Category": "constitutive", 
+        "Common Name": "constitutive promoter family member"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J23106", 
-        "Name": "constitutive promoter family member"
+        "Category": "constitutive", 
+        "Common Name": "constitutive promoter family member"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J23107", 
-        "Name": "constitutive promoter family member "
+        "Category": "constitutive", 
+        "Common Name": "constitutive promoter family member "
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J23108", 
-        "Name": "constitutive promoter family member "
+        "Category": "constitutive", 
+        "Common Name": "constitutive promoter family member "
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J23109", 
-        "Name": "constitutive promoter family member "
+        "Category": "constitutive", 
+        "Common Name": "constitutive promoter family member "
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J23110", 
-        "Name": "constitutive promoter family member"
+        "Category": "constitutive", 
+        "Common Name": "constitutive promoter family member"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J23111", 
-        "Name": "constitutive promoter family member"
+        "Category": "constitutive", 
+        "Common Name": "constitutive promoter family member"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J23112", 
-        "Name": "constitutive promoter family member"
+        "Category": "constitutive", 
+        "Common Name": "constitutive promoter family member"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J23113", 
-        "Name": "constitutive promoter family member"
+        "Category": "constitutive", 
+        "Common Name": "constitutive promoter family member"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J23114", 
-        "Name": "constitutive promoter family member"
+        "Category": "constitutive", 
+        "Common Name": "constitutive promoter family member"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J23115", 
-        "Name": "constitutive promoter family member"
+        "Category": "constitutive", 
+        "Common Name": "constitutive promoter family member"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J23116", 
-        "Name": "constitutive promoter family member"
+        "Category": "constitutive", 
+        "Common Name": "constitutive promoter family member"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J23117", 
-        "Name": "constitutive promoter family member"
+        "Category": "constitutive", 
+        "Common Name": "constitutive promoter family member"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J23118", 
-        "Name": "constitutive promoter family member"
+        "Category": "constitutive", 
+        "Common Name": "constitutive promoter family member"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J44002", 
-        "Name": "pBAD reverse"
+        "Category": "constitutive", 
+        "Common Name": "pBAD reverse"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K137029", 
-        "Name": "constitutive promoter with (TA)10 between -10 and -35 elements"
+        "Category": "constitutive", 
+        "Common Name": "constitutive promoter with (TA)10 between -10 and -35 elements"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K137030", 
-        "Name": "constitutive promoter with (TA)9 between -10 and -35 elements"
+        "Category": "constitutive", 
+        "Common Name": "constitutive promoter with (TA)9 between -10 and -35 elements"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K256002", 
-        "Name": "J23101:GFP"
+        "Category": "constitutive", 
+        "Common Name": "J23101:GFP"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K256018", 
-        "Name": "J23119:IFP"
+        "Category": "constitutive", 
+        "Common Name": "J23119:IFP"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K256020", 
-        "Name": "J23119:HO1"
+        "Category": "constitutive", 
+        "Common Name": "J23119:HO1"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K256033", 
-        "Name": "Infrared signal reporter (J23119:IFP:J23119:HO1)"
+        "Category": "constitutive", 
+        "Common Name": "Infrared signal reporter (J23119:IFP:J23119:HO1)"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_I14018", 
-        "Name": "P(Bla)"
+        "Category": "constitutive", 
+        "Common Name": "P(Bla)"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_I14033", 
-        "Name": "P(Cat)"
+        "Category": "constitutive", 
+        "Common Name": "P(Cat)"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_I14034", 
-        "Name": "P(Kat)"
+        "Category": "constitutive", 
+        "Common Name": "P(Kat)"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J23119", 
-        "Name": "constitutive promoter family member"
+        "Category": "constitutive", 
+        "Common Name": "constitutive promoter family member"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K088007", 
-        "Name": "GlnRS promoter"
+        "Category": "constitutive", 
+        "Common Name": "GlnRS promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K137031", 
-        "Name": "constitutive promoter with (C)10 between -10 and -35 elements"
+        "Category": "constitutive", 
+        "Common Name": "constitutive promoter with (C)10 between -10 and -35 elements"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K137032", 
-        "Name": "constitutive promoter with (C)12 between -10 and -35 elements"
+        "Category": "constitutive", 
+        "Common Name": "constitutive promoter with (C)12 between -10 and -35 elements"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K292000", 
-        "Name": "Double terminator + constitutive promoter"
+        "Category": "constitutive", 
+        "Common Name": "Double terminator + constitutive promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K292001", 
-        "Name": "Double terminator + Constitutive promoter + Strong RBS"
+        "Category": "constitutive", 
+        "Common Name": "Double terminator + Constitutive promoter + Strong RBS"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K418003", 
-        "Name": "IPTG inducible Lac promoter cassette "
+        "Category": "constitutive", 
+        "Common Name": "IPTG inducible Lac promoter cassette "
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_I732021", 
-        "Name": "Template for Building Primer Family Member"
+        "Category": "constitutive", 
+        "Common Name": "Template for Building Primer Family Member"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_I742126", 
-        "Name": "Reverse lambda cI-regulated promoter"
+        "Category": "constitutive", 
+        "Common Name": "Reverse lambda cI-regulated promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J01006", 
-        "Name": "Key Promoter absorbs 3"
+        "Category": "constitutive", 
+        "Common Name": "Key Promoter absorbs 3"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J23150", 
-        "Name": "1bp mutant from J23107"
+        "Category": "constitutive", 
+        "Common Name": "1bp mutant from J23107"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J23151", 
-        "Name": "1bp mutant from J23114"
+        "Category": "constitutive", 
+        "Common Name": "1bp mutant from J23114"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J48104", 
-        "Name": "NikR promoter, a protein of the ribbon helix-helix family of trancription factors that repress expre"
+        "Category": "constitutive", 
+        "Common Name": "NikR promoter, a protein of the ribbon helix-helix family of trancription factors that repress expre"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J54200", 
-        "Name": "lacq_Promoter"
+        "Category": "constitutive", 
+        "Common Name": "lacq_Promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J56015", 
-        "Name": "lacIQ - promoter sequence"
+        "Category": "constitutive", 
+        "Common Name": "lacIQ - promoter sequence"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J64951", 
-        "Name": "E. Coli CreABCD phosphate sensing operon promoter"
+        "Category": "constitutive", 
+        "Common Name": "E. Coli CreABCD phosphate sensing operon promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K119000", 
-        "Name": "Constitutive weak promoter of lacZ "
+        "Category": "constitutive", 
+        "Common Name": "Constitutive weak promoter of lacZ "
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K119001", 
-        "Name": "Mutated LacZ promoter"
+        "Category": "constitutive", 
+        "Common Name": "Mutated LacZ promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K137085", 
-        "Name": "optimized (TA) repeat constitutive promoter with 13 bp between -10 and -35 elements "
+        "Category": "constitutive", 
+        "Common Name": "optimized (TA) repeat constitutive promoter with 13 bp between -10 and -35 elements "
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K137086", 
-        "Name": "optimized (TA) repeat constitutive promoter with 15 bp between -10 and -35 elements "
+        "Category": "constitutive", 
+        "Common Name": "optimized (TA) repeat constitutive promoter with 15 bp between -10 and -35 elements "
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K137087", 
-        "Name": "optimized (TA) repeat constitutive promoter with 17 bp between -10 and -35 elements "
+        "Category": "constitutive", 
+        "Common Name": "optimized (TA) repeat constitutive promoter with 17 bp between -10 and -35 elements "
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K137088", 
-        "Name": "optimized (TA) repeat constitutive promoter with 19 bp between -10 and -35 elements "
+        "Category": "constitutive", 
+        "Common Name": "optimized (TA) repeat constitutive promoter with 19 bp between -10 and -35 elements "
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K137089", 
-        "Name": "optimized (TA) repeat constitutive promoter with 21 bp between -10 and -35 elements "
+        "Category": "constitutive", 
+        "Common Name": "optimized (TA) repeat constitutive promoter with 21 bp between -10 and -35 elements "
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K137090", 
-        "Name": "optimized (A) repeat constitutive promoter with 17 bp between -10 and -35 elements "
+        "Category": "constitutive", 
+        "Common Name": "optimized (A) repeat constitutive promoter with 17 bp between -10 and -35 elements "
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K137091", 
-        "Name": "optimized (A) repeat constitutive promoter with 18 bp between -10 and -35 elements "
+        "Category": "constitutive", 
+        "Common Name": "optimized (A) repeat constitutive promoter with 18 bp between -10 and -35 elements "
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K418000", 
-        "Name": "IPTG inducible Lac promoter cassette"
+        "Category": "constitutive", 
+        "Common Name": "IPTG inducible Lac promoter cassette"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_K418002", 
-        "Name": "IPTG inducible Lac promoter cassette"
+        "Category": "constitutive", 
+        "Common Name": "IPTG inducible Lac promoter cassette"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_M13101", 
-        "Name": "M13K07 gene I promoter"
+        "Category": "constitutive", 
+        "Common Name": "M13K07 gene I promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_M13102", 
-        "Name": "M13K07 gene II promoter"
+        "Category": "constitutive", 
+        "Common Name": "M13K07 gene II promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_M13103", 
-        "Name": "M13K07 gene III promoter"
+        "Category": "constitutive", 
+        "Common Name": "M13K07 gene III promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_M13104", 
-        "Name": "M13K07 gene IV promoter"
+        "Category": "constitutive", 
+        "Common Name": "M13K07 gene IV promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_M13105", 
-        "Name": "M13K07 gene V promoter"
+        "Category": "constitutive", 
+        "Common Name": "M13K07 gene V promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_M13106", 
-        "Name": "M13K07 gene VI promoter"
+        "Category": "constitutive", 
+        "Common Name": "M13K07 gene VI promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_M13108", 
-        "Name": "M13K07 gene VIII promoter"
+        "Category": "constitutive", 
+        "Common Name": "M13K07 gene VIII promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_M13110", 
-        "Name": "M13110"
+        "Category": "constitutive", 
+        "Common Name": "M13110"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_M31519", 
-        "Name": "Modified promoter sequence of g3."
+        "Category": "constitutive", 
+        "Common Name": "Modified promoter sequence of g3."
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_R1074", 
-        "Name": "Constitutive Promoter I"
+        "Category": "constitutive", 
+        "Common Name": "Constitutive Promoter I"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_R1075", 
-        "Name": "Constitutive Promoter II"
+        "Category": "constitutive", 
+        "Common Name": "Constitutive Promoter II"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_S03331", 
-        "Name": "--Specify Parts List--"
+        "Category": "constitutive", 
+        "Common Name": "--Specify Parts List--"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J45992", 
-        "Name": "Full-length stationary phase osmY promoter"
+        "Category": "constitutive", 
+        "Common Name": "Full-length stationary phase osmY promoter"
     }, 
     {
-        "Category": "constitutive", 
         "Id": "BBa_J45993", 
-        "Name": "Minimal stationary phase osmY promoter"
-    }, 
-    {
         "Category": "constitutive", 
+        "Common Name": "Minimal stationary phase osmY promoter"
+    }, 
+    {
         "Id": "BBa_J45504", 
-        "Name": "htpG Heat Shock Promoter"
+        "Category": "constitutive", 
+        "Common Name": "htpG Heat Shock Promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_J64979", 
-        "Name": "glnAp2"
+        "Category": "repressible", 
+        "Common Name": "glnAp2"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I14032", 
-        "Name": "promoter P(Lac) IQ"
+        "Category": "repressible", 
+        "Common Name": "promoter P(Lac) IQ"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I714889", 
-        "Name": "OR21 of PR and PRM"
+        "Category": "repressible", 
+        "Common Name": "OR21 of PR and PRM"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I714924", 
-        "Name": "RecA_DlexO_DLacO1"
+        "Category": "repressible", 
+        "Common Name": "RecA_DlexO_DLacO1"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732205", 
-        "Name": "NOT Gate Promoter Family Member (D001O55)"
+        "Category": "repressible", 
+        "Common Name": "NOT Gate Promoter Family Member (D001O55)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K091110", 
-        "Name": "LacI Promoter"
+        "Category": "repressible", 
+        "Common Name": "LacI Promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K091111", 
-        "Name": "LacIQ promoter"
+        "Category": "repressible", 
+        "Common Name": "LacIQ promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K091112", 
-        "Name": "pLacIQ1 promoter"
+        "Category": "repressible", 
+        "Common Name": "pLacIQ1 promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K094120", 
-        "Name": "pLacI/ara-1"
+        "Category": "repressible", 
+        "Common Name": "pLacI/ara-1"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K137046", 
-        "Name": "150 bp inverted tetR promoter"
+        "Category": "repressible", 
+        "Common Name": "150 bp inverted tetR promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K137047", 
-        "Name": "250 bp inverted tetR promoter"
+        "Category": "repressible", 
+        "Common Name": "250 bp inverted tetR promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K137048", 
-        "Name": "350 bp inverted tetR promoter"
+        "Category": "repressible", 
+        "Common Name": "350 bp inverted tetR promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K137049", 
-        "Name": "450 bp inverted tetR promoter"
+        "Category": "repressible", 
+        "Common Name": "450 bp inverted tetR promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K137050", 
-        "Name": "650 bp inverted tetR promoter"
+        "Category": "repressible", 
+        "Common Name": "650 bp inverted tetR promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K137051", 
-        "Name": "850 bp inverted tetR promoter"
+        "Category": "repressible", 
+        "Common Name": "850 bp inverted tetR promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K266001", 
-        "Name": "Inverter TetR -> LuxR"
+        "Category": "repressible", 
+        "Common Name": "Inverter TetR -> LuxR"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K266004", 
-        "Name": "Const Lac Inverter -> LasR"
+        "Category": "repressible", 
+        "Common Name": "Const Lac Inverter -> LasR"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K266005", 
-        "Name": "PAI+LasR -> LasI & AI+LuxR --| LasI"
+        "Category": "repressible", 
+        "Common Name": "PAI+LasR -> LasI & AI+LuxR --| LasI"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K266006", 
-        "Name": "PAI+LasR -> LasI+GFP  &  AI+LuxR --| LasI+GFP"
+        "Category": "repressible", 
+        "Common Name": "PAI+LasR -> LasI+GFP  &  AI+LuxR --| LasI+GFP"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K266007", 
-        "Name": "Complex QS -> LuxI & LasI circuit"
+        "Category": "repressible", 
+        "Common Name": "Complex QS -> LuxI & LasI circuit"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R0010", 
-        "Name": "promoter (lacI regulated)"
+        "Category": "repressible", 
+        "Common Name": "promoter (lacI regulated)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R0011", 
-        "Name": "Promoter (lacI regulated, lambda pL hybrid)"
+        "Category": "repressible", 
+        "Common Name": "Promoter (lacI regulated, lambda pL hybrid)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R0040", 
-        "Name": "TetR repressible promoter"
+        "Category": "repressible", 
+        "Common Name": "TetR repressible promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R0051", 
-        "Name": "promoter (lambda cI regulated)"
+        "Category": "repressible", 
+        "Common Name": "promoter (lambda cI regulated)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R0053", 
-        "Name": "Promoter (p22 cII regulated)"
+        "Category": "repressible", 
+        "Common Name": "Promoter (p22 cII regulated)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I1051", 
-        "Name": "Lux cassette right promoter"
+        "Category": "repressible", 
+        "Common Name": "Lux cassette right promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I12006", 
-        "Name": "Modified lamdba Prm promoter (repressed by 434 cI)"
+        "Category": "repressible", 
+        "Common Name": "Modified lamdba Prm promoter (repressed by 434 cI)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I12036", 
-        "Name": "Modified lamdba Prm promoter (cooperative repression by 434 cI)"
+        "Category": "repressible", 
+        "Common Name": "Modified lamdba Prm promoter (cooperative repression by 434 cI)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I12040", 
-        "Name": "Modified lambda P(RM) promoter: -10 region from P(L) and cooperatively repressed by 434 cI"
+        "Category": "repressible", 
+        "Common Name": "Modified lambda P(RM) promoter: -10 region from P(L) and cooperatively repressed by 434 cI"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I14015", 
-        "Name": "P(Las) TetO"
+        "Category": "repressible", 
+        "Common Name": "P(Las) TetO"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I14016", 
-        "Name": "P(Las) CIO"
+        "Category": "repressible", 
+        "Common Name": "P(Las) CIO"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I718018", 
-        "Name": "dapAp promoter "
+        "Category": "repressible", 
+        "Common Name": "dapAp promoter "
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I761011", 
-        "Name": "CinR, CinL and glucose controlled promotor"
+        "Category": "repressible", 
+        "Common Name": "CinR, CinL and glucose controlled promotor"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_J22106", 
-        "Name": "rec A (SOS) Promoter"
+        "Category": "repressible", 
+        "Common Name": "rec A (SOS) Promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K091100", 
-        "Name": "pLac_lux hybrid promoter"
+        "Category": "repressible", 
+        "Common Name": "pLac_lux hybrid promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K091101", 
-        "Name": "pTet_Lac hybrid promoter"
+        "Category": "repressible", 
+        "Common Name": "pTet_Lac hybrid promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K091104", 
-        "Name": "pLac/Mnt Hybrid Promoter"
+        "Category": "repressible", 
+        "Common Name": "pLac/Mnt Hybrid Promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K091105", 
-        "Name": "pTet/Mnt Hybrid Promoter"
+        "Category": "repressible", 
+        "Common Name": "pTet/Mnt Hybrid Promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K091106", 
-        "Name": "LsrA/cI hybrid promoter"
+        "Category": "repressible", 
+        "Common Name": "LsrA/cI hybrid promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K091107", 
-        "Name": "pLux/cI Hybrid Promoter"
+        "Category": "repressible", 
+        "Common Name": "pLux/cI Hybrid Promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K091143", 
-        "Name": "pLas/cI Hybrid Promoter"
+        "Category": "repressible", 
+        "Common Name": "pLas/cI Hybrid Promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K091146", 
-        "Name": "pLas/Lux Hybrid Promoter"
+        "Category": "repressible", 
+        "Common Name": "pLas/Lux Hybrid Promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K093000", 
-        "Name": "pRecA with LexA binding site"
+        "Category": "repressible", 
+        "Common Name": "pRecA with LexA binding site"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K101017", 
-        "Name": "MioC Promoter (DNAa-Repressed Promoter) "
+        "Category": "repressible", 
+        "Common Name": "MioC Promoter (DNAa-Repressed Promoter) "
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K109200", 
-        "Name": "AraC and TetR promoter (hybrid)"
+        "Category": "repressible", 
+        "Common Name": "AraC and TetR promoter (hybrid)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K112118", 
-        "Name": "rrnB P1 promoter"
+        "Category": "repressible", 
+        "Common Name": "rrnB P1 promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K112318", 
-        "Name": "{< bolA promoter>} in BBb format"
+        "Category": "repressible", 
+        "Common Name": "{< bolA promoter>} in BBb format"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K112401", 
-        "Name": "Promoter for recA gene - SOS and Ultrasound Sensitive "
+        "Category": "repressible", 
+        "Common Name": "Promoter for recA gene - SOS and Ultrasound Sensitive "
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K112402", 
-        "Name": "promoter for FabA gene -  Membrane Damage and Ultrasound Senstitive"
+        "Category": "repressible", 
+        "Common Name": "promoter for FabA gene -  Membrane Damage and Ultrasound Senstitive"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K112405", 
-        "Name": "Promoter for CadA and CadB genes"
+        "Category": "repressible", 
+        "Common Name": "Promoter for CadA and CadB genes"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K112406", 
-        "Name": "cadC promoter"
+        "Category": "repressible", 
+        "Common Name": "cadC promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K113009", 
-        "Name": "pBad/araC"
+        "Category": "repressible", 
+        "Common Name": "pBad/araC"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K116001", 
-        "Name": "nhaA promoter, that can be regulated by pH and nhaR protein."
+        "Category": "repressible", 
+        "Common Name": "nhaA promoter, that can be regulated by pH and nhaR protein."
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K116500", 
-        "Name": "nhaA promoter, that can be regulated by pH and nhaR protein."
+        "Category": "repressible", 
+        "Common Name": "nhaA promoter, that can be regulated by pH and nhaR protein."
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K119002", 
-        "Name": "RcnR operator (represses RcnA)"
+        "Category": "repressible", 
+        "Common Name": "RcnR operator (represses RcnA)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K137125", 
-        "Name": "LacI-repressed promoter B4"
+        "Category": "repressible", 
+        "Common Name": "LacI-repressed promoter B4"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K145150", 
-        "Name": "Hybrid promoter: HSL-LuxR activated, P22 C2 repressed"
+        "Category": "repressible", 
+        "Common Name": "Hybrid promoter: HSL-LuxR activated, P22 C2 repressed"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K259005", 
-        "Name": "AraC Rheostat Promoter"
+        "Category": "repressible", 
+        "Common Name": "AraC Rheostat Promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K259007", 
-        "Name": "AraC Promoter fused with RBS"
+        "Category": "repressible", 
+        "Common Name": "AraC Promoter fused with RBS"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K266003", 
-        "Name": "POPS -> Lac Inverter -> LasR"
+        "Category": "repressible", 
+        "Common Name": "POPS -> Lac Inverter -> LasR"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K266008", 
-        "Name": "J23100 + Lac inverter"
+        "Category": "repressible", 
+        "Common Name": "J23100 + Lac inverter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K266009", 
-        "Name": "J23100 + Lac inverter + RBS"
+        "Category": "repressible", 
+        "Common Name": "J23100 + Lac inverter + RBS"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K292002", 
-        "Name": "pLac (LacI regulated) + Strong RBS"
+        "Category": "repressible", 
+        "Common Name": "pLac (LacI regulated) + Strong RBS"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R0050", 
-        "Name": "Promoter (HK022 cI regulated)"
+        "Category": "repressible", 
+        "Common Name": "Promoter (HK022 cI regulated)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R0052", 
-        "Name": "Promoter (434 cI regulated)"
+        "Category": "repressible", 
+        "Common Name": "Promoter (434 cI regulated)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R0061", 
-        "Name": "Promoter (HSL-mediated luxR repressor)"
+        "Category": "repressible", 
+        "Common Name": "Promoter (HSL-mediated luxR repressor)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R0063", 
-        "Name": "Promoter (luxR & HSL regulated -- lux pL)<br>"
+        "Category": "repressible", 
+        "Common Name": "Promoter (luxR & HSL regulated -- lux pL)<br>"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R0065", 
-        "Name": "Promoter (lambda cI and luxR regulated -- hybrid)"
+        "Category": "repressible", 
+        "Common Name": "Promoter (lambda cI and luxR regulated -- hybrid)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R0073", 
-        "Name": "Promoter (Mnt regulated)"
+        "Category": "repressible", 
+        "Common Name": "Promoter (Mnt regulated)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R0074", 
-        "Name": "Promoter (PenI regulated)"
+        "Category": "repressible", 
+        "Common Name": "Promoter (PenI regulated)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R0075", 
-        "Name": "Promoter (TP901 cI regulated)"
+        "Category": "repressible", 
+        "Common Name": "Promoter (TP901 cI regulated)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R1050", 
-        "Name": "Promoter, Standard (HK022 cI regulated) <br>"
+        "Category": "repressible", 
+        "Common Name": "Promoter, Standard (HK022 cI regulated) <br>"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R1051", 
-        "Name": "Promoter, Standard (lambda cI regulated)<br>"
+        "Category": "repressible", 
+        "Common Name": "Promoter, Standard (lambda cI regulated)<br>"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R1052", 
-        "Name": "Promoter, Standard (434 cI regulated)<br>"
+        "Category": "repressible", 
+        "Common Name": "Promoter, Standard (434 cI regulated)<br>"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R1053", 
-        "Name": "Promoter, Standard (p22 cII regulated)<br>"
+        "Category": "repressible", 
+        "Common Name": "Promoter, Standard (p22 cII regulated)<br>"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R2000", 
-        "Name": "Promoter, Zif23 regulated, test: between"
+        "Category": "repressible", 
+        "Common Name": "Promoter, Zif23 regulated, test: between"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R2001", 
-        "Name": "Promoter, Zif23 regulated, test: after"
+        "Category": "repressible", 
+        "Common Name": "Promoter, Zif23 regulated, test: after"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R2002", 
-        "Name": "Promoter, Zif23 regulated, test: between and after"
+        "Category": "repressible", 
+        "Common Name": "Promoter, Zif23 regulated, test: between and after"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R2109", 
-        "Name": "Promoter with operator site for C2003"
+        "Category": "repressible", 
+        "Common Name": "Promoter with operator site for C2003"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R2114", 
-        "Name": "Promoter with operator site for C2003"
+        "Category": "repressible", 
+        "Common Name": "Promoter with operator site for C2003"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I12001", 
-        "Name": "Promoter (PRM+)"
+        "Category": "repressible", 
+        "Common Name": "Promoter (PRM+)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I12212", 
-        "Name": "TetR - TetR-4C heterodimer promoter (negative)"
+        "Category": "repressible", 
+        "Common Name": "TetR - TetR-4C heterodimer promoter (negative)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I715003", 
-        "Name": "hybrid pLac with UV5 mutation"
+        "Category": "repressible", 
+        "Common Name": "hybrid pLac with UV5 mutation"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I731004", 
-        "Name": "hybrid pLac with UV5 mutation"
+        "Category": "repressible", 
+        "Common Name": "hybrid pLac with UV5 mutation"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732200", 
-        "Name": "NOT Gate Promoter Family Member (D001O1wt1)"
+        "Category": "repressible", 
+        "Common Name": "NOT Gate Promoter Family Member (D001O1wt1)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732201", 
-        "Name": "NOT Gate Promoter Family Member (D001O11)"
+        "Category": "repressible", 
+        "Common Name": "NOT Gate Promoter Family Member (D001O11)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732202", 
-        "Name": "NOT Gate Promoter Family Member (D001O22)"
+        "Category": "repressible", 
+        "Common Name": "NOT Gate Promoter Family Member (D001O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732203", 
-        "Name": "NOT Gate Promoter Family Member (D001O33)"
+        "Category": "repressible", 
+        "Common Name": "NOT Gate Promoter Family Member (D001O33)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732204", 
-        "Name": "NOT Gate Promoter Family Member (D001O44)"
+        "Category": "repressible", 
+        "Common Name": "NOT Gate Promoter Family Member (D001O44)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732206", 
-        "Name": "NOT Gate Promoter Family Member (D001O66)"
+        "Category": "repressible", 
+        "Common Name": "NOT Gate Promoter Family Member (D001O66)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732207", 
-        "Name": "NOT Gate Promoter Family Member (D001O77)"
+        "Category": "repressible", 
+        "Common Name": "NOT Gate Promoter Family Member (D001O77)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732270", 
-        "Name": "Promoter Family Member with Hybrid Operator (D001O12)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member with Hybrid Operator (D001O12)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732271", 
-        "Name": "Promoter Family Member with Hybrid Operator (D001O16)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member with Hybrid Operator (D001O16)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732272", 
-        "Name": "Promoter Family Member with Hybrid Operator (D001O17)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member with Hybrid Operator (D001O17)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732273", 
-        "Name": "Promoter Family Member with Hybrid Operator (D001O21)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member with Hybrid Operator (D001O21)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732274", 
-        "Name": "Promoter Family Member with Hybrid Operator (D001O24)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member with Hybrid Operator (D001O24)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732275", 
-        "Name": "Promoter Family Member with Hybrid Operator (D001O26)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member with Hybrid Operator (D001O26)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732276", 
-        "Name": "Promoter Family Member with Hybrid Operator (D001O27)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member with Hybrid Operator (D001O27)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732277", 
-        "Name": "Promoter Family Member with Hybrid Operator (D001O46)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member with Hybrid Operator (D001O46)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732278", 
-        "Name": "Promoter Family Member with Hybrid Operator (D001O47)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member with Hybrid Operator (D001O47)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732279", 
-        "Name": "Promoter Family Member with Hybrid Operator (D001O61)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member with Hybrid Operator (D001O61)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732301", 
-        "Name": "NAND Candidate (U073O26D001O16)"
+        "Category": "repressible", 
+        "Common Name": "NAND Candidate (U073O26D001O16)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732302", 
-        "Name": "NAND Candidate (U073O27D001O17)"
+        "Category": "repressible", 
+        "Common Name": "NAND Candidate (U073O27D001O17)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732303", 
-        "Name": "NAND Candidate (U073O22D001O46)"
+        "Category": "repressible", 
+        "Common Name": "NAND Candidate (U073O22D001O46)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732304", 
-        "Name": "NAND Candidate (U073O22D001O47)"
+        "Category": "repressible", 
+        "Common Name": "NAND Candidate (U073O22D001O47)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732305", 
-        "Name": "NAND Candidate (U073O22D059O46)"
+        "Category": "repressible", 
+        "Common Name": "NAND Candidate (U073O22D059O46)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732306", 
-        "Name": "NAND Candidate (U073O11D002O22)"
+        "Category": "repressible", 
+        "Common Name": "NAND Candidate (U073O11D002O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732351", 
-        "Name": "NOR Candidate (U037O11D002O22)"
+        "Category": "repressible", 
+        "Common Name": "NOR Candidate (U037O11D002O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732352", 
-        "Name": "NOR Candidate (U035O44D001O22)"
+        "Category": "repressible", 
+        "Common Name": "NOR Candidate (U035O44D001O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732400", 
-        "Name": "Promoter Family Member (U097NUL+D062NUL)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U097NUL+D062NUL)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732401", 
-        "Name": "Promoter Family Member (U097O11+D062NUL)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U097O11+D062NUL)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732402", 
-        "Name": "Promoter Family Member (U085O11+D062NUL)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U085O11+D062NUL)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732403", 
-        "Name": "Promoter Family Member (U073O11+D062NUL)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U073O11+D062NUL)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732404", 
-        "Name": "Promoter Family Member (U061O11+D062NUL)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U061O11+D062NUL)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732405", 
-        "Name": "Promoter Family Member (U049O11+D062NUL)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U049O11+D062NUL)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732406", 
-        "Name": "Promoter Family Member (U037O11+D062NUL)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U037O11+D062NUL)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732407", 
-        "Name": "Promoter Family Member (U097NUL+D002O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U097NUL+D002O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732408", 
-        "Name": "Promoter Family Member (U097NUL+D014O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U097NUL+D014O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732409", 
-        "Name": "Promoter Family Member (U097NUL+D026O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U097NUL+D026O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732410", 
-        "Name": "Promoter Family Member (U097NUL+D038O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U097NUL+D038O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732411", 
-        "Name": "Promoter Family Member (U097NUL+D050O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U097NUL+D050O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732412", 
-        "Name": "Promoter Family Member (U097NUL+D062O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U097NUL+D062O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732413", 
-        "Name": "Promoter Family Member (U097O11+D002O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U097O11+D002O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732414", 
-        "Name": "Promoter Family Member (U097O11+D014O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U097O11+D014O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732415", 
-        "Name": "Promoter Family Member (U097O11+D026O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U097O11+D026O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732416", 
-        "Name": "Promoter Family Member (U097O11+D038O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U097O11+D038O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732417", 
-        "Name": "Promoter Family Member (U097O11+D050O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U097O11+D050O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732418", 
-        "Name": "Promoter Family Member (U097O11+D062O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U097O11+D062O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732419", 
-        "Name": "Promoter Family Member (U085O11+D002O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U085O11+D002O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732420", 
-        "Name": "Promoter Family Member (U085O11+D014O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U085O11+D014O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732421", 
-        "Name": "Promoter Family Member (U085O11+D026O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U085O11+D026O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732422", 
-        "Name": "Promoter Family Member (U085O11+D038O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U085O11+D038O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732423", 
-        "Name": "Promoter Family Member (U085O11+D050O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U085O11+D050O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732424", 
-        "Name": "Promoter Family Member (U085O11+D062O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U085O11+D062O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732425", 
-        "Name": "Promoter Family Member (U073O11+D002O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U073O11+D002O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732426", 
-        "Name": "Promoter Family Member (U073O11+D014O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U073O11+D014O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732427", 
-        "Name": "Promoter Family Member (U073O11+D026O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U073O11+D026O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732428", 
-        "Name": "Promoter Family Member (U073O11+D038O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U073O11+D038O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732429", 
-        "Name": "Promoter Family Member (U073O11+D050O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U073O11+D050O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732430", 
-        "Name": "Promoter Family Member (U073O11+D062O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U073O11+D062O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732431", 
-        "Name": "Promoter Family Member (U061O11+D002O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U061O11+D002O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732432", 
-        "Name": "Promoter Family Member (U061O11+D014O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U061O11+D014O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732433", 
-        "Name": "Promoter Family Member (U061O11+D026O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U061O11+D026O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732434", 
-        "Name": "Promoter Family Member (U061O11+D038O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U061O11+D038O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732435", 
-        "Name": "Promoter Family Member (U061O11+D050O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U061O11+D050O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732436", 
-        "Name": "Promoter Family Member (U061O11+D062O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U061O11+D062O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732437", 
-        "Name": "Promoter Family Member (U049O11+D002O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U049O11+D002O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732438", 
-        "Name": "Promoter Family Member (U049O11+D014O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U049O11+D014O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732439", 
-        "Name": "Promoter Family Member (U049O11+D026O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U049O11+D026O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732440", 
-        "Name": "Promoter Family Member (U049O11+D038O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U049O11+D038O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732441", 
-        "Name": "Promoter Family Member (U049O11+D050O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U049O11+D050O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732442", 
-        "Name": "Promoter Family Member (U049O11+D062O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U049O11+D062O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732443", 
-        "Name": "Promoter Family Member (U037O11+D002O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U037O11+D002O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732444", 
-        "Name": "Promoter Family Member (U037O11+D014O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U037O11+D014O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732445", 
-        "Name": "Promoter Family Member (U037O11+D026O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U037O11+D026O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732446", 
-        "Name": "Promoter Family Member (U037O11+D038O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U037O11+D038O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732447", 
-        "Name": "Promoter Family Member (U037O11+D050O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U037O11+D050O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732448", 
-        "Name": "Promoter Family Member (U037O11+D062O22)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U037O11+D062O22)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732450", 
-        "Name": "Promoter Family Member (U073O26+D062NUL)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U073O26+D062NUL)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732451", 
-        "Name": "Promoter Family Member (U073O27+D062NUL)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U073O27+D062NUL)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I732452", 
-        "Name": "Promoter Family Member (U073O26+D062O61)"
+        "Category": "repressible", 
+        "Common Name": "Promoter Family Member (U073O26+D062O61)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I739101", 
-        "Name": "Double Promoter (constitutive / TetR, negative)"
+        "Category": "repressible", 
+        "Common Name": "Double Promoter (constitutive / TetR, negative)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I739102", 
-        "Name": "Double Promoter (cI, negative / TetR, negative)"
+        "Category": "repressible", 
+        "Common Name": "Double Promoter (cI, negative / TetR, negative)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I739103", 
-        "Name": "Double Promoter (lacI, negative / P22 cII, negative)"
+        "Category": "repressible", 
+        "Common Name": "Double Promoter (lacI, negative / P22 cII, negative)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I739104", 
-        "Name": "Double Promoter (LuxR/HSL, positive / P22 cII, negative)"
+        "Category": "repressible", 
+        "Common Name": "Double Promoter (LuxR/HSL, positive / P22 cII, negative)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I739105", 
-        "Name": "Double Promoter (LuxR/HSL, positive / cI, negative)"
+        "Category": "repressible", 
+        "Common Name": "Double Promoter (LuxR/HSL, positive / cI, negative)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I739106", 
-        "Name": "Double Promoter (TetR, negative / P22 cII, negative)"
+        "Category": "repressible", 
+        "Common Name": "Double Promoter (TetR, negative / P22 cII, negative)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I739107", 
-        "Name": "Double Promoter (cI, negative / LacI, negative)"
+        "Category": "repressible", 
+        "Common Name": "Double Promoter (cI, negative / LacI, negative)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I746665", 
-        "Name": "Pspac-hy promoter"
+        "Category": "repressible", 
+        "Common Name": "Pspac-hy promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I751500", 
-        "Name": "pcI (for positive control of pcI-lux hybrid promoter)"
+        "Category": "repressible", 
+        "Common Name": "pcI (for positive control of pcI-lux hybrid promoter)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I751501", 
-        "Name": "plux-cI hybrid promoter"
+        "Category": "repressible", 
+        "Common Name": "plux-cI hybrid promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I751502", 
-        "Name": "plux-lac hybrid promoter"
+        "Category": "repressible", 
+        "Common Name": "plux-lac hybrid promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I756014", 
-        "Name": "LexAoperator-MajorLatePromoter"
+        "Category": "repressible", 
+        "Common Name": "LexAoperator-MajorLatePromoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_J05209", 
-        "Name": "Modifed Pr Promoter"
+        "Category": "repressible", 
+        "Common Name": "Modifed Pr Promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_J05210", 
-        "Name": "Modifed Prm+ Promoter"
+        "Category": "repressible", 
+        "Common Name": "Modifed Prm+ Promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_J07019", 
-        "Name": "FecA Promoter (with Fur box)"
+        "Category": "repressible", 
+        "Common Name": "FecA Promoter (with Fur box)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_J15301", 
-        "Name": "Pars promoter from Escherichia coli chromosomal ars operon."
+        "Category": "repressible", 
+        "Common Name": "Pars promoter from Escherichia coli chromosomal ars operon."
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_J22052", 
-        "Name": "Pcya"
+        "Category": "repressible", 
+        "Common Name": "Pcya"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_J22126", 
-        "Name": "Rec A (SOS) promoter"
+        "Category": "repressible", 
+        "Common Name": "Rec A (SOS) promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_J31013", 
-        "Name": "pLac Backwards [cf. BBa_R0010]"
+        "Category": "repressible", 
+        "Common Name": "pLac Backwards [cf. BBa_R0010]"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_J34800", 
-        "Name": "Promoter tetracyclin inducible"
+        "Category": "repressible", 
+        "Common Name": "Promoter tetracyclin inducible"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_J34806", 
-        "Name": "promoter lac induced"
+        "Category": "repressible", 
+        "Common Name": "promoter lac induced"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_J34809", 
-        "Name": "promoter lac induced "
+        "Category": "repressible", 
+        "Common Name": "promoter lac induced "
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_J54016", 
-        "Name": "promoter_lacq"
+        "Category": "repressible", 
+        "Common Name": "promoter_lacq"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_J54120", 
-        "Name": "EmrR_regulated promoter"
+        "Category": "repressible", 
+        "Common Name": "EmrR_regulated promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_J54130", 
-        "Name": "BetI_regulated promoter"
+        "Category": "repressible", 
+        "Common Name": "BetI_regulated promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_J56012", 
-        "Name": "Invertible sequence of dna includes Ptrc promoter"
+        "Category": "repressible", 
+        "Common Name": "Invertible sequence of dna includes Ptrc promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_J64065", 
-        "Name": "cI repressed promoter"
+        "Category": "repressible", 
+        "Common Name": "cI repressed promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_J64067", 
-        "Name": "LuxR+3OC6HSL independent R0065"
+        "Category": "repressible", 
+        "Common Name": "LuxR+3OC6HSL independent R0065"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_J64068", 
-        "Name": "increased strength R0051"
+        "Category": "repressible", 
+        "Common Name": "increased strength R0051"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_J64069", 
-        "Name": "R0065 with lux box deleted"
+        "Category": "repressible", 
+        "Common Name": "R0065 with lux box deleted"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_J64712", 
-        "Name": "LasR/LasI Inducible & RHLR/RHLI repressible Promoter"
+        "Category": "repressible", 
+        "Common Name": "LasR/LasI Inducible & RHLR/RHLI repressible Promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_J64800", 
-        "Name": "RHLR/RHLI Inducible & LasR/LasI repressible Promoter"
+        "Category": "repressible", 
+        "Common Name": "RHLR/RHLI Inducible & LasR/LasI repressible Promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_J64981", 
-        "Name": "OmpR-P strong binding, regulatory region for Team Challenge03-2007"
+        "Category": "repressible", 
+        "Common Name": "OmpR-P strong binding, regulatory region for Team Challenge03-2007"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_J64987", 
-        "Name": "LacI Consensus Binding Site in sigma 70 binding region"
+        "Category": "repressible", 
+        "Common Name": "LacI Consensus Binding Site in sigma 70 binding region"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_J72005", 
-        "Name": "{Ptet} promoter in BBb"
+        "Category": "repressible", 
+        "Common Name": "{Ptet} promoter in BBb"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K086017", 
-        "Name": "unmodified Lutz-Bujard LacO promoter"
+        "Category": "repressible", 
+        "Common Name": "unmodified Lutz-Bujard LacO promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K091157", 
-        "Name": "pLux/Las Hybrid Promoter"
+        "Category": "repressible", 
+        "Common Name": "pLux/Las Hybrid Promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K093008", 
-        "Name": "reverse BBa_R0011"
+        "Category": "repressible", 
+        "Common Name": "reverse BBa_R0011"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K094140", 
-        "Name": "pLacIq"
+        "Category": "repressible", 
+        "Common Name": "pLacIq"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K101000", 
-        "Name": "Dual-Repressed Promoter for p22 mnt and TetR"
+        "Category": "repressible", 
+        "Common Name": "Dual-Repressed Promoter for p22 mnt and TetR"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K101001", 
-        "Name": "Dual-Repressed Promoter for LacI and LambdacI"
+        "Category": "repressible", 
+        "Common Name": "Dual-Repressed Promoter for LacI and LambdacI"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K101002", 
-        "Name": "Dual-Repressed Promoter for p22 cII and TetR"
+        "Category": "repressible", 
+        "Common Name": "Dual-Repressed Promoter for p22 cII and TetR"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K112701", 
-        "Name": "hns promoter"
+        "Category": "repressible", 
+        "Common Name": "hns promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K112708", 
-        "Name": "PfhuA"
+        "Category": "repressible", 
+        "Common Name": "PfhuA"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K121011", 
-        "Name": "promoter (lacI regulated)"
+        "Category": "repressible", 
+        "Common Name": "promoter (lacI regulated)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K121014", 
-        "Name": "promoter (lambda cI regulated)"
+        "Category": "repressible", 
+        "Common Name": "promoter (lambda cI regulated)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K145152", 
-        "Name": "Hybrid promoter: P22 c2 , LacI NOR gate"
+        "Category": "repressible", 
+        "Common Name": "Hybrid promoter: P22 c2 , LacI NOR gate"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K256028", 
-        "Name": "placI:CHE"
+        "Category": "repressible", 
+        "Common Name": "placI:CHE"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K266011", 
-        "Name": "Lac Inverter and strong RBS"
+        "Category": "repressible", 
+        "Common Name": "Lac Inverter and strong RBS"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_M31370", 
-        "Name": "tacI Promoter"
+        "Category": "repressible", 
+        "Common Name": "tacI Promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R2108", 
-        "Name": "Promoter with operator site for C2003"
+        "Category": "repressible", 
+        "Common Name": "Promoter with operator site for C2003"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R2110", 
-        "Name": "Promoter with operator site for C2003"
+        "Category": "repressible", 
+        "Common Name": "Promoter with operator site for C2003"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R2111", 
-        "Name": "Promoter with operator site for C2003"
+        "Category": "repressible", 
+        "Common Name": "Promoter with operator site for C2003"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R2112", 
-        "Name": "Promoter with operator site for C2003"
+        "Category": "repressible", 
+        "Common Name": "Promoter with operator site for C2003"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R2113", 
-        "Name": "Promoter with operator site for C2003"
+        "Category": "repressible", 
+        "Common Name": "Promoter with operator site for C2003"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R2201", 
-        "Name": "C2006-repressible promoter"
+        "Category": "repressible", 
+        "Common Name": "C2006-repressible promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_S03385", 
-        "Name": "Cold-sensing promoter (hybB)"
+        "Category": "repressible", 
+        "Common Name": "Cold-sensing promoter (hybB)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_S04209", 
-        "Name": "R0051:Q04121:B0034:C0079:B0015"
+        "Category": "repressible", 
+        "Common Name": "R0051:Q04121:B0034:C0079:B0015"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K112318", 
-        "Name": "{< bolA promoter>} in BBb format"
+        "Category": "repressible", 
+        "Common Name": "{< bolA promoter>} in BBb format"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K086030", 
-        "Name": "modified Lutz-Bujard LacO promoter,with alternative sigma factor  sigma38 "
+        "Category": "repressible", 
+        "Common Name": "modified Lutz-Bujard LacO promoter,with alternative sigma factor  sigma38 "
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K086031", 
-        "Name": "modified Lutz-Bujard LacO promoter,with alternative sigma factor  sigma38 "
+        "Category": "repressible", 
+        "Common Name": "modified Lutz-Bujard LacO promoter,with alternative sigma factor  sigma38 "
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K086032", 
-        "Name": "modified Lutz-Bujard LacO promoter,with alternative sigma factor  sigma38 "
+        "Category": "repressible", 
+        "Common Name": "modified Lutz-Bujard LacO promoter,with alternative sigma factor  sigma38 "
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K086033", 
-        "Name": "modified Lutz-Bujard LacO promoter,with alternative sigma factor  sigma38 "
+        "Category": "repressible", 
+        "Common Name": "modified Lutz-Bujard LacO promoter,with alternative sigma factor  sigma38 "
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K086026", 
-        "Name": "modified Lutz-Bujard LacO promoter,with alternative sigma factor  sigma32 "
+        "Category": "repressible", 
+        "Common Name": "modified Lutz-Bujard LacO promoter,with alternative sigma factor  sigma32 "
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K086027", 
-        "Name": "modified Lutz-Bujard LacO promoter,with alternative sigma factor  sigma32 "
+        "Category": "repressible", 
+        "Common Name": "modified Lutz-Bujard LacO promoter,with alternative sigma factor  sigma32 "
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K086028", 
-        "Name": "modified Lutz-Bujard LacO promoter,with alternative sigma factor  sigma32 "
+        "Category": "repressible", 
+        "Common Name": "modified Lutz-Bujard LacO promoter,with alternative sigma factor  sigma32 "
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K086029", 
-        "Name": "modified Lutz-Bujard LacO promoter,with alternative sigma factor  sigma32 "
+        "Category": "repressible", 
+        "Common Name": "modified Lutz-Bujard LacO promoter,with alternative sigma factor  sigma32 "
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K090501", 
-        "Name": "Gram-Positive IPTG-Inducible Promoter"
+        "Category": "repressible", 
+        "Common Name": "Gram-Positive IPTG-Inducible Promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K143014", 
-        "Name": "Gram-Positive IPTG-Inducible Promoter"
+        "Category": "repressible", 
+        "Common Name": "Gram-Positive IPTG-Inducible Promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K143015", 
-        "Name": "Gram-Positive IPTG-Inducible Promoter"
+        "Category": "repressible", 
+        "Common Name": "Gram-Positive IPTG-Inducible Promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R0184", 
-        "Name": ""
+        "Category": "repressible", 
+        "Common Name": ""
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R0185", 
-        "Name": "T7 promoter (lacI repressible)"
+        "Category": "repressible", 
+        "Common Name": "T7 promoter (lacI repressible)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R0186", 
-        "Name": "T7 promoter (lacI repressible)"
+        "Category": "repressible", 
+        "Common Name": "T7 promoter (lacI repressible)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_R0187", 
-        "Name": "T7 promoter (lacI repressible)"
+        "Category": "repressible", 
+        "Common Name": "T7 promoter (lacI repressible)"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K165000", 
-        "Name": "MET 25 Promoter"
+        "Category": "repressible", 
+        "Common Name": "MET 25 Promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I766558", 
-        "Name": "pFig1 (Inducible) Promoter "
+        "Category": "repressible", 
+        "Common Name": "pFig1 (Inducible) Promoter "
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I766214", 
-        "Name": "pGal1"
+        "Category": "repressible", 
+        "Common Name": "pGal1"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K950000", 
-        "Name": "yeast fet3 promotor"
+        "Category": "repressible", 
+        "Common Name": "yeast fet3 promotor"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K950002", 
-        "Name": "yeast anb1 promotor"
+        "Category": "repressible", 
+        "Common Name": "yeast anb1 promotor"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_K950003", 
-        "Name": "yeast suc2 promotor"
+        "Category": "repressible", 
+        "Common Name": "yeast suc2 promotor"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I756015", 
-        "Name": "CMV Promoter with lac operator sites"
+        "Category": "repressible", 
+        "Common Name": "CMV Promoter with lac operator sites"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I756016", 
-        "Name": "CMV-tet promoter"
+        "Category": "repressible", 
+        "Common Name": "CMV-tet promoter"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I756017", 
-        "Name": "U6 promoter with tet operators"
+        "Category": "repressible", 
+        "Common Name": "U6 promoter with tet operators"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I756018", 
-        "Name": "Lambda Operator in SV-40 intron"
+        "Category": "repressible", 
+        "Common Name": "Lambda Operator in SV-40 intron"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I756019", 
-        "Name": "Lac Operator in SV-40 intron"
+        "Category": "repressible", 
+        "Common Name": "Lac Operator in SV-40 intron"
     }, 
     {
-        "Category": "repressible", 
         "Id": "BBa_I756020", 
-        "Name": "Tet Operator in SV-40 intron"
-    }, 
-    {
         "Category": "repressible", 
+        "Common Name": "Tet Operator in SV-40 intron"
+    }, 
+    {
         "Id": "BBa_I756021", 
-        "Name": "CMV promoter with Lambda Operator"
+        "Category": "repressible", 
+        "Common Name": "CMV promoter with Lambda Operator"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I714924", 
-        "Name": "RecA_DlexO_DLacO1"
+        "Category": "multiple", 
+        "Common Name": "RecA_DlexO_DLacO1"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K094120", 
-        "Name": "pLacI/ara-1"
+        "Category": "multiple", 
+        "Common Name": "pLacI/ara-1"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K100000", 
-        "Name": "Natural Xylose Regulated Bi-Directional Operator"
+        "Category": "multiple", 
+        "Common Name": "Natural Xylose Regulated Bi-Directional Operator"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K266005", 
-        "Name": "PAI+LasR -> LasI & AI+LuxR --| LasI"
+        "Category": "multiple", 
+        "Common Name": "PAI+LasR -> LasI & AI+LuxR --| LasI"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K266006", 
-        "Name": "PAI+LasR -> LasI+GFP  &  AI+LuxR --| LasI+GFP"
+        "Category": "multiple", 
+        "Common Name": "PAI+LasR -> LasI+GFP  &  AI+LuxR --| LasI+GFP"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K266007", 
-        "Name": "Complex QS -> LuxI & LasI circuit"
+        "Category": "multiple", 
+        "Common Name": "Complex QS -> LuxI & LasI circuit"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I1051", 
-        "Name": "Lux cassette right promoter"
+        "Category": "multiple", 
+        "Common Name": "Lux cassette right promoter"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I12006", 
-        "Name": "Modified lamdba Prm promoter (repressed by 434 cI)"
+        "Category": "multiple", 
+        "Common Name": "Modified lamdba Prm promoter (repressed by 434 cI)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I12036", 
-        "Name": "Modified lamdba Prm promoter (cooperative repression by 434 cI)"
+        "Category": "multiple", 
+        "Common Name": "Modified lamdba Prm promoter (cooperative repression by 434 cI)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I12040", 
-        "Name": "Modified lambda P(RM) promoter: -10 region from P(L) and cooperatively repressed by 434 cI"
+        "Category": "multiple", 
+        "Common Name": "Modified lambda P(RM) promoter: -10 region from P(L) and cooperatively repressed by 434 cI"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I14015", 
-        "Name": "P(Las) TetO"
+        "Category": "multiple", 
+        "Common Name": "P(Las) TetO"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I14016", 
-        "Name": "P(Las) CIO"
+        "Category": "multiple", 
+        "Common Name": "P(Las) CIO"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I741018", 
-        "Name": "Right facing promoter (for xylF) controlled by xylR and CRP-cAMP"
+        "Category": "multiple", 
+        "Common Name": "Right facing promoter (for xylF) controlled by xylR and CRP-cAMP"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I742124", 
-        "Name": "Reverse complement Lac promoter"
+        "Category": "multiple", 
+        "Common Name": "Reverse complement Lac promoter"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I761011", 
-        "Name": "CinR, CinL and glucose controlled promotor"
+        "Category": "multiple", 
+        "Common Name": "CinR, CinL and glucose controlled promotor"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I765007", 
-        "Name": "Fe and UV promoters"
+        "Category": "multiple", 
+        "Common Name": "Fe and UV promoters"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_J58100", 
-        "Name": "AND-type promoter synergistically activated by cI and CRP"
+        "Category": "multiple", 
+        "Common Name": "AND-type promoter synergistically activated by cI and CRP"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K091100", 
-        "Name": "pLac_lux hybrid promoter"
+        "Category": "multiple", 
+        "Common Name": "pLac_lux hybrid promoter"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K091101", 
-        "Name": "pTet_Lac hybrid promoter"
+        "Category": "multiple", 
+        "Common Name": "pTet_Lac hybrid promoter"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K091104", 
-        "Name": "pLac/Mnt Hybrid Promoter"
+        "Category": "multiple", 
+        "Common Name": "pLac/Mnt Hybrid Promoter"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K091105", 
-        "Name": "pTet/Mnt Hybrid Promoter"
+        "Category": "multiple", 
+        "Common Name": "pTet/Mnt Hybrid Promoter"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K091106", 
-        "Name": "LsrA/cI hybrid promoter"
+        "Category": "multiple", 
+        "Common Name": "LsrA/cI hybrid promoter"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K091107", 
-        "Name": "pLux/cI Hybrid Promoter"
+        "Category": "multiple", 
+        "Common Name": "pLux/cI Hybrid Promoter"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K091143", 
-        "Name": "pLas/cI Hybrid Promoter"
+        "Category": "multiple", 
+        "Common Name": "pLas/cI Hybrid Promoter"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K091146", 
-        "Name": "pLas/Lux Hybrid Promoter"
+        "Category": "multiple", 
+        "Common Name": "pLas/Lux Hybrid Promoter"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K109200", 
-        "Name": "AraC and TetR promoter (hybrid)"
+        "Category": "multiple", 
+        "Common Name": "AraC and TetR promoter (hybrid)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K112118", 
-        "Name": "rrnB P1 promoter"
+        "Category": "multiple", 
+        "Common Name": "rrnB P1 promoter"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K112318", 
-        "Name": "{< bolA promoter>} in BBb format"
+        "Category": "multiple", 
+        "Common Name": "{< bolA promoter>} in BBb format"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K112322", 
-        "Name": "{Pdps}  in BBb format"
+        "Category": "multiple", 
+        "Common Name": "{Pdps}  in BBb format"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K112402", 
-        "Name": "promoter for FabA gene -  Membrane Damage and Ultrasound Senstitive"
+        "Category": "multiple", 
+        "Common Name": "promoter for FabA gene -  Membrane Damage and Ultrasound Senstitive"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K112405", 
-        "Name": "Promoter for CadA and CadB genes"
+        "Category": "multiple", 
+        "Common Name": "Promoter for CadA and CadB genes"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K112406", 
-        "Name": "cadC promoter"
+        "Category": "multiple", 
+        "Common Name": "cadC promoter"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K116001", 
-        "Name": "nhaA promoter, that can be regulated by pH and nhaR protein."
+        "Category": "multiple", 
+        "Common Name": "nhaA promoter, that can be regulated by pH and nhaR protein."
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K116500", 
-        "Name": "nhaA promoter, that can be regulated by pH and nhaR protein."
+        "Category": "multiple", 
+        "Common Name": "nhaA promoter, that can be regulated by pH and nhaR protein."
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K136010", 
-        "Name": "fliA promoter"
+        "Category": "multiple", 
+        "Common Name": "fliA promoter"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K145150", 
-        "Name": "Hybrid promoter: HSL-LuxR activated, P22 C2 repressed"
+        "Category": "multiple", 
+        "Common Name": "Hybrid promoter: HSL-LuxR activated, P22 C2 repressed"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K259005", 
-        "Name": "AraC Rheostat Promoter"
+        "Category": "multiple", 
+        "Common Name": "AraC Rheostat Promoter"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K259007", 
-        "Name": "AraC Promoter fused with RBS"
+        "Category": "multiple", 
+        "Common Name": "AraC Promoter fused with RBS"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_R0065", 
-        "Name": "Promoter (lambda cI and luxR regulated -- hybrid)"
+        "Category": "multiple", 
+        "Common Name": "Promoter (lambda cI and luxR regulated -- hybrid)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I731004", 
-        "Name": "Promoter (lambda cI and luxR regulated -- hybrid)"
+        "Category": "multiple", 
+        "Common Name": "Promoter (lambda cI and luxR regulated -- hybrid)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732301", 
-        "Name": "NAND Candidate (U073O26D001O16)"
+        "Category": "multiple", 
+        "Common Name": "NAND Candidate (U073O26D001O16)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732302", 
-        "Name": "NAND Candidate (U073O27D001O17)"
+        "Category": "multiple", 
+        "Common Name": "NAND Candidate (U073O27D001O17)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732303", 
-        "Name": "NAND Candidate (U073O22D001O46)"
+        "Category": "multiple", 
+        "Common Name": "NAND Candidate (U073O22D001O46)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732304", 
-        "Name": "NAND Candidate (U073O22D001O47)"
+        "Category": "multiple", 
+        "Common Name": "NAND Candidate (U073O22D001O47)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732305", 
-        "Name": "NAND Candidate (U073O22D059O46)"
+        "Category": "multiple", 
+        "Common Name": "NAND Candidate (U073O22D059O46)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732306", 
-        "Name": "NAND Candidate (U073O11D002O22)"
+        "Category": "multiple", 
+        "Common Name": "NAND Candidate (U073O11D002O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732351", 
-        "Name": "NOR Candidate (U037O11D002O22)"
+        "Category": "multiple", 
+        "Common Name": "NOR Candidate (U037O11D002O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732352", 
-        "Name": "NOR Candidate (U035O44D001O22)"
+        "Category": "multiple", 
+        "Common Name": "NOR Candidate (U035O44D001O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732400", 
-        "Name": "Promoter Family Member (U097NUL+D062NUL)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U097NUL+D062NUL)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732401", 
-        "Name": "Promoter Family Member (U097O11+D062NUL)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U097O11+D062NUL)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732402", 
-        "Name": "Promoter Family Member (U085O11+D062NUL)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U085O11+D062NUL)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732403", 
-        "Name": "Promoter Family Member (U073O11+D062NUL)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U073O11+D062NUL)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732404", 
-        "Name": "Promoter Family Member (U061O11+D062NUL)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U061O11+D062NUL)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732405", 
-        "Name": "Promoter Family Member (U049O11+D062NUL)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U049O11+D062NUL)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732406", 
-        "Name": "Promoter Family Member (U037O11+D062NUL)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U037O11+D062NUL)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732407", 
-        "Name": "Promoter Family Member (U097NUL+D002O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U097NUL+D002O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732408", 
-        "Name": "Promoter Family Member (U097NUL+D014O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U097NUL+D014O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732409", 
-        "Name": "Promoter Family Member (U097NUL+D026O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U097NUL+D026O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732410", 
-        "Name": "Promoter Family Member (U097NUL+D038O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U097NUL+D038O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732411", 
-        "Name": "Promoter Family Member (U097NUL+D050O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U097NUL+D050O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732412", 
-        "Name": "Promoter Family Member (U097NUL+D062O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U097NUL+D062O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732413", 
-        "Name": "Promoter Family Member (U097O11+D002O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U097O11+D002O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732414", 
-        "Name": "Promoter Family Member (U097O11+D014O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U097O11+D014O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732415", 
-        "Name": "Promoter Family Member (U097O11+D026O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U097O11+D026O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732416", 
-        "Name": "Promoter Family Member (U097O11+D038O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U097O11+D038O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732417", 
-        "Name": "Promoter Family Member (U097O11+D050O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U097O11+D050O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732418", 
-        "Name": "Promoter Family Member (U097O11+D062O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U097O11+D062O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732419", 
-        "Name": "Promoter Family Member (U085O11+D002O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U085O11+D002O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732420", 
-        "Name": "Promoter Family Member (U085O11+D014O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U085O11+D014O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732421", 
-        "Name": "Promoter Family Member (U085O11+D026O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U085O11+D026O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732422", 
-        "Name": "Promoter Family Member (U085O11+D038O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U085O11+D038O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732423", 
-        "Name": "Promoter Family Member (U085O11+D050O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U085O11+D050O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732424", 
-        "Name": "Promoter Family Member (U085O11+D062O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U085O11+D062O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732425", 
-        "Name": "Promoter Family Member (U073O11+D002O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U073O11+D002O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732426", 
-        "Name": "Promoter Family Member (U073O11+D014O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U073O11+D014O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732427", 
-        "Name": "Promoter Family Member (U073O11+D026O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U073O11+D026O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732428", 
-        "Name": "Promoter Family Member (U073O11+D038O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U073O11+D038O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732429", 
-        "Name": "Promoter Family Member (U073O11+D050O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U073O11+D050O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732430", 
-        "Name": "Promoter Family Member (U073O11+D062O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U073O11+D062O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732431", 
-        "Name": "Promoter Family Member (U061O11+D002O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U061O11+D002O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732432", 
-        "Name": "Promoter Family Member (U061O11+D014O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U061O11+D014O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732433", 
-        "Name": "Promoter Family Member (U061O11+D026O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U061O11+D026O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732434", 
-        "Name": "Promoter Family Member (U061O11+D038O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U061O11+D038O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732435", 
-        "Name": "Promoter Family Member (U061O11+D050O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U061O11+D050O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732436", 
-        "Name": "Promoter Family Member (U061O11+D062O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U061O11+D062O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732437", 
-        "Name": "Promoter Family Member (U049O11+D002O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U049O11+D002O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732438", 
-        "Name": "Promoter Family Member (U049O11+D014O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U049O11+D014O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732439", 
-        "Name": "Promoter Family Member (U049O11+D026O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U049O11+D026O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732440", 
-        "Name": "Promoter Family Member (U049O11+D038O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U049O11+D038O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732441", 
-        "Name": "Promoter Family Member (U049O11+D050O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U049O11+D050O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732442", 
-        "Name": "Promoter Family Member (U049O11+D062O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U049O11+D062O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732443", 
-        "Name": "Promoter Family Member (U037O11+D002O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U037O11+D002O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732444", 
-        "Name": "Promoter Family Member (U037O11+D014O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U037O11+D014O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732445", 
-        "Name": "Promoter Family Member (U037O11+D026O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U037O11+D026O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732446", 
-        "Name": "Promoter Family Member (U037O11+D038O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U037O11+D038O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732447", 
-        "Name": "Promoter Family Member (U037O11+D050O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U037O11+D050O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732448", 
-        "Name": "Promoter Family Member (U037O11+D062O22)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U037O11+D062O22)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732450", 
-        "Name": "Promoter Family Member (U073O26+D062NUL)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U073O26+D062NUL)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732451", 
-        "Name": "Promoter Family Member (U073O27+D062NUL)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U073O27+D062NUL)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I732452", 
-        "Name": "Promoter Family Member (U073O26+D062O61)"
+        "Category": "multiple", 
+        "Common Name": "Promoter Family Member (U073O26+D062O61)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I739102", 
-        "Name": "Double Promoter (cI, negative / TetR, negative)"
+        "Category": "multiple", 
+        "Common Name": "Double Promoter (cI, negative / TetR, negative)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I739103", 
-        "Name": "Double Promoter (lacI, negative / P22 cII, negative)"
+        "Category": "multiple", 
+        "Common Name": "Double Promoter (lacI, negative / P22 cII, negative)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I739104", 
-        "Name": "Double Promoter (LuxR/HSL, positive / P22 cII, negative)"
+        "Category": "multiple", 
+        "Common Name": "Double Promoter (LuxR/HSL, positive / P22 cII, negative)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I739105", 
-        "Name": "Double Promoter (LuxR/HSL, positive / cI, negative)"
+        "Category": "multiple", 
+        "Common Name": "Double Promoter (LuxR/HSL, positive / cI, negative)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I739106", 
-        "Name": "Double Promoter (TetR, negative / P22 cII, negative)"
+        "Category": "multiple", 
+        "Common Name": "Double Promoter (TetR, negative / P22 cII, negative)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I739107", 
-        "Name": "Double Promoter (cI, negative / LacI, negative)"
+        "Category": "multiple", 
+        "Common Name": "Double Promoter (cI, negative / LacI, negative)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I741019", 
-        "Name": "Right facing promoter (for xylA) controlled by xylR and CRP-cAMP"
+        "Category": "multiple", 
+        "Common Name": "Right facing promoter (for xylA) controlled by xylR and CRP-cAMP"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I751501", 
-        "Name": "plux-cI hybrid promoter"
+        "Category": "multiple", 
+        "Common Name": "plux-cI hybrid promoter"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I751502", 
-        "Name": "plux-lac hybrid promoter"
+        "Category": "multiple", 
+        "Common Name": "plux-lac hybrid promoter"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_J05209", 
-        "Name": "Modifed Pr Promoter"
+        "Category": "multiple", 
+        "Common Name": "Modifed Pr Promoter"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_J05210", 
-        "Name": "Modifed Prm+ Promoter"
+        "Category": "multiple", 
+        "Common Name": "Modifed Prm+ Promoter"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_J64712", 
-        "Name": "LasR/LasI Inducible & RHLR/RHLI repressible Promoter"
+        "Category": "multiple", 
+        "Common Name": "LasR/LasI Inducible & RHLR/RHLI repressible Promoter"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_J64800", 
-        "Name": "RHLR/RHLI Inducible & LasR/LasI repressible Promoter"
+        "Category": "multiple", 
+        "Common Name": "RHLR/RHLI Inducible & LasR/LasI repressible Promoter"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_J64804", 
-        "Name": "The promoter region (inclusive of regulator binding sites) of the B. subtilis RocDEF operon"
+        "Category": "multiple", 
+        "Common Name": "The promoter region (inclusive of regulator binding sites) of the B. subtilis RocDEF operon"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_J64979", 
-        "Name": "glnAp2"
+        "Category": "multiple", 
+        "Common Name": "glnAp2"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_J64981", 
-        "Name": "OmpR-P strong binding, regulatory region for Team Challenge03-2007"
+        "Category": "multiple", 
+        "Common Name": "OmpR-P strong binding, regulatory region for Team Challenge03-2007"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K091157", 
-        "Name": "pLux/Las Hybrid Promoter"
+        "Category": "multiple", 
+        "Common Name": "pLux/Las Hybrid Promoter"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K101000", 
-        "Name": "Dual-Repressed Promoter for p22 mnt and TetR"
+        "Category": "multiple", 
+        "Common Name": "Dual-Repressed Promoter for p22 mnt and TetR"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K101001", 
-        "Name": "Dual-Repressed Promoter for LacI and LambdacI"
+        "Category": "multiple", 
+        "Common Name": "Dual-Repressed Promoter for LacI and LambdacI"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K101002", 
-        "Name": "Dual-Repressed Promoter for p22 cII and TetR"
+        "Category": "multiple", 
+        "Common Name": "Dual-Repressed Promoter for p22 cII and TetR"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K112701", 
-        "Name": "hns promoter"
+        "Category": "multiple", 
+        "Common Name": "hns promoter"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K121011", 
-        "Name": "promoter (lacI regulated)"
+        "Category": "multiple", 
+        "Common Name": "promoter (lacI regulated)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K145152", 
-        "Name": "Hybrid promoter: P22 c2 , LacI NOR gate"
+        "Category": "multiple", 
+        "Common Name": "Hybrid promoter: P22 c2 , LacI NOR gate"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_S03385", 
-        "Name": "Cold-sensing promoter (hybB)"
+        "Category": "multiple", 
+        "Common Name": "Cold-sensing promoter (hybB)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K125100", 
-        "Name": "nir promoter from <I>Synechocystis</I> sp. PCC6803"
+        "Category": "multiple", 
+        "Common Name": "nir promoter from Synechocystis sp. PCC6803"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_I766200", 
-        "Name": "pSte2"
+        "Category": "multiple", 
+        "Common Name": "pSte2"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K110016", 
-        "Name": "A-Cell Promoter  STE2 (backwards)"
+        "Category": "multiple", 
+        "Common Name": "A-Cell Promoter  STE2 (backwards)"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K165034", 
-        "Name": " Zif268-HIV bs + LexA bs +  mCYC promoter"
+        "Category": "multiple", 
+        "Common Name": " Zif268-HIV bs + LexA bs +  mCYC promoter"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K165041", 
-        "Name": " Zif268-HIV binding sites + TEF constitutive yeast promoter "
+        "Category": "multiple", 
+        "Common Name": " Zif268-HIV binding sites + TEF constitutive yeast promoter "
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_K165043", 
-        "Name": " Zif268-HIV binding sites + MET25 constitutive yeast promoter "
+        "Category": "multiple", 
+        "Common Name": " Zif268-HIV binding sites + MET25 constitutive yeast promoter "
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_J05215", 
-        "Name": "Regulator for R1-CREBH"
+        "Category": "multiple", 
+        "Common Name": "Regulator for R1-CREBH"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_J05216", 
-        "Name": "Regulator for R3-ATF6"
+        "Category": "multiple", 
+        "Common Name": "Regulator for R3-ATF6"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_J05217", 
-        "Name": "Regulator for R2-YAP7"
+        "Category": "multiple", 
+        "Common Name": "Regulator for R2-YAP7"
     }, 
     {
-        "Category": "multiple", 
         "Id": "BBa_J05218", 
-        "Name": "Regulator for R4-cMaf"
+        "Category": "multiple", 
+        "Common Name": "Regulator for R4-cMaf"
     }
 ]

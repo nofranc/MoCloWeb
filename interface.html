@@ -2,10 +2,71 @@
 <html lang="en">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-		<title>Document</title>
+		<title>MoClo Web</title>
+		
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" />
+		<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+
+		<!--EasyTabs-->
+		<script src="js/easytabs/lib/jquery.easytabs.js" type="text/javascript"></script>
+		<!--<script src="js/easytabs/lib/jquery.ba-hashchange.js" type="text/javascript"></script>-->
+
+		<style>
+			#level0{
+				border: 1px solid black;
+			}
+		</style>
+
+
+		<script>
+			$(function(){
+				var types = ["promoters", "rbs", "cds", "terminators"];
+				var listTypes = ["promTab", "rbsTab", "cdsTab", "terminTab"];
+
+				$.each(types, function(index, value) { //parse each .json
+				
+					$.getJSON(value + ".json", function( data ) {
+						var promoters = [];
+
+						$.each(data, function(index, value){ //json array
+							var promoter = "<li class='" + types[0] + "'>";
+							
+							$.each(value, function(key, val) { //json dict
+								promoter += "<span class='" + key + "'>" + val + "</span><br>";
+
+							});
+							promoter += "</li>";
+							promoters.push(promoter);
+						});
+						
+						$("<ul/>", {
+							"class": "partsList",
+							html: promoters.join("")
+						}).appendTo("#" + listTypes[index]);
+						
+					});
+
+				});
+
+				$("#level0").easytabs();
+
+			});
+		</script>
 	</head>
 	<body>
-		Hello
+		<div id = "level0">
+			<ul id="etabs">
+				<li class="tab"><a href="#promTab">Promoters</a></li>
+				<li class="tab"><a href="#rbsTab">RBS</a></li>
+				<li class="tab"><a href="#cdsTab">CDS</a></li>
+				<li class="tab"><a href="#terminTab">Terminators</a></li>
+			</ul>
+			<div id="promTab"></div>
+			<div id="rbsTab"></div>
+			<div id="cdsTab"></div>
+			<div id="terminTab"></div>
+		</div>
 		
 	</body>
 </html>
