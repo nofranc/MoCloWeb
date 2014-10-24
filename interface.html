@@ -20,6 +20,11 @@
 				left: 500px;
 				padding:10px;
 				width: 400px;
+				height: 200px;
+				background-color: #fff;
+				overflow:scroll;
+				overflow-x:hidden;
+				word-wrap:break-word;
 			}
 		</style>
 
@@ -63,13 +68,16 @@
 					}
 				});
 
-				//load info for datasheet 
+				//load info for datasheet (maybe can do with loading site & parsing xml instead)
+				//--> http://parts.igem.org/cgi/xml/part.cgi?part=<part-id>
 				$(document).on("click", "#parts > * > span", function(){
 					if($(this).attr("class") == "Id"){
 						var partID = $(this).html();
+						
 						$.get(partID + ".txt", function(data) {
 							$("#datasheet").html(data);
 						});
+						
 					}
 				});
 
