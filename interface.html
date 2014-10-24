@@ -19,8 +19,8 @@
 			#datasheet{
 				position:absolute;
 				border: 1px solid black;
-				top: 50px;
-				left: 500px;
+				top: 20px;
+				right: 10px;
 				padding:10px;
 				width: 400px;
 				height: 200px;
@@ -29,6 +29,19 @@
 				overflow-x:hidden;
 				word-wrap:break-word;
 			}
+
+			#level0 ul{
+				float:left;
+				border: 1px solid black;
+			}
+
+			#parts{
+				overflow:scroll;
+				height: 200px;
+				width: 300px;
+				overflow-x:hidden;
+			}
+
 		</style>
 
 
@@ -60,7 +73,7 @@
 				});
 
 				//Tab functionality
-				$("#etabs > *").click(function(){
+				$("#tabs > *").click(function(){
 					var i = listTypes.indexOf(this.id);
 
 					if(i > -1){
@@ -91,7 +104,7 @@
 	</head>
 	<body>
 		<div id = "level0">
-			<ul id="etabs">
+			<ul id="tabs">
 				<li id="promTab">Promoters</li>
 				<li id="rbsTab">RBS</li>
 				<li id="cdsTab">CDS</li>
@@ -99,8 +112,8 @@
 				<li id="allTab">Search All</li>
 			</ul>
 			<ul id="parts"></ul>
-			<div id="datasheet"></div>
 		</div>
+		<div id="datasheet"></div>
 		
 	</body>
 </html>
