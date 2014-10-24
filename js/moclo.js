@@ -6,6 +6,20 @@ $(function(){
 		terminators: "terminModules"
 	};
 
+	/***** Datasheet *****/
+	//To - do: clicking anywhere in the part box should yield datasheet
+	$(document).on("click", "#parts > * > span", function(){
+		if($(this).attr("class") == "Id"){
+			var partID = $(this).html();
+			
+			$.get(partID + ".txt", function(data) {
+				$("#datasheet").html(data);
+			});
+			
+		}
+	});
+
+
 	/*******************************/
 	/*********** Level 0 ***********/
 	/*******************************/
@@ -19,13 +33,16 @@ $(function(){
 		}
 	});
 
-	//List all parts by category
+	/***** Load All Parts *****/
+
 	var types = ["promoters", "rbs", "cds", "terminators"];
 	var listTypes = ["promTab", "rbsTab", "cdsTab", "terminTab"];
+	var categ = ["promoCat", "rbsCat", "cdsCat", "terminCat"];
 
 	$.each(types, function(index, value) { //parse each .json
 
 		$.getJSON(value + ".json", function( data ) {
+			var categories = []; //keep track of different part categories
 			var allParts = [];
 			$.each(data, function(i, v){ //json array
 				var part = "<li class='" + value + "'>";
@@ -34,10 +51,17 @@ $(function(){
 
 				});
 				part += "</li>";
+
+				var category = "<li class='" + categ[index] + "'>" + v["Category"] + "</li>";
+				var len = categories.length;
+
+				if (categories[len-1] !== category) categories.push(category);
+
 				allParts.push(part);
 			});
 			
 			$("#parts").append(allParts.join(""));
+			$("#categories").append(categories.join(""));
 			
 		});	
 
@@ -47,27 +71,29 @@ $(function(){
 	$("#tabs > *").click(function(){
 		var i = listTypes.indexOf(this.id);
 
+		var partsLi = $("#parts li");
+		var categLi = $("ul#categories li");
+
 		if(i > -1){
 			$("#parts " + "." + types[i]).show();
-			$("#parts li").not("." + types[i]).hide();
+			$("ul#categories ." + categ[i]).show();
+
+			partsLi.not("." + types[i]).hide();
+			categLi.not("." + categ[i]).hide();
+
 		} else {
-			$("#parts li").show();
+			partsLi.show();
+			categLi.hide();
 		}
 	});
 
-	//load info for datasheet
-	//To - do: clicking anywhere in the part box should yield datasheet
-	$(document).on("click", "#parts > * > span", function(){
-		if($(this).attr("class") == "Id"){
-			var partID = $(this).html();
-			
-			$.get(partID + ".txt", function(data) {
-				$("#datasheet").html(data);
-			});
-			
-		}
+	/****** Search Functionality *****/
+	//Filter by category
+	$(document).on('click', "#categories li", function(){
+		var ele = $("li:has(span.Category:contains('" + $(this).html() + "'))");
+		ele.show();
+		$("#parts > *").not(ele).hide();
 	});
-
 
 	
 	/*******************************/

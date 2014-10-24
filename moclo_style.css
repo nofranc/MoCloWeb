@@ -1,4 +1,4 @@
-#search, #parts, li, #level1, #level2, .network, #terminatorPH, #promoterPH, #rbsPH, #cdsPH, #promoModules, #rbsModules, #cdsModules, #terminModules{
+#search, #parts, #level1, #level2, .network, #terminatorPH, #promoterPH, #rbsPH, #cdsPH, #promoModules, #rbsModules, #cdsModules, #terminModules{
 	border:1px solid black;
 	
 }
@@ -17,7 +17,7 @@
 	padding: 1%;
 	width: 85%;
 	padding:0;
-	height: 60%;
+	height: 35%;
 }
 
 #datasheet{
@@ -54,6 +54,18 @@
 
 }
 
+ul#categories{
+	height: 80%;
+	overflow-x:hidden;
+	overflow-y:scroll;
+	text-transform:capitalize;
+	text-indent:0;
+}
+
+ul#categories li{
+	display:none;
+}
+
 div#tabs{
 	top:0;
 	text-align:center;
@@ -75,7 +87,7 @@ ul#parts, div#tabs{
 	padding: 0;
 	margin:0;
 	left:20%;
-}
+} 
 
 ul#parts {
 	padding:1%;
@@ -85,13 +97,17 @@ ul#parts {
 	top:20%;
 }
 
-li{
+li {
 	list-style-type: none;
+}
+
+#parts li, #level1 li, #level2 li{
 	margin:1%;
 	float:left;
 	width:50px;
 	height:50px;
 	overflow: hidden;
+	border:1px solid black;
 }
 
 /*******************************/
@@ -100,7 +116,7 @@ li{
 
 #level1{
 	position:absolute;
-	top: 75%;
+	top: 45%;
 }
 
 #promoModules, #rbsModules, #cdsModules, #terminModules{
@@ -110,11 +126,6 @@ li{
 	margin:1%;
 	padding:1%;
 }
-
-/*
-.partType, .modules{
-	border: 1px solid black;
-}*/
 
 #level1 .partType{
 	height: 15%;
@@ -134,7 +145,7 @@ li{
 
 #level2 {
 	position:absolute;
-	top: 150%;
+	top: 90%;
 	overflow:scroll;
 }
 
