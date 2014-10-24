@@ -32,7 +32,8 @@
 	overflow:scroll;
 	overflow-x:hidden;
 	word-wrap:break-word;
-	visibility:hidden;
+	z-index:1;
+	visibility: hidden;
 }
 
 /*******************************/

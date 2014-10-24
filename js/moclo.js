@@ -15,7 +15,6 @@ $(function(){
 			$.get(partID + ".txt", function(data) {
 				$("#datasheet").html(data);
 			});
-			
 		}
 	});
 
