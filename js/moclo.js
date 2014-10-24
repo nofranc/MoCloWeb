@@ -6,7 +6,11 @@ $(function(){
 		terminators: "terminModules"
 	};
 
-	//Level 0
+	/*******************************/
+	/*********** Level 0 ***********/
+	/*******************************/
+
+
 	//When selecting a part in level 0, automatically adds to proper category in level 1
 	$(document).on("click", "#parts > *", function(){
 		var modulType = $(this).attr("class");
@@ -66,7 +70,11 @@ $(function(){
 
 
 	
-	//Level 1
+	/*******************************/
+	/*********** Level 1 ***********/
+	/*******************************/
+
+
 	$(".modules").sortable({
 		connectWith: ".placeholder",
 		sort: function(event, ui){
@@ -77,7 +85,12 @@ $(function(){
 		}
 	});
 
-	//Level 2
+
+	/*******************************/
+	/*********** Level 2 ***********/
+	/*******************************/
+
+
 	//To do: 
 	//--> New network box is created once all fields of previous network box are filled
 	

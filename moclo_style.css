@@ -1,4 +1,4 @@
-#parts, #parts li, #level1 li, #level2 li, #level1, #level2, .network, #terminatorPH, #promoterPH, #rbsPH, #cdsPH, #promoModules, #rbsModules, #cdsModules, #terminModules{
+#search, #parts, li, #level1, #level2, .network, #terminatorPH, #promoterPH, #rbsPH, #cdsPH, #promoModules, #rbsModules, #cdsModules, #terminModules{
 	border:1px solid black;
 	
 }
@@ -12,15 +12,18 @@
 }
 
 #level0, #level1, #level2{
+	position: absolute;
 	margin:1%;
 	padding: 1%;
-	width: 800px;
+	width: 85%;
+	padding:0;
+	height: 60%;
 }
 
 #datasheet{
 	position:absolute;
 	border: 1px solid black;
-	top: 20px;
+	top: 15px;
 	right: 10px;
 	padding:10px;
 	width: 400px;
@@ -29,79 +32,128 @@
 	overflow:scroll;
 	overflow-x:hidden;
 	word-wrap:break-word;
+	visibility:hidden;
 }
 
-/*Level 0*/
+/*******************************/
+/*********** Level 0 ***********/
+/*******************************/
+
 #level0{
 	border: 1px solid black;
-	overflow: scroll;
 	overflow-x:hidden;
-	height: 200px;
+	overflow: hidden;
 }
 
-#level0 ul{
-	float:left;
+#search{
+	margin:0;
+	position:relative;
+	height: 89%;
+	width: 18%;
+	padding: 1%;
+
+}
+
+div#tabs{
+	top:0;
+	text-align:center;
+	height: 20%;
+}
+
+div#tabs span{
+	display:inline-block;
+	padding:1.5%;
+	height:35%;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+ul#parts, div#tabs{
+	position:absolute;
 	border: 1px solid black;
+	width: 80%;
+	padding: 0;
+	margin:0;
+	left:20%;
 }
 
-#parts {
-	margin:1%;
+ul#parts {
 	padding:1%;
-	width:31%;
-	height:100px;
+	width:78%;
+	height:69%;
 	overflow:scroll;
+	top:20%;
 }
 
-#parts li, #level1 li, .placeholder li{
+li{
 	list-style-type: none;
 	margin:1%;
-	padding:1%;
 	float:left;
 	width:50px;
 	height:50px;
 	overflow: hidden;
 }
 
-/*Level 1*/
+/*******************************/
+/*********** Level 1 ***********/
+/*******************************/
+
 #level1{
 	position:absolute;
-	height:150px;
-	top: 250px;
-
+	top: 75%;
 }
 
 #promoModules, #rbsModules, #cdsModules, #terminModules{
-	height: 75px;
+	height: 80%;
 	width: 20%;
 	float: left;
 	margin:1%;
 	padding:1%;
 }
 
+/*
+.partType, .modules{
+	border: 1px solid black;
+}*/
+
+#level1 .partType{
+	height: 15%;
+	padding: 5%;
+}
+
 .modules{
 	overflow:scroll;
+	padding: 1%;
+	height: 68%;
 }
 
 
-/*Level 2*/
+/*******************************/
+/*********** Level 2 ***********/
+/*******************************/
+
 #level2 {
 	position:absolute;
-	height: 150px;
-	top: 450px;
+	top: 150%;
+	overflow:scroll;
 }
 
 .network{
 	padding:0;
 	margin: 1%;
-	width: 30%;
-	height: 85px;
+	width: 23%;
 	float:left;
+	height: 45%;
 }
 
 #terminatorPH, #promoterPH, #rbsPH, #cdsPH{
-	height: 70px;
+	height: 80%;
 	width: 22%;
 	float: left;
 	margin:1%;
 	padding:0;
+}
+
+.placeholder{
+	height: 70%;
 }
