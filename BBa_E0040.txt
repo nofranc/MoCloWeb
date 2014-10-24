@@ -1,0 +1,84 @@
+ID: 5309
+Name: BBa_E0040
+Short Name: E0040
+Short Description:  green fluorescent protein derived from jellyfish Aequeora victoria wild-type GFP (SwissProt: P42212
+Type: Coding
+Release Status: Released HQ 2013
+Nickname: GFP
+Rating: 1
+URL: http://parts.igem.org/Part:BBa_E0040
+Entered: 2004-09-30
+Author(s): jcbraff
+Sequence: atgcgtaaaggagaagaacttttcactggagttgtcccaattcttgttgaattagatggtgatgttaatgggcacaaatt
+ttctgtcagtggagagggtgaaggtgatgcaacatacggaaaacttacccttaaatttatttgcactactggaaaactac
+ctgttccatggccaacacttgtcactactttcggttatggtgttcaatgctttgcgagatacccagatcatatgaaacag
+catgactttttcaagagtgccatgcccgaaggttatgtacaggaaagaactatatttttcaaagatgacgggaactacaa
+gacacgtgctgaagtcaagtttgaaggtgatacccttgttaatagaatcgagttaaaaggtattgattttaaagaagatg
+gaaacattcttggacacaaattggaatacaactataactcacacaatgtatacatcatggcagacaaacaaaagaatgga
+atcaaagttaacttcaaaattagacacaacattgaagatggaagcgttcaactagcagaccattatcaacaaaatactcc
+aattggcgatggccctgtccttttaccagacaaccattacctgtccacacaatctgccctttcgaaagatcccaacgaaa
+agagagaccacatggtccttcttgagtttgtaacagctgctgggattacacatggcatggatgaactatacaaataataa
+
+Parameters: 
+	Parameter #1
+		ID: 2668
+		Name: excite
+		Value: 501
+		m_date: 2008-11-29 13:15:14
+		User's ID: 24
+		Username: registry
+	Parameter #2
+		ID: 2669
+		Name: emit
+		Value: 511
+		m_date: 2008-11-29 13:15:14
+		User's ID: 24
+		Username: registry
+	Parameter #3
+		ID: 2670
+		Name: lum
+		Value: NA
+		m_date: 2008-11-29 13:15:14
+		User's ID: 24
+		Username: registry
+	Parameter #4
+		ID: 3854
+		Name: tag
+		Value: None
+		m_date: 2008-11-29 13:15:14
+		User's ID: 24
+		Username: registry
+	Parameter #5
+		ID: 3855
+		Name: excitation
+		Value: NA
+		m_date: 2008-11-29 13:15:14
+		User's ID: 24
+		Username: registry
+	Parameter #6
+		ID: 3856
+		Name: emission
+		Value: NA
+		m_date: 2008-11-29 13:15:14
+		User's ID: 24
+		Username: registry
+	Parameter #7
+		ID: 4124
+		Name: protein
+		Value: GFPmut3b
+		m_date: 2008-11-29 13:15:14
+		User's ID: 24
+		Username: registry
+Categories: 
+	//chassis/prokaryote/bsubtilis
+	//chassis/prokaryote/ecoli
+	//function/reporter
+	//function/reporter/fluorescence
+Twins: 
+	BBa_K294055
+	BBa_T1005
+	BBa_K895006
+	BBa_K783053
+	BBa_K1030008
+	BBa_K1067000
+
