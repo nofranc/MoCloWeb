@@ -9,7 +9,7 @@
 		<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
 		
 		<style>
-			#parts, li, #level1, #level2, .network, #terminatorPH, #promoterPH, #rbsPH, #cdsPH, #promoModules, #rbsModules, #cdsModules, #terminModules{
+			#parts, #parts li, #level1 li, #level2 li, #level1, #level2, .network, #terminatorPH, #promoterPH, #rbsPH, #cdsPH, #promoModules, #rbsModules, #cdsModules, #terminModules{
 				border:1px solid black;
 				
 			}
@@ -18,38 +18,66 @@
 				height:90px;
 			}
 
-			li, .partType{
+			#parts li, .partType{
 				text-align:center;
 			}
 
-			#level1, #level2{
+			#level0, #level1, #level2{
 				margin:1%;
 				padding: 1%;
 				width: 800px;
 			}
 
+			#datasheet{
+				position:absolute;
+				border: 1px solid black;
+				top: 20px;
+				right: 10px;
+				padding:10px;
+				width: 400px;
+				height: 200px;
+				background-color: #fff;
+				overflow:scroll;
+				overflow-x:hidden;
+				word-wrap:break-word;
+			}
+
 			/*Level 0*/
+			#level0{
+				border: 1px solid black;
+				overflow: scroll;
+				overflow-x:hidden;
+				height: 200px;
+			}
+
+			#level0 ul{
+				float:left;
+				border: 1px solid black;
+			}
+
 			#parts {
 				margin:1%;
 				padding:1%;
-				width:15%;
+				width:31%;
 				height:100px;
 				overflow:scroll;
 			}
 
-			li {
+			#parts li, #level1 li, .placeholder li{
 				list-style-type: none;
 				margin:1%;
 				padding:1%;
 				float:left;
 				width:50px;
 				height:50px;
+				overflow: hidden;
 			}
 
 			/*Level 1*/
 			#level1{
 				position:absolute;
 				height:150px;
+				top: 250px;
 
 			}
 
@@ -70,7 +98,7 @@
 			#level2 {
 				position:absolute;
 				height: 150px;
-				top: 350px;
+				top: 450px;
 			}
 
 			.network{
@@ -103,12 +131,63 @@
 
 			//Level 0
 			//When selecting a part in level 0, automatically adds to proper category in level 1
-			$("#parts > *").click(function(){
+			$(document).on("click", "#parts > *", function(){
 				var modulType = $(this).attr("class");
 				if($(this).parent().attr("id")){
 					$(this).appendTo("#" + modules[modulType] + " .modules");
 				}
 			});
+
+			//List all parts by category
+			var types = ["promoters", "rbs", "cds", "terminators"];
+			var listTypes = ["promTab", "rbsTab", "cdsTab", "terminTab"];
+
+			$.each(types, function(index, value) { //parse each .json
+
+				$.getJSON(value + ".json", function( data ) {
+					var allParts = [];
+					$.each(data, function(i, v){ //json array
+						var part = "<li class='" + value + "'>";
+						$.each(v, function(key, val) { //json dict
+							part += "<span class='" + key + "'>" + val + "</span><br>";
+
+						});
+						part += "</li>";
+						allParts.push(part);
+					});
+					
+					$("#parts").append(allParts.join(""));
+					
+				});	
+
+			});
+
+			//Tab functionality
+			$("#tabs > *").click(function(){
+				var i = listTypes.indexOf(this.id);
+
+				if(i > -1){
+					$("#parts " + "." + types[i]).show();
+					$("#parts li").not("." + types[i]).hide();
+				} else {
+					$("#parts li").show();
+				}
+			});
+
+			//load info for datasheet
+			//To - do: clicking anywhere in the part box should yield datasheet
+			$(document).on("click", "#parts > * > span", function(){
+				if($(this).attr("class") == "Id"){
+					var partID = $(this).html();
+					
+					$.get(partID + ".txt", function(data) {
+						$("#datasheet").html(data);
+					});
+					
+				}
+			});
+
+
 			
 			//Level 1
 			$(".modules").sortable({
@@ -210,13 +289,17 @@
 	<body>
 
 		<!--Level 0-->
-		<ul id="parts">
-			<li class="terminators">T1</li>
-			<li class="promoters">P1</li>
-			<li class="rbs">R1</li>
-			<li class="cds">C1</li>
-			<li class="terminators">T2</li>
-		</ul>
+		<div id = "level0">
+			<ul id="tabs">
+				<li id="promTab">Promoters</li>
+				<li id="rbsTab">RBS</li>
+				<li id="cdsTab">CDS</li>
+				<li id="terminTab">Terminators</li>
+				<li id="allTab">Search All</li>
+			</ul>
+			<ul id="parts"></ul>
+		</div>
+		<div id="datasheet"></div>
 
 		<!--Level 1-->
 		<div id="level1">

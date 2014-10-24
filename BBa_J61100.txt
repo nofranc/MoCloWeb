@@ -1,0 +1,21 @@
+ID: 8041
+Name: BBa_J61100
+Short Name: J61100
+Short Description: Ribosome Binding Site Family Member
+Type: RBS
+Release Status: Not Released
+Rating: 1
+URL: http://parts.igem.org/Part:BBa_J61100
+Entered: 2007-01-28
+Author(s): John Anderson
+Sequence: aaagaggggaca
+
+Categories: 
+	//rbs/prokaryote/constitutive/anderson
+	//ribosome/prokaryote/ecoli
+	//chassis/prokaryote/ecoli
+	//direction/forward
+	//regulation/constitutive
+Twins: 
+	BBa_K294206
+

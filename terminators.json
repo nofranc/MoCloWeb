@@ -1,0 +1,267 @@
+[
+    {
+        "Id": "BBa_B0015", 
+        "Category": "forward", 
+        "Common Name": "double terminator (B0010-B0012)"
+    }, 
+    {
+        "Id": "BBa_B1002", 
+        "Category": "forward", 
+        "Common Name": "Terminator (artificial, small, %T~=85%)"
+    }, 
+    {
+        "Id": "BBa_B1003", 
+        "Category": "forward", 
+        "Common Name": "Terminator (artificial, small, %T~=80)"
+    }, 
+    {
+        "Id": "BBa_B1004", 
+        "Category": "forward", 
+        "Common Name": "Terminator (artificial, small, %T~=55)"
+    }, 
+    {
+        "Id": "BBa_B1005", 
+        "Category": "forward", 
+        "Common Name": "Terminator (artificial, small, %T~=25%"
+    }, 
+    {
+        "Id": "BBa_B1006", 
+        "Category": "forward", 
+        "Common Name": "Terminator (artificial, large, %T~>90)"
+    }, 
+    {
+        "Id": "BBa_B1010", 
+        "Category": "forward", 
+        "Common Name": "Terninator (artificial, large, %T~<10)"
+    }, 
+    {
+        "Id": "BBa_J61048", 
+        "Category": "forward", 
+        "Common Name": "Terninator (artificial, large, %T~<10)"
+    }, 
+    {
+        "Id": "BBa_B0010", 
+        "Category": "forward", 
+        "Common Name": "T1 from E. coli rrnB"
+    }, 
+    {
+        "Id": "BBa_B0012", 
+        "Category": "forward", 
+        "Common Name": "TE from coliphageT7"
+    }, 
+    {
+        "Id": "BBa_B0013", 
+        "Category": "forward", 
+        "Common Name": "TE from coliphage T7 (+/-)"
+    }, 
+    {
+        "Id": "BBa_B0017", 
+        "Category": "forward", 
+        "Common Name": "double terminator (B0010-B0010)"
+    }, 
+    {
+        "Id": "BBa_B0053", 
+        "Category": "forward", 
+        "Common Name": "Terminator (His)"
+    }, 
+    {
+        "Id": "BBa_B0055", 
+        "Category": "forward", 
+        "Common Name": " -- No description --"
+    }, 
+    {
+        "Id": "BBa_I11013", 
+        "Category": "forward", 
+        "Common Name": "Modification of biobricks part BBa_B0015"
+    }, 
+    {
+        "Id": "BBa_I51003", 
+        "Category": "forward", 
+        "Common Name": " -- No description --"
+    }, 
+    {
+        "Id": "BBa_B0011", 
+        "Category": "bidirectional", 
+        "Common Name": "LuxICDABEG (+/-)"
+    }, 
+    {
+        "Id": "BBa_B0014", 
+        "Category": "bidirectional", 
+        "Common Name": "double terminator (B0012-B0011)"
+    }, 
+    {
+        "Id": "BBa_B0021", 
+        "Category": "bidirectional", 
+        "Common Name": "LuxICDABEG (+/-), reversed"
+    }, 
+    {
+        "Id": "BBa_B0024", 
+        "Category": "bidirectional", 
+        "Common Name": "double terminator (B0012-B0011), reversed"
+    }, 
+    {
+        "Id": "BBa_B1001", 
+        "Category": "bidirectional", 
+        "Common Name": "Terminator (artifical, small, %T~=90)"
+    }, 
+    {
+        "Id": "BBa_B1007", 
+        "Category": "bidirectional", 
+        "Common Name": "Terminator (artificial, large, %T~=80)"
+    }, 
+    {
+        "Id": "BBa_B1008", 
+        "Category": "bidirectional", 
+        "Common Name": "Terminator (artificial, large,  %T~=70)"
+    }, 
+    {
+        "Id": "BBa_B1009", 
+        "Category": "bidirectional", 
+        "Common Name": "Terminator (artificial, large, %T~=40%)"
+    }, 
+    {
+        "Id": "BBa_K259006", 
+        "Category": "bidirectional", 
+        "Common Name": "GFP-Terminator"
+    }, 
+    {
+        "Id": "BBa_B0050", 
+        "Category": "bidirectional", 
+        "Common Name": "Terminator (pBR322, +/-)"
+    }, 
+    {
+        "Id": "BBa_B0051", 
+        "Category": "bidirectional", 
+        "Common Name": "Terminator (yciA/tonA, +/-)"
+    }, 
+    {
+        "Id": "BBa_B0025", 
+        "Category": "reverse", 
+        "Common Name": "double terminator (B0015), reversed"
+    }, 
+    {
+        "Id": "BBa_B0022", 
+        "Category": "reverse", 
+        "Common Name": "TE from coliphageT7, reversed"
+    }, 
+    {
+        "Id": "BBa_B0023", 
+        "Category": "reverse", 
+        "Common Name": "TE from coliphage T7, reversed"
+    }, 
+    {
+        "Id": "BBa_B0020", 
+        "Category": "reverse", 
+        "Common Name": "Terminator (Reverse B0010)"
+    }, 
+    {
+        "Id": "BBa_B0052", 
+        "Category": "reverse", 
+        "Common Name": "Terminator (rrnC)"
+    }, 
+    {
+        "Id": "BBa_B0060", 
+        "Category": "reverse", 
+        "Common Name": "Terminator (Reverse B0050)"
+    }, 
+    {
+        "Id": "BBa_B0061", 
+        "Category": "reverse", 
+        "Common Name": "Terminator (Reverse B0051)"
+    }, 
+    {
+        "Id": "BBa_B0063", 
+        "Category": "reverse", 
+        "Common Name": "Terminator (Reverse B0053)"
+    }, 
+    {
+        "Id": "BBa_J63002", 
+        "Category": "yeast", 
+        "Common Name": "ADH1 terminator from S. cerevisiae"
+    }, 
+    {
+        "Id": "BBa_K392003", 
+        "Category": "yeast", 
+        "Common Name": "yeast ADH1 terminator"
+    }, 
+    {
+        "Id": "BBa_K110012", 
+        "Category": "yeast", 
+        "Common Name": "STE2 terminator"
+    }, 
+    {
+        "Id": "BBa_Y1015", 
+        "Category": "yeast", 
+        "Common Name": "CycE1"
+    }, 
+    {
+        "Id": "BBa_J52016", 
+        "Category": "eukaryotic", 
+        "Common Name": "eukaryotic -- derived from SV40 early poly A signal sequence"
+    }, 
+    {
+        "Id": "BBa_J63002", 
+        "Category": "eukaryotic", 
+        "Common Name": "ADH1 terminator from S. cerevisiae"
+    }, 
+    {
+        "Id": "BBa_K392003", 
+        "Category": "eukaryotic", 
+        "Common Name": "yeast ADH1 terminator"
+    }, 
+    {
+        "Id": "BBa_K404108", 
+        "Category": "eukaryotic", 
+        "Common Name": "yeast ADH1 terminator"
+    }, 
+    {
+        "Id": "BBa_K404116", 
+        "Category": "eukaryotic", 
+        "Common Name": "hGH_[AAV2]-right-ITR "
+    }, 
+    {
+        "Id": "BBa_K110012", 
+        "Category": "eukaryotic", 
+        "Common Name": "STE2 terminator"
+    }, 
+    {
+        "Id": "BBa_K678012", 
+        "Category": "eukaryotic", 
+        "Common Name": "SV40 poly A, terminator for mammalian cells"
+    }, 
+    {
+        "Id": "BBa_K678018", 
+        "Category": "eukaryotic", 
+        "Common Name": "hGH poly A, terminator for mammalian cells"
+    }, 
+    {
+        "Id": "BBa_K678019", 
+        "Category": "eukaryotic", 
+        "Common Name": "BGH poly A, mammalian terminator"
+    }, 
+    {
+        "Id": "BBa_K678036", 
+        "Category": "eukaryotic", 
+        "Common Name": "trpC terminator for Aspergillus nidulans"
+    }, 
+    {
+        "Id": "BBa_K678037", 
+        "Category": "eukaryotic", 
+        "Common Name": "T1-motni, terminator for Aspergillus niger"
+    }, 
+    {
+        "Id": "BBa_K678038", 
+        "Category": "eukaryotic", 
+        "Common Name": "T2-motni, terminator for Aspergillus niger"
+    }, 
+    {
+        "Id": "BBa_K678039", 
+        "Category": "eukaryotic", 
+        "Common Name": "T3-motni, terminator for Aspergillus niger"
+    }, 
+    {
+        "Id": "BBa_Y1015", 
+        "Category": "eukaryotic", 
+        "Common Name": "CycE1"
+    }
+]
