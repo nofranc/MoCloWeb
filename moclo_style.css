@@ -1,0 +1,107 @@
+#parts, #parts li, #level1 li, #level2 li, #level1, #level2, .network, #terminatorPH, #promoterPH, #rbsPH, #cdsPH, #promoModules, #rbsModules, #cdsModules, #terminModules{
+	border:1px solid black;
+	
+}
+
+.placeholder, .modules{
+	height:90px;
+}
+
+#parts li, .partType{
+	text-align:center;
+}
+
+#level0, #level1, #level2{
+	margin:1%;
+	padding: 1%;
+	width: 800px;
+}
+
+#datasheet{
+	position:absolute;
+	border: 1px solid black;
+	top: 20px;
+	right: 10px;
+	padding:10px;
+	width: 400px;
+	height: 200px;
+	background-color: #fff;
+	overflow:scroll;
+	overflow-x:hidden;
+	word-wrap:break-word;
+}
+
+/*Level 0*/
+#level0{
+	border: 1px solid black;
+	overflow: scroll;
+	overflow-x:hidden;
+	height: 200px;
+}
+
+#level0 ul{
+	float:left;
+	border: 1px solid black;
+}
+
+#parts {
+	margin:1%;
+	padding:1%;
+	width:31%;
+	height:100px;
+	overflow:scroll;
+}
+
+#parts li, #level1 li, .placeholder li{
+	list-style-type: none;
+	margin:1%;
+	padding:1%;
+	float:left;
+	width:50px;
+	height:50px;
+	overflow: hidden;
+}
+
+/*Level 1*/
+#level1{
+	position:absolute;
+	height:150px;
+	top: 250px;
+
+}
+
+#promoModules, #rbsModules, #cdsModules, #terminModules{
+	height: 75px;
+	width: 20%;
+	float: left;
+	margin:1%;
+	padding:1%;
+}
+
+.modules{
+	overflow:scroll;
+}
+
+
+/*Level 2*/
+#level2 {
+	position:absolute;
+	height: 150px;
+	top: 450px;
+}
+
+.network{
+	padding:0;
+	margin: 1%;
+	width: 30%;
+	height: 85px;
+	float:left;
+}
+
+#terminatorPH, #promoterPH, #rbsPH, #cdsPH{
+	height: 70px;
+	width: 22%;
+	float: left;
+	margin:1%;
+	padding:0;
+}
