@@ -11,7 +11,6 @@ $(function(){
 	$(document).on("click", "#parts > * > span", function(){
 		if($(this).attr("class") == "Id"){
 			var partID = $(this).html();
-			
 			$.get(partID + ".txt", function(data) {
 				$("#datasheet").html(data);
 			});
@@ -35,7 +34,7 @@ $(function(){
 	/***** Load All Parts *****/
 
 	var types = ["promoters", "rbs", "cds", "terminators"];
-	var listTypes = ["promTab", "rbsTab", "cdsTab", "terminTab"];
+	var partTabs = ["promTab", "rbsTab", "cdsTab", "terminTab"];
 	var categ = ["promoCat", "rbsCat", "cdsCat", "terminCat"];
 
 	$.each(types, function(index, value) { //parse each .json
@@ -66,10 +65,16 @@ $(function(){
 
 	});
 
+	/****** Search Functionality *****/
+	var tabClicked = ""; //store ID of most recently tab clicked
+
 	//Tab functionality
 	$("#tabs > *").click(function(){
-		$("#searchBar").val("");
-		var i = listTypes.indexOf(this.id);
+		$("#searchBar").val(""); //reset search field
+
+		tabClicked = this.id;
+
+		var i = partTabs.indexOf(this.id);
 
 		var partsLi = $("#parts li");
 		var categLi = $("ul#categories li");
@@ -87,7 +92,6 @@ $(function(){
 		}
 	});
 
-	/****** Search Functionality *****/
 	//Filter by category
 	$(document).on('click', "#categories li", function(){
 		var ele = $("li:has(span.Category:contains('" + $(this).html() + "'))");
@@ -96,12 +100,20 @@ $(function(){
 	});
 
 	//Live text search
+	
 	$("#searchBar").keyup(function(){
 		var keyword = $(this).val();
+
 		$("#parts li").each(function(){
 			if(($(this).text().search(new RegExp(keyword, "i")) < 0))
 				$(this).hide();
+			else{
+				if(types[partTabs.indexOf(tabClicked)] == $(this).attr("class")){
+					$(this).show();
+				}
+			}
 		});
+
 	});
 
 	
