@@ -68,6 +68,7 @@ $(function(){
 
 	//Tab functionality
 	$("#tabs > *").click(function(){
+		$("#searchBar").val("");
 		var i = listTypes.indexOf(this.id);
 
 		var partsLi = $("#parts li");
@@ -92,6 +93,15 @@ $(function(){
 		var ele = $("li:has(span.Category:contains('" + $(this).html() + "'))");
 		ele.show();
 		$("#parts > *").not(ele).hide();
+	});
+
+	//Live text search
+	$("#searchBar").keyup(function(){
+		var keyword = $(this).val();
+		$("#parts li").each(function(){
+			if(($(this).text().search(new RegExp(keyword, "i")) < 0))
+				$(this).hide();
+		});
 	});
 
 	
