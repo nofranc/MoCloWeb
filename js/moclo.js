@@ -9,7 +9,7 @@ $(function(){
 	/*******************************/
 	/********** Datasheet **********/
 	/*******************************/
-	
+
 	//To - do: clicking anywhere in the part box should yield datasheet
 	$(document).on("click", "#parts > * > span", function(){
 		if($(this).attr("class") == "Id"){
@@ -99,9 +99,7 @@ $(function(){
 			
 			$("#parts").append(allParts.join(""));
 			$("#categories").append(categories.join(""));
-			
 		});	
-
 	});
 
 	/****** Search Functionality *****/
@@ -139,7 +137,6 @@ $(function(){
 	});
 
 	//Live text search
-	
 	$("#searchBar").keyup(function(){
 		var keyword = $(this).val();
 
@@ -147,12 +144,12 @@ $(function(){
 			if(($(this).text().search(new RegExp(keyword, "i")) < 0))
 				$(this).hide();
 			else{
-				if(types[partTabs.indexOf(tabClicked)] == $(this).attr("class")){
+				if(types[partTabs.indexOf(tabClicked)] == $(this).attr("class") || 
+					(tabClicked == "allTab" || tabClicked.length < 1)){
 					$(this).show();
 				}
 			}
 		});
-
 	});
 
 	
@@ -251,7 +248,6 @@ $(function(){
 				//have to refresh jquery to apply to new elements
 				
 			}
-
 
 		}
 
