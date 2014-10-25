@@ -1,0 +1,203 @@
+#search, #parts, #level0, #level1, #level2, .network, #terminatorPH, #promoterPH, #rbsPH, #cdsPH, #promoModules, #rbsModules, #cdsModules, #terminModules{
+	border:1px solid black;
+	
+}
+
+.placeholder, .modules{
+	height:90px;
+}
+
+.partType{
+	text-align: center;
+}
+
+/********************************/
+/************ Panels ************/
+/********************************/
+
+#level0Panel, #level1Panel, #level2Panel{
+	border: 1px solid black;
+	text-align: center;
+	background-color: #fff;
+	position: fixed !important; 
+	bottom:0 !important;
+	top:auto !important;
+	width: 100%;
+	margin: 0;
+	left:0;
+}
+
+#level0Panel {
+	z-index:1;	
+	height: 31%;
+	height:188px;	
+}
+
+#level1Panel{
+	z-index:2;
+	height:125px;
+}
+
+#level2Panel{
+	z-index:3;
+	height:63px;
+}
+
+/********************************/
+/************ Levels ************/
+/********************************/
+#level0, #level1, #level2{
+	position: absolute;
+	margin:1%;
+	width: 85%;
+	padding:0;
+	height: 34%;
+}
+
+#datasheet{
+	position:absolute;
+	border: 1px solid black;
+	top: 15px;
+	right: 10px;
+	padding:10px;
+	width: 400px;
+	height: 200px;
+	background-color: #fff;
+	overflow:scroll;
+	overflow-x:hidden;
+	word-wrap:break-word;
+	z-index:1;
+	visibility: hidden;
+}
+
+li {
+	list-style-type: none;
+}
+
+#parts li, #level1 li, #level2 li{
+	float:left;
+	width:50px;
+	height:50px;
+	overflow: hidden;
+	border:1px solid black;
+}
+
+
+/*********** Level 0 ***********/
+#level0{
+	overflow-x:hidden;
+	overflow: hidden;
+}
+
+#search{
+	margin:0;
+	position:relative;
+	height: 89%;
+	width: 18%;
+	padding: 1%;
+
+}
+
+ul#categories{
+	height: 80%;
+	overflow-x:hidden;
+	overflow-y:scroll;
+	text-transform:capitalize;
+	text-indent:0;
+}
+
+ul#categories li{
+	display:none;
+}
+
+div#tabs{
+	top:0;
+	text-align:center;
+	height: 20%;
+}
+
+div#tabs span{
+	display:inline-block;
+	padding:1.5%;
+	height:35%;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+ul#parts, div#tabs{
+	position:absolute;
+	border: 1px solid black;
+	width: 80%;
+	padding: 0;
+	margin:0;
+	left:20%;
+} 
+
+ul#parts {
+	padding:1%;
+	width:78%;
+	height:69%;
+	overflow:scroll;
+	top:20%;
+}
+
+#parts li {
+	margin:1%;
+}
+
+
+/*********** Level 1 ***********/
+#level1{
+	position:absolute;
+	top: 45%;
+}
+
+#promoModules, #rbsModules, #cdsModules, #terminModules{
+	height: 80%;
+	width: 20%;
+	float: left;
+	margin:1%;
+	padding:1%;
+}
+
+#level1 .partType{
+	height: 15%;
+	padding: 5%;
+}
+
+.modules{
+	overflow:scroll;
+	padding: 1%;
+	height: 68%;
+}
+
+#level1 li{
+	margin: 3%;
+}
+
+/*********** Level 2 ***********/
+#level2 {
+	position:absolute;
+	top: 90%;
+	overflow:scroll;
+}
+
+.network{
+	padding:0;
+	margin: 1%;
+	width: 23%;
+	float:left;
+	height: 45%;
+}
+
+#terminatorPH, #promoterPH, #rbsPH, #cdsPH{
+	height: 80%;
+	width: 22%;
+	float: left;
+	margin:1%;
+	padding:0;
+}
+
+.placeholder{
+	height: 70%;
+}

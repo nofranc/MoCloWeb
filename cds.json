@@ -1,0 +1,1842 @@
+[
+    {
+        "Id": " BBa_E0040", 
+        "Category": "reporter", 
+        "Common Name": " green fluorescent protein derived from jellyfish Aequeora victoria wild-type GFP (SwissProt: P42212"
+    }, 
+    {
+        "Id": "BBa_I715022", 
+        "Category": "reporter", 
+        "Common Name": "Amino Portion of RFP"
+    }, 
+    {
+        "Id": "BBa_I715023", 
+        "Category": "reporter", 
+        "Common Name": "Carboxyl portion of RFP"
+    }, 
+    {
+        "Id": "BBa_I712028", 
+        "Category": "reporter", 
+        "Common Name": "CherryNLS - synthetic construct monomeric red fluorescent protein with nuclear localization sequence"
+    }, 
+    {
+        "Id": "BBa_K106000", 
+        "Category": "reporter", 
+        "Common Name": "GFP, AarI BD part"
+    }, 
+    {
+        "Id": "BBa_K106004", 
+        "Category": "reporter", 
+        "Common Name": "mCherry, Aar1 AB part"
+    }, 
+    {
+        "Id": "BBa_K106005", 
+        "Category": "reporter", 
+        "Common Name": "mCherry, Aar1 BD part"
+    }, 
+    {
+        "Id": "BBa_K106028", 
+        "Category": "reporter", 
+        "Common Name": "GFP, AarI AB part"
+    }, 
+    {
+        "Id": "BBa_K082003", 
+        "Category": "reporter", 
+        "Common Name": "GFP(+LVA)"
+    }, 
+    {
+        "Id": "BBa_K106671", 
+        "Category": "reporter", 
+        "Common Name": "GFP, Aar1 AD part"
+    }, 
+    {
+        "Id": "BBa_E0030", 
+        "Category": "reporter", 
+        "Common Name": "enhanced yellow fluorescent protein derived from A. victoria GFP"
+    }, 
+    {
+        "Id": "BBa_E0020", 
+        "Category": "reporter", 
+        "Common Name": "engineered cyan fluorescent protein derived from A. victoria GFP "
+    }, 
+    {
+        "Id": "BBa_E1010", 
+        "Category": "reporter", 
+        "Common Name": " **highly** engineered mutant of red fluorescent protein from Discosoma striata (coral)"
+    }, 
+    {
+        "Id": "BBa_E2050", 
+        "Category": "reporter", 
+        "Common Name": "derivative of mRFP1, yeast-optimized"
+    }, 
+    {
+        "Id": "BBa_J52021", 
+        "Category": "reporter", 
+        "Common Name": "dnTraf6-linker-GFP"
+    }, 
+    {
+        "Id": "BBa_J52026", 
+        "Category": "reporter", 
+        "Common Name": "dnMyD88-linker-GFP"
+    }, 
+    {
+        "Id": "BBa_K125500", 
+        "Category": "reporter", 
+        "Common Name": "GFP fusion brick"
+    }, 
+    {
+        "Id": "BBa_K165005", 
+        "Category": "reporter", 
+        "Common Name": "Venus YFP, yeast optimized for fusion"
+    }, 
+    {
+        "Id": "BBa_K125810", 
+        "Category": "reporter", 
+        "Common Name": "slr2016 signal sequence + GFP fusion for secretion of GFP"
+    }, 
+    {
+        "Id": "BBa_K156009", 
+        "Category": "reporter", 
+        "Common Name": "OFP (orange fluorescent protein)"
+    }, 
+    {
+        "Id": "BBa_K156010", 
+        "Category": "reporter", 
+        "Common Name": "SBFP2 (strongly enhanced blue fluorescent protein)"
+    }, 
+    {
+        "Id": "BBa_K294055", 
+        "Category": "reporter", 
+        "Common Name": "GFP RFP Hybrid"
+    }, 
+    {
+        "Id": "BBa_K192001", 
+        "Category": "reporter", 
+        "Common Name": "CFP +tgt +lva"
+    }, 
+    {
+        "Id": "BBa_K180001", 
+        "Category": "reporter", 
+        "Common Name": "Green fluorescent protein (+LVA)"
+    }, 
+    {
+        "Id": "BBa_K283005", 
+        "Category": "reporter", 
+        "Common Name": "lpp_ompA_eGFP_streptavidin"
+    }, 
+    {
+        "Id": "BBa_K180008", 
+        "Category": "reporter", 
+        "Common Name": "mCherry (rights owned by Clontech)"
+    }, 
+    {
+        "Id": "BBa_K180009", 
+        "Category": "reporter", 
+        "Common Name": "mBanana (rights owned by Clontech)"
+    }, 
+    {
+        "Id": "BBa_K157043", 
+        "Category": "reporter", 
+        "Common Name": "CFP"
+    }, 
+    {
+        "Id": "BBa_K648013", 
+        "Category": "reporter", 
+        "Common Name": "GFP with Standard 25 Prefix/Suffix "
+    }, 
+    {
+        "Id": "BBa_K525304", 
+        "Category": "reporter", 
+        "Common Name": "Fusion Protein of S-Layer SgsE and mCherry RFP"
+    }, 
+    {
+        "Id": "BBa_K525305", 
+        "Category": "reporter", 
+        "Common Name": "Fusion Protein of S-Layer SgsE and mCitrine"
+    }, 
+    {
+        "Id": "BBa_K525306", 
+        "Category": "reporter", 
+        "Common Name": "Fusion Protein of S-Layer SgsE and mCerulean"
+    }, 
+    {
+        "Id": "BBa_K525404", 
+        "Category": "reporter", 
+        "Common Name": "Fusion Protein of S-Layer SbpA and mCherry RFP"
+    }, 
+    {
+        "Id": "BBa_K525405", 
+        "Category": "reporter", 
+        "Common Name": " Fusion Protein of S-Layer SbpA and mCitrine "
+    }, 
+    {
+        "Id": "BBa_K525406", 
+        "Category": "reporter", 
+        "Common Name": " Fusion Protein of S-Layer SbpA and mCerulean "
+    }, 
+    {
+        "Id": "BBa_K525234", 
+        "Category": "reporter", 
+        "Common Name": "Fusion Protein of mRFP, S-layer cspB from Corynebacterium halotolerans with TAT-sequence, PT7, RBS "
+    }, 
+    {
+        "Id": "BBa_K592100", 
+        "Category": "reporter", 
+        "Common Name": "Blue Fluorescent Protein (mTagBFP)"
+    }, 
+    {
+        "Id": "BBa_K592101", 
+        "Category": "reporter", 
+        "Common Name": "Yellow Fluorescent Protein (YFP)"
+    }, 
+    {
+        "Id": "BBa_I712019", 
+        "Category": "reporter", 
+        "Common Name": "Firefly luciferase - luciferase from Photinus pyralis"
+    }, 
+    {
+        "Id": "BBa_J52011", 
+        "Category": "reporter", 
+        "Common Name": "dnMyD88-linker-Rluc"
+    }, 
+    {
+        "Id": "BBa_J52013", 
+        "Category": "reporter", 
+        "Common Name": "dnMyD88-linker-Rluc-linker-PEST191"
+    }, 
+    {
+        "Id": "BBa_I732006", 
+        "Category": "reporter", 
+        "Common Name": "lacZ alpha fragment"
+    }, 
+    {
+        "Id": "BBa_I732005", 
+        "Category": "reporter", 
+        "Common Name": "lacZ (encoding beta-galactosidase, full-length)"
+    }, 
+    {
+        "Id": "BBa_K147002", 
+        "Category": "reporter", 
+        "Common Name": "xylE"
+    }, 
+    {
+        "Id": "BBa_K678035", 
+        "Category": "reporter", 
+        "Common Name": "yA (green pigment) from Aspergillus nidulans"
+    }, 
+    {
+        "Id": "BBa_K678035", 
+        "Category": "transcriptional", 
+        "Common Name": "yA (green pigment) from Aspergillus nidulans"
+    }, 
+    {
+        "Id": "BBa_K091001", 
+        "Category": "transcriptional", 
+        "Common Name": "LsrR gene"
+    }, 
+    {
+        "Id": "BBa_K091121", 
+        "Category": "transcriptional", 
+        "Common Name": "LacI wild-type gene"
+    }, 
+    {
+        "Id": "BBa_K143033", 
+        "Category": "transcriptional", 
+        "Common Name": "LacI (Lva<sup>-</sup>, N-terminal deletion) regulatory protein"
+    }, 
+    {
+        "Id": "BBa_K106666", 
+        "Category": "transcriptional", 
+        "Common Name": "Lac Repressor, AarI AB part"
+    }, 
+    {
+        "Id": "BBa_K106667", 
+        "Category": "transcriptional", 
+        "Common Name": "Lac Repressor, AarI BD part"
+    }, 
+    {
+        "Id": "BBa_K106668", 
+        "Category": "transcriptional", 
+        "Common Name": "Tet Repressor, AarI AB part"
+    }, 
+    {
+        "Id": "BBa_K106669", 
+        "Category": "transcriptional", 
+        "Common Name": "Tet Repressor, AarI BD part"
+    }, 
+    {
+        "Id": "BBa_K082004", 
+        "Category": "transcriptional", 
+        "Common Name": "LacI- wild type"
+    }, 
+    {
+        "Id": "BBa_K082005", 
+        "Category": "transcriptional", 
+        "Common Name": "LacI-Mutant"
+    }, 
+    {
+        "Id": "BBa_C0012", 
+        "Category": "transcriptional", 
+        "Common Name": "lacI repressor  from E. coli (+LVA)"
+    }, 
+    {
+        "Id": "BBa_C0040", 
+        "Category": "transcriptional", 
+        "Common Name": "tetracycline repressor from transposon Tn10 (+LVA)"
+    }, 
+    {
+        "Id": "BBa_C0050", 
+        "Category": "transcriptional", 
+        "Common Name": "cI repressor from phage HK022  (+LVA?)"
+    }, 
+    {
+        "Id": "BBa_C0051", 
+        "Category": "transcriptional", 
+        "Common Name": "cI repressor from E. coli phage lambda (+LVA) "
+    }, 
+    {
+        "Id": "BBa_C0052", 
+        "Category": "transcriptional", 
+        "Common Name": "cI repressor from phage  434 (+LVA)"
+    }, 
+    {
+        "Id": "BBa_C0053", 
+        "Category": "transcriptional", 
+        "Common Name": "c2  repressor from Salmonella phage P22  (+LVA)"
+    }, 
+    {
+        "Id": "BBa_C0073", 
+        "Category": "transcriptional", 
+        "Common Name": "mnt repressor (weak) from Salmonella phage P22 (+LVA)"
+    }, 
+    {
+        "Id": "BBa_C0075", 
+        "Category": "transcriptional", 
+        "Common Name": "TP901 cI repressor from phage TP901-1  (+LVA)"
+    }, 
+    {
+        "Id": "BBa_C0074", 
+        "Category": "transcriptional", 
+        "Common Name": "penI repressor from Bacillus licheniformis (+LVA)"
+    }, 
+    {
+        "Id": "BBa_C0072", 
+        "Category": "transcriptional", 
+        "Common Name": "mnt repressor (strong) from Salmonella phage P22 (+LVA)"
+    }, 
+    {
+        "Id": "BBa_C2001", 
+        "Category": "transcriptional", 
+        "Common Name": "Zif23-GCN4 engineered repressor (+LVA, C2000 codon-optimized for E.coli)"
+    }, 
+    {
+        "Id": "BBa_C0056", 
+        "Category": "transcriptional", 
+        "Common Name": "cI repressor from phage 434 (no LVA)"
+    }, 
+    {
+        "Id": "BBa_J06501", 
+        "Category": "transcriptional", 
+        "Common Name": "LacI repressor (temperature-sensitive mut 265) (+LVA)"
+    }, 
+    {
+        "Id": "BBa_J06500", 
+        "Category": "transcriptional", 
+        "Common Name": "LacI repressor (temperature-sensitive mut 241) (+LVA)"
+    }, 
+    {
+        "Id": "BBa_C2006", 
+        "Category": "transcriptional", 
+        "Common Name": "MalE.FactorXa.Zif268-GCN4"
+    }, 
+    {
+        "Id": "BBa_I715032", 
+        "Category": "transcriptional", 
+        "Common Name": "lacIq reverse"
+    }, 
+    {
+        "Id": "BBa_I732100", 
+        "Category": "transcriptional", 
+        "Common Name": "LacI"
+    }, 
+    {
+        "Id": "BBa_I732101", 
+        "Category": "transcriptional", 
+        "Common Name": "LacI"
+    }, 
+    {
+        "Id": "BBa_I732105", 
+        "Category": "transcriptional", 
+        "Common Name": "ARL2A0101"
+    }, 
+    {
+        "Id": "BBa_I732106", 
+        "Category": "transcriptional", 
+        "Common Name": "ARL2A0102"
+    }, 
+    {
+        "Id": "BBa_I732107", 
+        "Category": "transcriptional", 
+        "Common Name": "ARL2A0103"
+    }, 
+    {
+        "Id": "BBa_I732110", 
+        "Category": "transcriptional", 
+        "Common Name": "ARL2A0203"
+    }, 
+    {
+        "Id": "BBa_I732112", 
+        "Category": "transcriptional", 
+        "Common Name": "ARL2A0301"
+    }, 
+    {
+        "Id": "BBa_I732115", 
+        "Category": "transcriptional", 
+        "Common Name": "ARL4A0604"
+    }, 
+    {
+        "Id": "BBa_K091122", 
+        "Category": "transcriptional", 
+        "Common Name": "LacI_I12 protein"
+    }, 
+    {
+        "Id": "BBa_K142000", 
+        "Category": "transcriptional", 
+        "Common Name": "lacI IS mutant (IPTG unresponsive) R197A"
+    }, 
+    {
+        "Id": "BBa_K142001", 
+        "Category": "transcriptional", 
+        "Common Name": "lacI IS mutant (IPTG unresponsive) R197F"
+    }, 
+    {
+        "Id": "BBa_K142002", 
+        "Category": "transcriptional", 
+        "Common Name": "lacI IS mutant (IPTG unresponsive) T276A"
+    }, 
+    {
+        "Id": "BBa_K142003", 
+        "Category": "transcriptional", 
+        "Common Name": "lacI IS mutant (IPTG unresponsive) T276F"
+    }, 
+    {
+        "Id": "BBa_K142004", 
+        "Category": "transcriptional", 
+        "Common Name": "lacI IS mutant (IPTG unresponsive) R197A T276A"
+    }, 
+    {
+        "Id": "BBa_K142005", 
+        "Category": "transcriptional", 
+        "Common Name": "lacI IS mutant (IPTG unresponsive) R197A T276F "
+    }, 
+    {
+        "Id": "BBa_K142006", 
+        "Category": "transcriptional", 
+        "Common Name": "lacI IS mutant (IPTG unresponsive) R197F T276A "
+    }, 
+    {
+        "Id": "BBa_K142007", 
+        "Category": "transcriptional", 
+        "Common Name": "lacI IS mutant (IPTG unresponsive) R197F T276F"
+    }, 
+    {
+        "Id": "BBa_K518003", 
+        "Category": "transcriptional", 
+        "Common Name": "LexA  - a repressor for LexA-regulated SOS promoters -"
+    }, 
+    {
+        "Id": "BBa_K950001", 
+        "Category": "transcriptional", 
+        "Common Name": "yeast rox1"
+    }, 
+    {
+        "Id": "BBa_C0062", 
+        "Category": "transcriptional", 
+        "Common Name": "luxR repressor/activator,  (no LVA?)"
+    }, 
+    {
+        "Id": "BBa_C0071", 
+        "Category": "transcriptional", 
+        "Common Name": "rhlR repressor/activator from P. aeruginosa PA3477 (+LVA)"
+    }, 
+    {
+        "Id": "BBa_C0080", 
+        "Category": "transcriptional", 
+        "Common Name": "araC arabinose operon regulatory protein (repressor/activator) from E. coli (+LVA)"
+    }, 
+    {
+        "Id": "BBa_C0171", 
+        "Category": "transcriptional", 
+        "Common Name": "rhlR repressor/activator from P. aeruginosa PA3477 (no LVA)"
+    }, 
+    {
+        "Id": "BBa_K108021", 
+        "Category": "transcriptional", 
+        "Common Name": "Fis"
+    }, 
+    {
+        "Id": "BBa_J31002", 
+        "Category": "selection marker", 
+        "Common Name": "kanamycin resistance backwards (KanB)  [cf. BBa_J23012 & BBa_J31003]"
+    }, 
+    {
+        "Id": "BBa_J31006", 
+        "Category": "selection marker", 
+        "Common Name": "tetracycline resistance protein TetA(C) (backwards) [cf. BBa_J31007]"
+    }, 
+    {
+        "Id": "BBa_J31005", 
+        "Category": "selection marker", 
+        "Common Name": "chloramphenicol acetyltransferase (forwards, CmF) [cf. BBa_J31004]"
+    }, 
+    {
+        "Id": "BBa_J31007", 
+        "Category": "selection marker", 
+        "Common Name": "tetracycline resistance protein TetA(C)  (forward), [cf. BBa_J31006] "
+    }, 
+    {
+        "Id": "BBa_K143031", 
+        "Category": "selection marker", 
+        "Common Name": "Aad9 Spectinomycin Resistance Gene"
+    }, 
+    {
+        "Id": "BBa_K389005", 
+        "Category": "selection marker", 
+        "Common Name": "Kanamycin resistance"
+    }, 
+    {
+        "Id": "BBa_K394000", 
+        "Category": "selection marker", 
+        "Common Name": "Kanamycin resistance"
+    }, 
+    {
+        "Id": "BBa_T9150", 
+        "Category": "selection marker", 
+        "Common Name": "orotidine 5"
+    }, 
+    {
+        "Id": "BBa_J31003", 
+        "Category": "selection marker", 
+        "Common Name": "kanamycin resistance forward (KanF) [cf. BBa_J23012 & BBa_J31002]"
+    }, 
+    {
+        "Id": "BBa_J31004", 
+        "Category": "selection marker", 
+        "Common Name": "chloramphenicol acetyltransferase (backwards, CmB) [cf. BBa_J31005]"
+    }, 
+    {
+        "Id": "BBa_K145151", 
+        "Category": "selection marker", 
+        "Common Name": "ccdB coding region"
+    }, 
+    {
+        "Id": "BBa_K156011", 
+        "Category": "selection marker", 
+        "Common Name": "aadA (streptomycin 3'-adenyltransferase)"
+    }, 
+    {
+        "Id": "BBa_K678042", 
+        "Category": "selection marker", 
+        "Common Name": "hygromycin cassette for Aspergillus nidulans"
+    }, 
+    {
+        "Id": "BBa_K678040", 
+        "Category": "selection marker", 
+        "Common Name": "pyrG cassette, for selection of Aspergillus nidulans"
+    }, 
+    {
+        "Id": "BBa_K678041", 
+        "Category": "selection marker", 
+        "Common Name": "pyrG-DR cassette, for selection of Aspergillus nidulans"
+    }, 
+    {
+        "Id": "BBa_K678044", 
+        "Category": "selection marker", 
+        "Common Name": "bleR cassette, selection marker for Aspergillus nidulans"
+    }, 
+    {
+        "Id": "BBa_K678045", 
+        "Category": "selection marker", 
+        "Common Name": "ptrA, selection marker for Aspergillus nidulans"
+    }, 
+    {
+        "Id": "BBa_I712020", 
+        "Category": "protease", 
+        "Common Name": "Homo sapiens caspase 3"
+    }, 
+    {
+        "Id": "BBa_I712077", 
+        "Category": "protease", 
+        "Common Name": "TEV protease (N-terminal half) - entered sequence may be wrong"
+    }, 
+    {
+        "Id": "BBa_I712078", 
+        "Category": "protease", 
+        "Common Name": "TEV protease (C-terminal half)"
+    }, 
+    {
+        "Id": "BBa_I712667", 
+        "Category": "protease", 
+        "Common Name": "HIV-1 aspartyl protease"
+    }, 
+    {
+        "Id": "BBa_K116601", 
+        "Category": "protease", 
+        "Common Name": "HtlB (ftsH) coding region from E. coli "
+    }, 
+    {
+        "Id": "BBa_C0082", 
+        "Category": "post-translational modification", 
+        "Common Name": "Receptor, tar-envZ"
+    }, 
+    {
+        "Id": "BBa_J58104", 
+        "Category": "post-translational modification", 
+        "Common Name": "Fusion protein Trg-EnvZ for signal transduction"
+    }, 
+    {
+        "Id": "BBa_J58105", 
+        "Category": "post-translational modification", 
+        "Common Name": "Synthetic periplasmic binding protein that docks a vanillin molecule"
+    }, 
+    {
+        "Id": "BBa_I752001", 
+        "Category": "post-translational modification", 
+        "Common Name": "CheZ coding sequence (Chemotaxis protein)"
+    }, 
+    {
+        "Id": "BBa_K091002", 
+        "Category": "post-translational modification", 
+        "Common Name": "LsrK gene"
+    }, 
+    {
+        "Id": "BBa_K147000", 
+        "Category": "post-translational modification", 
+        "Common Name": "cheZ"
+    }, 
+    {
+        "Id": "BBa_K118015", 
+        "Category": "post-translational modification", 
+        "Common Name": "glgC coding sequence encoding ADP-glucose pyrophosphorylase"
+    }, 
+    {
+        "Id": "BBa_K118016", 
+        "Category": "post-translational modification", 
+        "Common Name": "glgC16 (glgC with G336D substitution)"
+    }, 
+    {
+        "Id": "BBa_K094100", 
+        "Category": "post-translational modification", 
+        "Common Name": "cheZ gene"
+    }, 
+    {
+        "Id": "BBa_K136046", 
+        "Category": "post-translational modification", 
+        "Common Name": "envZ*"
+    }, 
+    {
+        "Id": "BBa_K283008", 
+        "Category": "post-translational modification", 
+        "Common Name": "chez_Histag"
+    }, 
+    {
+        "Id": "BBa_K629003", 
+        "Category": "post-translational modification", 
+        "Common Name": "cheZ, chemotaxis regulator, protein phosphatase for CheY"
+    }, 
+    {
+        "Id": "BBa_K557000", 
+        "Category": "post-translational modification", 
+        "Common Name": "CheZ: phosphatase which dephosphorylates CheY-P and thus plays an important role in E.Coli chemotaxi"
+    }, 
+    {
+        "Id": "BBa_C0024", 
+        "Category": "post-translational modification", 
+        "Common Name": "CheB chemotaxis coding sequence (protein glutamate methylesterase)"
+    }, 
+    {
+        "Id": "BBa_K108020", 
+        "Category": "post-translational modification", 
+        "Common Name": "Dam"
+    }, 
+    {
+        "Id": "BBa_K112116", 
+        "Category": "DNA modification", 
+        "Common Name": "a~BamHI"
+    }, 
+    {
+        "Id": "BBa_K112117", 
+        "Category": "DNA modification", 
+        "Common Name": "a~BglII"
+    }, 
+    {
+        "Id": "BBa_I716210", 
+        "Category": "DNA modification", 
+        "Common Name": "BamHI endonuclease without start codon"
+    }, 
+    {
+        "Id": "BBa_K112106", 
+        "Category": "DNA modification", 
+        "Common Name": "BglII endonuclease"
+    }, 
+    {
+        "Id": "BBa_K112107", 
+        "Category": "DNA modification", 
+        "Common Name": "BglII endonuclease without stop codon"
+    }, 
+    {
+        "Id": "BBa_K112123", 
+        "Category": "DNA modification", 
+        "Common Name": "BglII restriction enzyme"
+    }, 
+    {
+        "Id": "BBa_K525740", 
+        "Category": "DNA modification", 
+        "Common Name": "\tDNA ligase from Escherichia coli (LigA) with His-tag"
+    }, 
+    {
+        "Id": "BBa_K525730", 
+        "Category": "DNA modification", 
+        "Common Name": "\tDNA ligase from Escherichia coli (LigA) with PT7 and RBS "
+    }, 
+    {
+        "Id": "BBa_K112114", 
+        "Category": "DNA modification", 
+        "Common Name": "a~Ligase!"
+    }, 
+    {
+        "Id": "BBa_K525710", 
+        "Category": "DNA modification", 
+        "Common Name": "DNA ligase from Escherichia coli (LigA) with PT7, RBS and His-tag"
+    }, 
+    {
+        "Id": "BBa_K525010", 
+        "Category": "DNA modification", 
+        "Common Name": "Fusion Protein of S-Layer SbpA and LigA with His-Tag"
+    }, 
+    {
+        "Id": "BBa_K525009", 
+        "Category": "DNA modification", 
+        "Common Name": "Fusion Protein of S-Layer SgsE and LigA with His-Tag"
+    }, 
+    {
+        "Id": "BBa_K112115", 
+        "Category": "DNA modification", 
+        "Common Name": "a~Cre"
+    }, 
+    {
+        "Id": "BBa_I716212", 
+        "Category": "DNA modification", 
+        "Common Name": "Cre (GTG start)"
+    }, 
+    {
+        "Id": "BBa_I716213", 
+        "Category": "DNA modification", 
+        "Common Name": "Cre (TTG start)"
+    }, 
+    {
+        "Id": "BBa_J61047", 
+        "Category": "DNA modification", 
+        "Common Name": "Cre (TTG start)"
+    }, 
+    {
+        "Id": "BBa_K112122", 
+        "Category": "DNA modification", 
+        "Common Name": "Cre with stop codon"
+    }, 
+    {
+        "Id": "BBa_J31001", 
+        "Category": "DNA modification", 
+        "Common Name": "DNA invertase Hin tagged with LVA"
+    }, 
+    {
+        "Id": "BBa_J31000", 
+        "Category": "DNA modification", 
+        "Common Name": "DNA-invertase Hin from Salmonella typhimurium"
+    }, 
+    {
+        "Id": "BBa_I11021", 
+        "Category": "DNA modification", 
+        "Common Name": "excisionase from E. coli phage lambda (removes prophage from host genome)"
+    }, 
+    {
+        "Id": "BBa_I11031", 
+        "Category": "DNA modification", 
+        "Common Name": "excisionase from E. coli phage P22 (removes prophage from host genome)"
+    }, 
+    {
+        "Id": "BBa_K137007", 
+        "Category": "DNA modification", 
+        "Common Name": "fimE"
+    }, 
+    {
+        "Id": "BBa_K313002", 
+        "Category": "DNA modification", 
+        "Common Name": "flpe DNA recombinase"
+    }, 
+    {
+        "Id": "BBa_I11020", 
+        "Category": "DNA modification", 
+        "Common Name": "integrase from E. coli phage lambda"
+    }, 
+    {
+        "Id": "BBa_I11030", 
+        "Category": "DNA modification", 
+        "Common Name": "integrase from E. coli phage P22"
+    }, 
+    {
+        "Id": "BBa_K361000", 
+        "Category": "DNA modification", 
+        "Common Name": "Rci site-specific recombinase"
+    }, 
+    {
+        "Id": "BBa_J70007", 
+        "Category": "DNA modification", 
+        "Common Name": "recT recombination gene from Spiroplasma citri"
+    }, 
+    {
+        "Id": "BBa_K108022", 
+        "Category": "DNA modification", 
+        "Common Name": "RuvA"
+    }, 
+    {
+        "Id": "BBa_K108023", 
+        "Category": "DNA modification", 
+        "Common Name": "RuvB"
+    }, 
+    {
+        "Id": "BBa_K108024", 
+        "Category": "DNA modification", 
+        "Common Name": "RuvC"
+    }, 
+    {
+        "Id": "BBa_K112001", 
+        "Category": "DNA modification", 
+        "Common Name": "Xis from bacteriophage lambda, assembly standard 21"
+    }, 
+    {
+        "Id": "BBa_K112217", 
+        "Category": "DNA modification", 
+        "Common Name": "{a~ihfA!} The ihf alpha gene ready to have rbs attached with stop codon, BBb format"
+    }, 
+    {
+        "Id": "BBa_K112223", 
+        "Category": "DNA modification", 
+        "Common Name": "{a~ihfB!} The ihf beta gene ready to have rbs attached and stop codon, BBb format"
+    }, 
+    {
+        "Id": "BBa_K112211", 
+        "Category": "DNA modification", 
+        "Common Name": "{a~int!} The integrase gene with rbs ready to be attached with stop codon, BBb format"
+    }, 
+    {
+        "Id": "BBa_K112204", 
+        "Category": "DNA modification", 
+        "Common Name": "{a~xis!} The bacteriophage lambda xis gene ready to have rbs attached and stop codon; assembly stand"
+    }, 
+    {
+        "Id": "BBa_K112219", 
+        "Category": "DNA modification", 
+        "Common Name": "{ihfB!} The ihf beta gene with start and stop codons, BBb format"
+    }, 
+    {
+        "Id": "BBa_K112207", 
+        "Category": "DNA modification", 
+        "Common Name": "{int!} The integrase gene with start and stop codon, BBb format"
+    }, 
+    {
+        "Id": "BBa_K112200", 
+        "Category": "DNA modification", 
+        "Common Name": "{xis!} from bacteriophage lambda; assembly standard 21"
+    }, 
+    {
+        "Id": "BBa_Y00073", 
+        "Category": "DNA modification", 
+        "Common Name": "{xis!} from bacteriophage lambda; assembly standard 21"
+    }, 
+    {
+        "Id": "BBa_Y00029", 
+        "Category": "DNA modification", 
+        "Common Name": "S. pombe homolog of S.cerevisiae SGF29, recoded for expression in S.c."
+    }, 
+    {
+        "Id": "BBa_K106001", 
+        "Category": "DNA modification", 
+        "Common Name": "Sir4, Aar1 AD part"
+    }, 
+    {
+        "Id": "BBa_K106002", 
+        "Category": "DNA modification", 
+        "Common Name": "Sir2, Aar1 AB part"
+    }, 
+    {
+        "Id": "BBa_K106003", 
+        "Category": "DNA modification", 
+        "Common Name": "Sir2, Aar1 BD part"
+    }, 
+    {
+        "Id": "BBa_K106011", 
+        "Category": "DNA modification", 
+        "Common Name": "Sas2 histone acetyltransferase, Aar1 AB part"
+    }, 
+    {
+        "Id": "BBa_K106012", 
+        "Category": "DNA modification", 
+        "Common Name": "Sas2 histone acetyltransferase, Aar1 BD part"
+    }, 
+    {
+        "Id": "BBa_K106013", 
+        "Category": "DNA modification", 
+        "Common Name": "Esa1 histone acetyltransferase, Aar1 BD part"
+    }, 
+    {
+        "Id": "BBa_K106692", 
+        "Category": "DNA modification", 
+        "Common Name": "Sir3, AarI A!D part (A!D variant!)"
+    }, 
+    {
+        "Id": "BBa_J07009", 
+        "Category": "membrane proteins", 
+        "Common Name": "  toxicity-gene activator from Vibrio cholerae"
+    }, 
+    {
+        "Id": "BBa_K133063", 
+        "Category": "membrane proteins", 
+        "Common Name": "(TIR)TLR3"
+    }, 
+    {
+        "Id": "BBa_K133064", 
+        "Category": "membrane proteins", 
+        "Common Name": "(TIR)TLR9"
+    }, 
+    {
+        "Id": "BBa_K133065", 
+        "Category": "membrane proteins", 
+        "Common Name": "(TMTIR)TLR3"
+    }, 
+    {
+        "Id": "BBa_K133069", 
+        "Category": "membrane proteins", 
+        "Common Name": "(TMTIR)TLR3stop"
+    }, 
+    {
+        "Id": "BBa_K133067", 
+        "Category": "membrane proteins", 
+        "Common Name": "(TMTIR)TLR4"
+    }, 
+    {
+        "Id": "BBa_K133060", 
+        "Category": "membrane proteins", 
+        "Common Name": "(TMTIR)TLR9"
+    }, 
+    {
+        "Id": "BBa_K209400", 
+        "Category": "membrane proteins", 
+        "Common Name": "AarI B-C part, hM4D"
+    }, 
+    {
+        "Id": "BBa_K209401", 
+        "Category": "membrane proteins", 
+        "Common Name": "AarI B-C part, Rs1.3"
+    }, 
+    {
+        "Id": "BBa_I712002", 
+        "Category": "membrane proteins", 
+        "Common Name": "CCR5"
+    }, 
+    {
+        "Id": "BBa_I712003", 
+        "Category": "membrane proteins", 
+        "Common Name": "CCR5-NUb"
+    }, 
+    {
+        "Id": "BBa_I712010", 
+        "Category": "membrane proteins", 
+        "Common Name": "CD4 sequence without signal peptide"
+    }, 
+    {
+        "Id": "BBa_I712017", 
+        "Category": "membrane proteins", 
+        "Common Name": "Chemokine (CXC motif) receptor 4, fused to N-terminal half of ubiquitin."
+    }, 
+    {
+        "Id": "BBa_K592000", 
+        "Category": "membrane proteins", 
+        "Common Name": "cph8 (Cph1/EnvZ fusion)"
+    }, 
+    {
+        "Id": "BBa_I15010", 
+        "Category": "membrane proteins", 
+        "Common Name": "cph8 (Cph1/EnvZ fusion)"
+    }, 
+    {
+        "Id": "BBa_I728500", 
+        "Category": "membrane proteins", 
+        "Common Name": "CPX Terminal Surface Display Protein with Polystyrene-Binding Peptide"
+    }, 
+    {
+        "Id": "BBa_J52035", 
+        "Category": "membrane proteins", 
+        "Common Name": "dnMyD88"
+    }, 
+    {
+        "Id": "BBa_K259000", 
+        "Category": "membrane proteins", 
+        "Common Name": "fhuA - Outer membrane transporter for ferrichrome-iron"
+    }, 
+    {
+        "Id": "BBa_K259001", 
+        "Category": "membrane proteins", 
+        "Common Name": "fiu ? Outer Membrane Ferric Iron Transporter"
+    }, 
+    {
+        "Id": "BBa_J58104", 
+        "Category": "membrane proteins", 
+        "Common Name": "Fusion protein Trg-EnvZ for signal transduction"
+    }, 
+    {
+        "Id": "BBa_K137112", 
+        "Category": "membrane proteins", 
+        "Common Name": "lamB"
+    }, 
+    {
+        "Id": "BBa_C0082", 
+        "Category": "membrane proteins", 
+        "Common Name": "Receptor, tar-envZ"
+    }, 
+    {
+        "Id": "BBa_J58105", 
+        "Category": "membrane proteins", 
+        "Common Name": "Synthetic periplasmic binding protein that docks a vanillin molecule"
+    }, 
+    {
+        "Id": "BBa_K533007", 
+        "Category": "membrane proteins", 
+        "Common Name": "Tar receptor"
+    }, 
+    {
+        "Id": "BBa_I712012", 
+        "Category": "membrane proteins", 
+        "Common Name": "TIR domain of TLR3"
+    }, 
+    {
+        "Id": "BBa_K389001", 
+        "Category": "membrane proteins", 
+        "Common Name": "VirA receptor"
+    }, 
+    {
+        "Id": "BBa_K143037", 
+        "Category": "membrane proteins", 
+        "Common Name": "YtvA Blue Light Receptor for B.subtilis"
+    }, 
+    {
+        "Id": "BBa_J07006", 
+        "Category": "membrane proteins", 
+        "Common Name": "malE"
+    }, 
+    {
+        "Id": "BBa_J07017", 
+        "Category": "membrane proteins", 
+        "Common Name": "FecA protein"
+    }, 
+    {
+        "Id": "BBa_J92000", 
+        "Category": "membrane proteins", 
+        "Common Name": "Lead Uptake Transporter "
+    }, 
+    {
+        "Id": "BBa_K141000", 
+        "Category": "membrane proteins", 
+        "Common Name": "Ucp1"
+    }, 
+    {
+        "Id": "BBa_K141002", 
+        "Category": "membrane proteins", 
+        "Common Name": "Ucp 175 deleted"
+    }, 
+    {
+        "Id": "BBa_K141003", 
+        "Category": "membrane proteins", 
+        "Common Name": "Ucp 76 deleted"
+    }, 
+    {
+        "Id": "BBa_K190028", 
+        "Category": "membrane proteins", 
+        "Common Name": "GlpF"
+    }, 
+    {
+        "Id": "BBa_K629005", 
+        "Category": "membrane proteins", 
+        "Common Name": "trkD, a functional Kup (formerly TrkD) system took up Cs+ with a moderate rate and affinity"
+    }, 
+    {
+        "Id": "BBa_K633001", 
+        "Category": "membrane proteins", 
+        "Common Name": "Linker + EstA Membrane Protein"
+    }, 
+    {
+        "Id": "BBa_I746200", 
+        "Category": "membrane proteins", 
+        "Common Name": "FepA L8T Mutant - Large Diffusion pore for E. coli outer membrane."
+    }, 
+    {
+        "Id": "BBa_I765002", 
+        "Category": "membrane proteins", 
+        "Common Name": "ExbB membrane spanning protein in TonB-ExbB-ExbD complex [ Escherichia coli K12 ]"
+    }, 
+    {
+        "Id": "BBa_I765003", 
+        "Category": "membrane proteins", 
+        "Common Name": "TonB ferric siderophore transport system, periplasmic binding protein TonB [ Pseudomonas entomophila"
+    }, 
+    {
+        "Id": "BBa_K090000", 
+        "Category": "membrane proteins", 
+        "Common Name": "Glutamate gated K+ channel"
+    }, 
+    {
+        "Id": "BBa_K284000", 
+        "Category": "membrane proteins", 
+        "Common Name": "Lactate Permease from Kluyveromyces lactis"
+    }, 
+    {
+        "Id": "BBa_K284997", 
+        "Category": "membrane proteins", 
+        "Common Name": "Deletar este"
+    }, 
+    {
+        "Id": "BBa_K559000", 
+        "Category": "membrane proteins", 
+        "Common Name": "Halorhodopsin"
+    }, 
+    {
+        "Id": "BBa_K559001", 
+        "Category": "membrane proteins", 
+        "Common Name": "Halorhodopsin under T7 promoter"
+    }, 
+    {
+        "Id": "BBa_J22101", 
+        "Category": "membrane proteins", 
+        "Common Name": "Lac Y gene"
+    }, 
+    {
+        "Id": "BBa_K079015", 
+        "Category": "membrane proteins", 
+        "Common Name": "LacY transporter protein from E. coli"
+    }, 
+    {
+        "Id": "BBa_K119003", 
+        "Category": "membrane proteins", 
+        "Common Name": "RcnA (YohM)"
+    }, 
+    {
+        "Id": "BBa_K137001", 
+        "Category": "membrane proteins", 
+        "Common Name": "LacY"
+    }, 
+    {
+        "Id": "BBa_I712024", 
+        "Category": "membrane proteins", 
+        "Common Name": "CD4"
+    }, 
+    {
+        "Id": "BBa_K133061", 
+        "Category": "membrane proteins", 
+        "Common Name": "CD4ecto"
+    }, 
+    {
+        "Id": "BBa_K136046", 
+        "Category": "membrane proteins", 
+        "Common Name": "envZ*"
+    }, 
+    {
+        "Id": "BBa_K227006", 
+        "Category": "membrane proteins", 
+        "Common Name": "puc BA coding region of R. sphaeroides"
+    }, 
+    {
+        "Id": "BBa_K367000", 
+        "Category": "membrane proteins", 
+        "Common Name": "prhA coding sequence"
+    }, 
+    {
+        "Id": "BBa_M12067", 
+        "Category": "membrane proteins", 
+        "Common Name": "E1"
+    }, 
+    {
+        "Id": "BBa_I721002", 
+        "Category": "receptors/ligands", 
+        "Common Name": "Lead Binding Protein"
+    }, 
+    {
+        "Id": "BBa_K126000", 
+        "Category": "receptors/ligands", 
+        "Common Name": "TE33 Fab L chain"
+    }, 
+    {
+        "Id": "BBa_K133070", 
+        "Category": "receptors/ligands", 
+        "Common Name": "gyrEC"
+    }, 
+    {
+        "Id": "BBa_K133062", 
+        "Category": "receptors/ligands", 
+        "Common Name": "gyrHP"
+    }, 
+    {
+        "Id": "BBa_K211001", 
+        "Category": "receptors/ligands", 
+        "Common Name": "RI7"
+    }, 
+    {
+        "Id": "BBa_K211002", 
+        "Category": "receptors/ligands", 
+        "Common Name": "RI7-odr10 chimeric GPCR"
+    }, 
+    {
+        "Id": "BBa_K389001", 
+        "Category": "receptors/ligands", 
+        "Common Name": "VirA receptor"
+    }, 
+    {
+        "Id": "BBa_K103004", 
+        "Category": "receptors/ligands", 
+        "Common Name": "protein Z<sub>SPA-1</sub>"
+    }, 
+    {
+        "Id": "BBa_K128003", 
+        "Category": "receptors/ligands", 
+        "Common Name": "p1025"
+    }, 
+    {
+        "Id": "BBa_K133059", 
+        "Category": "receptors/ligands", 
+        "Common Name": "RGD"
+    }, 
+    {
+        "Id": "BBa_K283010", 
+        "Category": "receptors/ligands", 
+        "Common Name": "Streptavidin"
+    }, 
+    {
+        "Id": "BBa_K112000", 
+        "Category": "lysis protein", 
+        "Common Name": "T4 holin, complete CDS, berkeley standard"
+    }, 
+    {
+        "Id": "BBa_K112002", 
+        "Category": "lysis protein", 
+        "Common Name": "T4 holin, without stop codon, berkeley standard"
+    }, 
+    {
+        "Id": "BBa_K112004", 
+        "Category": "lysis protein", 
+        "Common Name": "a~T4 holin! in BBb"
+    }, 
+    {
+        "Id": "BBa_K112006", 
+        "Category": "lysis protein", 
+        "Common Name": "T4 antiholin! in BBb"
+    }, 
+    {
+        "Id": "BBa_K112009", 
+        "Category": "lysis protein", 
+        "Common Name": "<T4 antiholin> in BBb"
+    }, 
+    {
+        "Id": "BBa_K112010", 
+        "Category": "lysis protein", 
+        "Common Name": "a~T4 antiholin! in BBb"
+    }, 
+    {
+        "Id": "BBa_K112012", 
+        "Category": "lysis protein", 
+        "Common Name": "T4 lysozyme! in BBb"
+    }, 
+    {
+        "Id": "BBa_K112015", 
+        "Category": "lysis protein", 
+        "Common Name": "<T4 lysozyme> in BBb"
+    }, 
+    {
+        "Id": "BBa_K112016", 
+        "Category": "lysis protein", 
+        "Common Name": "a~T4 lysozyme! in BBb"
+    }, 
+    {
+        "Id": "BBa_K117000", 
+        "Category": "lysis protein", 
+        "Common Name": "Lysis gene (promotes lysis in colicin-producing bacteria strain)"
+    }, 
+    {
+        "Id": "BBa_K124014", 
+        "Category": "lysis protein", 
+        "Common Name": "Bacteriophage Holin Gene pS105"
+    }, 
+    {
+        "Id": "BBa_K108001", 
+        "Category": "lysis protein", 
+        "Common Name": "SRRz"
+    }, 
+    {
+        "Id": "BBa_K112300", 
+        "Category": "lysis protein", 
+        "Common Name": "{lambda lysozyme!} in BBb format"
+    }, 
+    {
+        "Id": "BBa_K112304", 
+        "Category": "lysis protein", 
+        "Common Name": "{a~lambda lysozyme!} in BBb format"
+    }, 
+    {
+        "Id": "BBa_K112306", 
+        "Category": "lysis protein", 
+        "Common Name": "{lambda holin!} in BBb format"
+    }, 
+    {
+        "Id": "BBa_K112310", 
+        "Category": "lysis protein", 
+        "Common Name": "{a~lambda holin!}; adheres to Berkeley standard"
+    }, 
+    {
+        "Id": "BBa_K112312", 
+        "Category": "lysis protein", 
+        "Common Name": "{lambda antiholin!}; adheres to Berkeley standard"
+    }, 
+    {
+        "Id": "BBa_K112316", 
+        "Category": "lysis protein", 
+        "Common Name": "{a~lambda antiholin!}; adheres to Berkeley standard"
+    }, 
+    {
+        "Id": "BBa_K124017", 
+        "Category": "lysis protein", 
+        "Common Name": "Bacteriophage Lysis Cassette S105, R, and Rz"
+    }, 
+    {
+        "Id": "BBa_K112806", 
+        "Category": "lysis protein", 
+        "Common Name": "[T4 endolysin] "
+    }, 
+    {
+        "Id": "BBa_K284001", 
+        "Category": "lysis protein", 
+        "Common Name": "Lysozyme from Gallus gallus"
+    }, 
+    {
+        "Id": "BBa_C0061", 
+        "Category": "biosynthesis", 
+        "Common Name": "autoinducer synthetase for AHL"
+    }, 
+    {
+        "Id": "BBa_C0060", 
+        "Category": "biosynthesis", 
+        "Common Name": "autoinducer inactivation enzyme from Bacillus; hydrolyzes acetyl homoserine lactone"
+    }, 
+    {
+        "Id": "BBa_C0070", 
+        "Category": "biosynthesis", 
+        "Common Name": "autoinducer synthetase for N-butyryl-HSL (BHL) and HHL"
+    }, 
+    {
+        "Id": "BBa_C0076", 
+        "Category": "biosynthesis", 
+        "Common Name": "autoinducer synthetase"
+    }, 
+    {
+        "Id": "BBa_C0078", 
+        "Category": "biosynthesis", 
+        "Common Name": "autoinducer synthetase for PAI from Pseudomonas aeruginosa"
+    }, 
+    {
+        "Id": "BBa_C0161", 
+        "Category": "biosynthesis", 
+        "Common Name": "autoinducer synthetase for AHL (no LVA)"
+    }, 
+    {
+        "Id": "BBa_C0170", 
+        "Category": "biosynthesis", 
+        "Common Name": "autoinducer synthetase for N-butyryl-HSL (BHL) and HHL (no LVA)"
+    }, 
+    {
+        "Id": "BBa_C0178", 
+        "Category": "biosynthesis", 
+        "Common Name": "autoinducer synthetase for PAI from Pseudomonas aeruginosa (no LVA)"
+    }, 
+    {
+        "Id": "BBa_K091109", 
+        "Category": "biosynthesis", 
+        "Common Name": "LuxS"
+    }, 
+    {
+        "Id": "BBa_C0060", 
+        "Category": "biosynthesis", 
+        "Common Name": "autoinducer inactivation enzyme from Bacillus; hydrolyzes acetyl homoserine lactone"
+    }, 
+    {
+        "Id": "BBa_C0160", 
+        "Category": "biosynthesis", 
+        "Common Name": "autoinducer inactivation enzyme aiiA (no LVA)"
+    }, 
+    {
+        "Id": "BBa_K118000", 
+        "Category": "biosynthesis", 
+        "Common Name": "dxs coding sequence encoding 1-deoxyxylulose-5-phosphate synthase"
+    }, 
+    {
+        "Id": "BBa_K115050", 
+        "Category": "biosynthesis", 
+        "Common Name": "A-coA -> AA-coA"
+    }, 
+    {
+        "Id": "BBa_K115056", 
+        "Category": "biosynthesis", 
+        "Common Name": "IPP -> OPP or DMAPP -> OPP"
+    }, 
+    {
+        "Id": "BBa_K115057", 
+        "Category": "biosynthesis", 
+        "Common Name": "OPP -> FPP"
+    }, 
+    {
+        "Id": "BBa_K118002", 
+        "Category": "biosynthesis", 
+        "Common Name": "crtB coding sequence encoding phytoene synthase"
+    }, 
+    {
+        "Id": "BBa_K118003", 
+        "Category": "biosynthesis", 
+        "Common Name": "crtI coding sequence encoding phytoene dehydrogenase"
+    }, 
+    {
+        "Id": "BBa_K118008", 
+        "Category": "biosynthesis", 
+        "Common Name": "crtY coding sequence encoding lycopene B-cyclase"
+    }, 
+    {
+        "Id": "BBa_K343001", 
+        "Category": "biosynthesis", 
+        "Common Name": "B-carotene monooxygenase, Produces retinal from B-carotene. ninaB gene from Drosophila."
+    }, 
+    {
+        "Id": "BBa_J45001", 
+        "Category": "biosynthesis", 
+        "Common Name": " SAM:salicylic acid carboxyl methyltransferase; converts salicylic acid to methyl salicylate (winter"
+    }, 
+    {
+        "Id": "BBa_J45002", 
+        "Category": "biosynthesis", 
+        "Common Name": "SAM:benzoic acid carboxyl methyltransferase; converts benzoic acid to methyl benzoate (floral odor)"
+    }, 
+    {
+        "Id": "BBa_J45004", 
+        "Category": "biosynthesis", 
+        "Common Name": "SAM:benzoic acid/salicylic acid carboxyl methyltransferase I; converts salicylic acid to methyl sali"
+    }, 
+    {
+        "Id": "BBa_J45008", 
+        "Category": "biosynthesis", 
+        "Common Name": "branched-chain amino acid transaminase (BAT2); converts leucine to alpha-ketoisocaproate"
+    }, 
+    {
+        "Id": "BBa_J45014", 
+        "Category": "biosynthesis", 
+        "Common Name": "alcohol acetyltransferase I; converts isoamyl alcohol to isoamyl acetate (banana odor)"
+    }, 
+    {
+        "Id": "BBa_J45017", 
+        "Category": "biosynthesis", 
+        "Common Name": "isochorismate pyruvate-lyase and isochorismate synthase (pchBA); converts chorismate to salicylate"
+    }, 
+    {
+        "Id": "BBa_I742107", 
+        "Category": "biosynthesis", 
+        "Common Name": "COMT"
+    }, 
+    {
+        "Id": "BBa_K125504", 
+        "Category": "biosynthesis", 
+        "Common Name": "phaE BioPlastic polyhydroxybutyrate synthesis pathway (origin PCC6803 slr1829) "
+    }, 
+    {
+        "Id": "BBa_K125501", 
+        "Category": "biosynthesis", 
+        "Common Name": "phaA BioPlastic polyhydroxybutyrate synthesis pathway (origin PCC6803 slr1994)"
+    }, 
+    {
+        "Id": "BBa_K125502", 
+        "Category": "biosynthesis", 
+        "Common Name": "phaB BioPlastic polyhydroxybutyrate synthesis pathway (origin PCC6803 slr1993)"
+    }, 
+    {
+        "Id": "BBa_K125503", 
+        "Category": "biosynthesis", 
+        "Common Name": "phaC BioPlastic polyhydroxybutyrate synthesis pathway (origin PCC6803 slr1830) "
+    }, 
+    {
+        "Id": "BBa_K156012", 
+        "Category": "biosynthesis", 
+        "Common Name": "phaA (acetyl-CoA acetyltransferase)"
+    }, 
+    {
+        "Id": "BBa_K156013", 
+        "Category": "biosynthesis", 
+        "Common Name": "phaB1 (acetyacetyl-CoA reductase)"
+    }, 
+    {
+        "Id": "BBa_K156014", 
+        "Category": "biosynthesis", 
+        "Common Name": "phaC1 (Poly(3-hydroxybutyrate) polymerase)"
+    }, 
+    {
+        "Id": "BBa_I725011", 
+        "Category": "biosynthesis", 
+        "Common Name": "B-hydroxy butyryl coA dehydrogenase "
+    }, 
+    {
+        "Id": "BBa_I72512", 
+        "Category": "biosynthesis", 
+        "Common Name": "Enoyl-coa hydratase"
+    }, 
+    {
+        "Id": "BBa_I725013", 
+        "Category": "biosynthesis", 
+        "Common Name": "Butyryl CoA dehyrogenase"
+    }, 
+    {
+        "Id": "BBa_I725014", 
+        "Category": "biosynthesis", 
+        "Common Name": "Butyraldehyde dehydrogenase"
+    }, 
+    {
+        "Id": "BBa_I725015", 
+        "Category": "biosynthesis", 
+        "Common Name": "Butanol dehydrogenase"
+    }, 
+    {
+        "Id": "BBa_K123001", 
+        "Category": "biosynthesis", 
+        "Common Name": "BisdB"
+    }, 
+    {
+        "Id": "BBa_K123000", 
+        "Category": "biosynthesis", 
+        "Common Name": "BisdA"
+    }, 
+    {
+        "Id": "BBa_K525007", 
+        "Category": "biosynthesis", 
+        "Common Name": "Fusion protein of S-Layer SgsE with T7/lac and BisdA and BisdB"
+    }, 
+    {
+        "Id": "BBa_K525515", 
+        "Category": "biosynthesis", 
+        "Common Name": "Fusion protein of BisdA and BisdB"
+    }, 
+    {
+        "Id": "BBa_K525008", 
+        "Category": "biosynthesis", 
+        "Common Name": "Fusion protein of S-Layer SbpA  with T7/lac and BisdA and BisdB"
+    }, 
+    {
+        "Id": "BBa_K525517", 
+        "Category": "biosynthesis", 
+        "Common Name": "Fusion protein of BisdA and BisdB behind constitutive promoter"
+    }, 
+    {
+        "Id": "BBa_K525582", 
+        "Category": "biosynthesis", 
+        "Common Name": "Fusion protein of NADP+ Oxidoreductase and BisdA and BisdB, polycistronic"
+    }, 
+    {
+        "Id": "BBa_K525562", 
+        "Category": "biosynthesis", 
+        "Common Name": "Fusion protein of NADP+ Oxidoreductase and BisdA and BisdB with middle strong promoter,RBS"
+    }, 
+    {
+        "Id": "BBa_K525499", 
+        "Category": "biosynthesis", 
+        "Common Name": "NADP+ Oxidoreductase from Escherichia coli"
+    }, 
+    {
+        "Id": "BBa_K123000", 
+        "Category": "biosynthesis", 
+        "Common Name": "BisdA"
+    }, 
+    {
+        "Id": "BBa_K123001", 
+        "Category": "biosynthesis", 
+        "Common Name": "BisdB"
+    }, 
+    {
+        "Id": "BBa_K118022", 
+        "Category": "biosynthesis", 
+        "Common Name": "cex coding sequence encoding Cellulomonas fimi exoglucanase"
+    }, 
+    {
+        "Id": "BBa_K118023", 
+        "Category": "biosynthesis", 
+        "Common Name": "cenA coding sequence encoding Cellulomonas fimi endoglucanase A"
+    }, 
+    {
+        "Id": "BBa_K118028", 
+        "Category": "biosynthesis", 
+        "Common Name": "beta-glucosidase gene bglX (chu_2268) from Cytophaga hutchinsonii"
+    }, 
+    {
+        "Id": "BBa_C0083", 
+        "Category": "biosynthesis", 
+        "Common Name": "aspartate ammonia-lyase"
+    }, 
+    {
+        "Id": "BBa_I15008", 
+        "Category": "biosynthesis", 
+        "Common Name": "heme oxygenase (ho1) from Synechocystis"
+    }, 
+    {
+        "Id": "BBa_I15009", 
+        "Category": "biosynthesis", 
+        "Common Name": "phycocyanobilin:ferredoxin oxidoreductase (PcyA) from synechocystis"
+    }, 
+    {
+        "Id": "BBa_T9150", 
+        "Category": "biosynthesis", 
+        "Common Name": "orotidine 5"
+    }, 
+    {
+        "Id": "BBa_I716153", 
+        "Category": "biosynthesis", 
+        "Common Name": "hemB"
+    }, 
+    {
+        "Id": "BBa_I716154", 
+        "Category": "biosynthesis", 
+        "Common Name": "hemC"
+    }, 
+    {
+        "Id": "BBa_I716155", 
+        "Category": "biosynthesis", 
+        "Common Name": "hemD"
+    }, 
+    {
+        "Id": "BBa_I716152", 
+        "Category": "biosynthesis", 
+        "Common Name": "hemA (from CFT703)"
+    }, 
+    {
+        "Id": "BBa_I742141", 
+        "Category": "biosynthesis", 
+        "Common Name": "sam5 (coumarate hydroxylase) coding sequence"
+    }, 
+    {
+        "Id": "BBa_I742142", 
+        "Category": "biosynthesis", 
+        "Common Name": "sam8 (tyrosine-ammonia lyase) coding sequence"
+    }, 
+    {
+        "Id": "BBa_I723024", 
+        "Category": "biosynthesis", 
+        "Common Name": "PhzM"
+    }, 
+    {
+        "Id": "BBa_I723025", 
+        "Category": "biosynthesis", 
+        "Common Name": "PhzS"
+    }, 
+    {
+        "Id": "BBa_K137005", 
+        "Category": "biosynthesis", 
+        "Common Name": "pabA (from pABA synthesis)"
+    }, 
+    {
+        "Id": "BBa_K137006", 
+        "Category": "biosynthesis", 
+        "Common Name": "pabB (from pABA synthesis)"
+    }, 
+    {
+        "Id": "BBa_K137009", 
+        "Category": "biosynthesis", 
+        "Common Name": "folB (dihydroneopterin aldolase)"
+    }, 
+    {
+        "Id": "BBa_K137011", 
+        "Category": "biosynthesis", 
+        "Common Name": "folKE (GTP Cyclohydrolase I + pyrophosphokinase)"
+    }, 
+    {
+        "Id": "BBa_K137017", 
+        "Category": "biosynthesis", 
+        "Common Name": "Galactose Oxidase"
+    }, 
+    {
+        "Id": "BBa_K118015", 
+        "Category": "biosynthesis", 
+        "Common Name": "glgC coding sequence encoding ADP-glucose pyrophosphorylase"
+    }, 
+    {
+        "Id": "BBa_K118016", 
+        "Category": "biosynthesis", 
+        "Common Name": "glgC16 (glgC with G336D substitution)"
+    }, 
+    {
+        "Id": "BBa_K123001", 
+        "Category": "biosynthesis", 
+        "Common Name": "BisdB"
+    }, 
+    {
+        "Id": "BBa_K108018", 
+        "Category": "biosynthesis", 
+        "Common Name": "PhbAB"
+    }, 
+    {
+        "Id": "BBa_K108026", 
+        "Category": "biosynthesis", 
+        "Common Name": "XylA"
+    }, 
+    {
+        "Id": "BBa_K108027", 
+        "Category": "biosynthesis", 
+        "Common Name": "XylM"
+    }, 
+    {
+        "Id": "BBa_K108028", 
+        "Category": "biosynthesis", 
+        "Common Name": "XylB"
+    }, 
+    {
+        "Id": "BBa_K108029", 
+        "Category": "biosynthesis", 
+        "Common Name": "XylS"
+    }, 
+    {
+        "Id": "BBa_K147003", 
+        "Category": "biosynthesis", 
+        "Common Name": "ohbA"
+    }, 
+    {
+        "Id": "BBa_K123000", 
+        "Category": "biosynthesis", 
+        "Common Name": "BisdA"
+    }, 
+    {
+        "Id": "BBa_K356000", 
+        "Category": "biosynthesis", 
+        "Common Name": "CAI-1 autoinducer synthase"
+    }, 
+    {
+        "Id": "BBa_K417000", 
+        "Category": "biosynthesis", 
+        "Common Name": "S-adenosyl methionine (SAM) synthetase"
+    }, 
+    {
+        "Id": "BBa_K332011", 
+        "Category": "biosynthesis", 
+        "Common Name": "Crystal protein gene (cry11Aa) from Bacillus thuringiensis subsp. Israelensis."
+    }, 
+    {
+        "Id": "BBa_K284999", 
+        "Category": "biosynthesis", 
+        "Common Name": "Deletar este tamb?m"
+    }, 
+    {
+        "Id": "BBa_K417001", 
+        "Category": "biosynthesis", 
+        "Common Name": "1-aminocyclopropane-1-carboxylate (ACC) synthase"
+    }, 
+    {
+        "Id": "BBa_K417002", 
+        "Category": "biosynthesis", 
+        "Common Name": "1-aminocyclopropane-1-carboxylate (ACC) oxidase"
+    }, 
+    {
+        "Id": "BBa_K653000", 
+        "Category": "biosynthesis", 
+        "Common Name": "Re-designing \"The Biosurfactator\" The first Central American BioBrick"
+    }, 
+    {
+        "Id": "BBa_I716253", 
+        "Category": "biosynthesis", 
+        "Common Name": "HPI, katG"
+    }, 
+    {
+        "Id": "BBa_K137000", 
+        "Category": "biosynthesis", 
+        "Common Name": "katE"
+    }, 
+    {
+        "Id": "BBa_K137014", 
+        "Category": "biosynthesis", 
+        "Common Name": "katE +LAA"
+    }, 
+    {
+        "Id": "BBa_K137067", 
+        "Category": "biosynthesis", 
+        "Common Name": "katG"
+    }, 
+    {
+        "Id": "BBa_K078102", 
+        "Category": "biosynthesis", 
+        "Common Name": "katG"
+    }, 
+    {
+        "Id": "BBa_K078003", 
+        "Category": "biosynthesis", 
+        "Common Name": "katG"
+    }, 
+    {
+        "Id": "BBa_K078005", 
+        "Category": "biosynthesis", 
+        "Common Name": "katG"
+    }, 
+    {
+        "Id": "BBa_K078006", 
+        "Category": "biosynthesis", 
+        "Common Name": "katG"
+    }, 
+    {
+        "Id": "BBa_K078007", 
+        "Category": "biosynthesis", 
+        "Common Name": "katG"
+    }, 
+    {
+        "Id": "BBa_K078008", 
+        "Category": "biosynthesis", 
+        "Common Name": "katG"
+    }, 
+    {
+        "Id": "BBa_K078009", 
+        "Category": "biosynthesis", 
+        "Common Name": "katG"
+    }, 
+    {
+        "Id": "BBa_K144000", 
+        "Category": "biosynthesis", 
+        "Common Name": "Lignin Peroxidase A"
+    }, 
+    {
+        "Id": "BBa_K156012", 
+        "Category": "biosynthesis", 
+        "Common Name": "phaA (acetyl-CoA acetyltransferase)"
+    }, 
+    {
+        "Id": "BBa_K174000", 
+        "Category": "biosynthesis", 
+        "Common Name": "SspB proteolysis chaperone"
+    }, 
+    {
+        "Id": "BBa_K398000", 
+        "Category": "biosynthesis", 
+        "Common Name": "Long-Chain Alkane Monooxygenase"
+    }, 
+    {
+        "Id": "BBa_K398006", 
+        "Category": "biosynthesis", 
+        "Common Name": "Medium-Chain Aldehyde Dehydrogenase"
+    }, 
+    {
+        "Id": "BBa_K398005", 
+        "Category": "biosynthesis", 
+        "Common Name": "Medium-Chain Alcohol Dehydrogenase"
+    }
+]

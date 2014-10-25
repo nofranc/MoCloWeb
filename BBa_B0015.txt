@@ -1,0 +1,112 @@
+ID: 202
+Name: BBa_B0015
+Short Name: B0015
+Short Description: double terminator (B0010-B0012)
+Type: Terminator
+Release Status: Released HQ 2013
+Rating: 1
+URL: http://parts.igem.org/Part:BBa_B0015
+Entered: 2003-07-17
+Author(s): Reshma Shetty
+Deep Subparts: 603BBa_B0010T1 from E. coli rrnBTerminator145BBa_B0012TE from coliphageT7Terminator
+Specified Subparts: 603BBa_B0010T1 from E. coli rrnBTerminator145BBa_B0012TE from coliphageT7Terminator
+Specified Subscars: 603BBa_B0010T1 from E. coli rrnBTerminator110ScarRFC[10][10]tactagag145BBa_B0012TE from coliphageT7Terminator
+Sequence: ccaggcatcaaataaaacgaaaggctcagtcgaaagactgggcctttcgttttatctgttgtttgtcggtgaacgctctc
+tactagagtcacactggctcaccttcgggtgggcctttctgcgtttata
+
+Parameters: 
+	Parameter #1
+		ID: 10066
+		Name: chassis
+		Value: E.coli
+		m_date: 2010-06-26 21:04:35
+		User's ID: 25
+		Username: randy
+	Parameter #2
+		ID: 5865
+		Name: forward_efficiency
+		Value: 0.984[CC]<BR>0.97[JK]
+		m_date: 2009-01-04 22:31:07
+		User's ID: 25
+		Username: randy
+	Parameter #3
+		ID: 5866
+		Name: reverse_efficiency
+		Value: 0.295[CC]<BR>0.62[JK]
+		m_date: 2009-01-04 22:31:07
+		User's ID: 25
+		Username: randy
+	Parameter #4
+		ID: 5867
+		Name: chassis
+		Value: NA
+		m_date: 2009-01-04 22:31:07
+		User's ID: 25
+		Username: randy
+	Parameter #5
+		ID: 5862
+		Name: forward_efficiency
+		Value: 0.984[CC]<BR>0.97[JK]
+		m_date: 2009-01-04 22:30:36
+		User's ID: 25
+		Username: randy
+	Parameter #6
+		ID: 5863
+		Name: reverse_efficiency
+		Value: 0.295[CC]/0.62[JK]
+		m_date: 2009-01-04 22:30:36
+		User's ID: 25
+		Username: randy
+	Parameter #7
+		ID: 5864
+		Name: chassis
+		Value: NA
+		m_date: 2009-01-04 22:30:36
+		User's ID: 25
+		Username: randy
+	Parameter #8
+		ID: 2410
+		Name: forward_efficiency
+		Value: 0.984[CC]/0.97[JK]
+		m_date: 2008-11-29 13:15:14
+		User's ID: 24
+		Username: registry
+	Parameter #9
+		ID: 2411
+		Name: reverse_efficiency
+		Value: 0.295[CC]/0.62[JK]
+		m_date: 2008-11-29 13:15:14
+		User's ID: 24
+		Username: registry
+	Parameter #10
+		ID: 2865
+		Name: direction
+		Value: Forward
+		m_date: 2008-11-29 13:15:14
+		User's ID: 24
+		Username: registry
+	Parameter #11
+		ID: 2866
+		Name: reversed_version
+		Value: 2146
+		m_date: 2008-11-29 13:15:14
+		User's ID: 24
+		Username: registry
+	Parameter #12
+		ID: 2867
+		Name: biology
+		Value: rrnBT1-T7TE
+		m_date: 2008-11-29 13:15:14
+		User's ID: 24
+		Username: registry
+Categories: 
+	//direction/forward
+	//terminator/double
+Twins: 
+	BBa_J34805
+	BBa_J70612
+	BBa_J72049
+	BBa_K783020
+	BBa_M36912
+	BBa_K1045009
+

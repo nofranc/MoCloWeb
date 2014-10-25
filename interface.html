@@ -8,92 +8,86 @@ October 2014
 	<head>
 		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 		<title>MoClo Web</title>
+
+		<link rel="stylesheet" type="text/css" href="css/moclo_style.css">
+		
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 		<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" />
 		<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
-		<style>
-			#level0, #level1, #level2{
-				border: 1px solid black;
-				text-align: center;
-				background-color: #fff;
-				position: fixed !important; 
-				bottom:0 !important;
-				top:auto !important;
-				width: 100%;
-				margin: 0;
-				left:0;
-			}
 
-			#level0 {
-				z-index:1;	
-				height: 31%;
-				height:188px;	
-			}
+		<script src="js/moclo.js"></script>
 
-			#level1{
-				z-index:2;
-				height:125px;
-			}
-
-			#level2{
-				z-index:3;
-				height:63px;
-			}
-		</style>
-		<script>
-			$(function(){
-				//use % by creating function to calculate depending on different screen resolutions
-				//current screen: 2560 x 1600, 227 pixels per inch
-				calculateMinHeight = function(i){
-					switch(i){
-						case 0:
-							return screen.height*0.235;
-							break;
-						case 1:
-							return screen.height*0.15625
-							break;
-						case 2:
-							return screen.height*0.07875
-							break;
-
-					}
-					
-				};
-
-				calculateMaxHeight = function(i){
-					switch(i){
-						case 0:
-							return screen.height*0.725							
-							break;
-						case 1:
-							return screen.height*0.65
-							break;
-						case 2:
-							return screen.height*0.575
-							break;
-
-					}
-					
-				};
-				$("#level0").resizable({handles: "n", minHeight: calculateMinHeight(0),  maxHeight: calculateMaxHeight(0)});
-				$("#level1").resizable({handles: "n", minHeight: calculateMinHeight(1), maxHeight:calculateMaxHeight(1)});
-				$("#level2").resizable({handles: "n", minHeight: calculateMinHeight(2), maxHeight:calculateMaxHeight(2)});
-			});
-		</script>
 	</head>
 	<body>
-		<div id="level0">
-			<h3>Level 0</h3>
+
+		<div id="datasheet"></div>
+
+		<!--Level 0-->
+		<div id="level0Panel">
+			<div id = "level0">
+				<div id="search">
+					<form action="" method="post">
+						<input type="text" name="search" id="searchBar">
+					</form>
+					<ul id="categories">
+					</ul>
+				</div>
+				<div id="tabs">
+					<span id="promTab">Promoters</span>
+					<span id="rbsTab">RBS</span>
+					<span id="cdsTab">CDS</span>
+					<span id="terminTab">Terminators</span>
+					<span id="allTab">Search All</span>
+				</div>
+				<ul id="parts"></ul>
+			</div>
 		</div>
-		<div id="level1">
-			<h3>Level 1</h3>
-			
+
+		<!--Level 1-->
+		<div id="level1Panel">
+			<div id="level1">
+				<div id="promoModules">
+					<div class="partType">P</div>
+					<div class="modules"></div>
+				</div>
+				<div id="rbsModules">
+					<div class="partType">R</div>
+					<div class="modules"></div>
+				</div>
+				<div id="cdsModules">
+					<div class="partType">C</div>
+					<div class="modules"></div>
+				</div>
+				<div id="terminModules">
+					<div class="partType">T</div>
+					<div class="modules"></div>
+				</div>
+			</div>
 		</div>
-		<div id="level2">
-			<h3>Level 2</h3>
+
+		<!--Level 2-->
+		<div id="level2Panel">
+			<div id="level2">
+				<div class="network">
+					<div id="promoterPH">
+						<div class="partType">P</div>
+						<div class="placeholder"></div>
+					</div>
+					<div id="rbsPH">
+						<div class="partType">R</div>
+						<div class="placeholder"></div>
+					</div>
+					<div id="cdsPH">
+						<div class="partType">C</div>
+						<div class="placeholder"></div>
+					</div>
+					<div id="terminatorPH">
+						<div class="partType">T</div>
+						<div class="placeholder"></div>
+					</div>
+				</div>
+			</div>
 		</div>
-		
-		
 		
 	</body>
 </html>
